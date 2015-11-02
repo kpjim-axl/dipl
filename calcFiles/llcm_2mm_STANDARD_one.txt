@@ -1,0 +1,2 @@
+#cores	gang	pos	print	time	command
+5	1	1	0	0	./bin/uniform/2mm_STANDARD ./results/2mm_STARNDARD.out 2

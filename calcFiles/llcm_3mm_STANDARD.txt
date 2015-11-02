@@ -1,0 +1,9 @@
+#cores	gang	pos	print	time	command
+5	1	1	0	0	./bin/uniform/3mm_STANDARD ./results/3mm_STARNDARD_1.out 2
+5	1	2	0	0	./bin/uniform/3mm_STANDARD ./results/3mm_STARNDARD_2.out 2
+5	2	1	0	0	./bin/uniform/3mm_STANDARD ./results/3mm_STARNDARD_3.out 2
+5	2	2	0	0	./bin/uniform/3mm_STANDARD ./results/3mm_STARNDARD_4.out 2
+5	3	1	0	0	./bin/uniform/3mm_STANDARD ./results/3mm_STARNDARD_5.out 2
+5	3	2	0	0	./bin/uniform/3mm_STANDARD ./results/3mm_STARNDARD_6.out 2
+5	4	1	0	0	./bin/uniform/3mm_STANDARD ./results/3mm_STARNDARD_7.out 2
+5	4	2	0	0	./bin/uniform/3mm_STANDARD ./results/3mm_STARNDARD_8.out 2

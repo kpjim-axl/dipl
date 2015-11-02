@@ -1,0 +1,2 @@
+#cores	in_gang	pos_in_gang	prn_report	start_time	cmd
+8	1	1	0	0	./bin/cholesky_1024 ./kpjim_results/llcm/cholesky_1024 70
