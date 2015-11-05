@@ -1,21 +1,26 @@
 2mm_STANDARD:
+	>> Γραμ. Αλγευρα: Πολ 2 πινάκων (D=AxB; E=CxD)
 	- υψηλό L3 REUSE (>630)
 	- χαμηλό L1 L2 REUSE
 	- 
 
 3mm_STANDARD:
+	>> Γραμ. Αλγευρα: Πολ 3 πινάκων (E=AxB; F=CxD; G=ExF)
 	- υψηλό L3 REUSE (>513)
 	- χαμηλό L1 L2 REUSE
 
 cholesky:
+	>> cholesky decomposition (linear algebra)
 	- υψηλό L3 REUSE (>280, >8000 μονο του)
 	- χαμηλό L2 REUSE
 
 doitget_STANDARD:
+	>> Multiresolution analysis kernel (MADNESS)
 	- χαμηλό L1, L3 REUSE
 	- υψηλό L2 (>280, >280 μόνο του)
 
 ep.A:
+	>> 
 	- υψηλό L3 REUSE (ξεκινά με 381- πιο κάτω μ.ο. 4500, μόνο του χτυπάει και 3M ή inf)
 	- χαμηλό L1M L2 REUSE
 
