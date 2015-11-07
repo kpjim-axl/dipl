@@ -1,4 +1,6 @@
 #!/bin/bash
+# dexetai orismata to dir pou vriskontai ta conf_files kai to dir pou tha topothethsei
+# ta counters_out. Ektelei to scaff gia kathe conf file
 
 if [ "$#" -ne "2" ]
 then
