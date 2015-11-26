@@ -1,0 +1,2 @@
+#cores	gang	pos	print	time	command
+8	1	1	0	0	./benchmarks_final/polybench-c-3.2/bin/correlation_parallel_1500
