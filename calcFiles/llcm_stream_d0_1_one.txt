@@ -1,2 +1,0 @@
-#cores	gang	pos	print	time	command
-5	1	1	0	0	./benchmarks_final/stream_d0_1 ./results/stream_d0_1.out 1

@@ -1,9 +1,0 @@
-#cores	in_gang	pos_in_gang	prn_report	start_time	cmd
-5	1	1	0	0	./bin/cholesky_1024 ./kpjim_results/llcm/cholesky_1024 70
-5	1	2	0	0	./bin/cholesky_1024 ./kpjim_results/llcm/cholesky_1024 70
-5	2	1	0	0	./bin/cholesky_1024 ./kpjim_results/llcm/cholesky_1024 70
-5	2	2	0	0	./bin/cholesky_1024 ./kpjim_results/llcm/cholesky_1024 70
-5	3	1	0	0	./bin/cholesky_1024 ./kpjim_results/llcm/cholesky_1024 60
-5	3	2	0	0	./bin/cholesky_1024 ./kpjim_results/llcm/cholesky_1024 60
-5	4	1	0	0	./bin/cholesky_1024 ./kpjim_results/llcm/cholesky_1024 60
-5	4	2	0	0	./bin/cholesky_1024 ./kpjim_results/llcm/cholesky_1024 60

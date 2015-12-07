@@ -1,2 +1,0 @@
-#cores	gang	pos	print	time	command
-5	1	1	0	0	./bin/uniform/jacLR ./results/jacLR_one_dummy.txt 30
