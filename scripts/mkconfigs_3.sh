@@ -9,7 +9,7 @@
 
 usage="Usage: $0 <sched | cosched> <config dir>" 
 
-CONFIG="./commands.config"
+CONFIG="./comms.conf"
 if [ $# -ne 2 ]
 then
 	echo $usage
