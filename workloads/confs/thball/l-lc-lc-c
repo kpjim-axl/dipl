@@ -1,0 +1,5 @@
+#cores	gang	pos	print	time	command
+4	570	1	1	0	./bin/jacLR results/jaclr-out 50
+4	290	1	1	0	./bin/uniform/durbin_STANDARD dummy.out 10
+4	460	1	1	0	./bin/uniform/gemver_STANDARD dummy.out 50
+4	1000	1	1	0	./bin/uniform/ft.A

@@ -1,0 +1,7 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+3789 	$./bin/uniform/trisolv_STANDARD dummy.out 90 	$8020 	$0.464328 	$3594151.833333 	$2.962166 	$2.696847 	$2.240362 	$     1.10 	$     1.20 	$ 1 	$ 8   
+3791 	$./bin/uniform/trmm_STANDARD dummy.out 70 	$13873 	$2.411205 	$594314.153846 	$21.546482 	$26.265271 	$0.365998 	$     0.82 	$   103.05 	$ 2 	$ 15   
+3793 	$./bin/uniform/gemm_STANDARD dummy.out 5 	$14395 	$0.372144 	$4391036.400000 	$23.735899 	$23.428702 	$0.305320 	$     1.01 	$   253.68 	$ 2 	$ 17   
+3787 	$./bin/uniform/syr2k_STANDARD dummy.out 20 	$15930 	$1.899083 	$3440534.588235 	$22.394474 	$20.381925 	$3.762153 	$     1.10 	$     5.48 	$ 1 	$ 19   
+3825 	$./bin/uniform/trmm_STANDARD dummy.out 70 	$3868 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 2 	$ 4   
+3831 	$./bin/uniform/gemm_STANDARD dummy.out 5 	$2772 	$-nan 	$inf 	$  -nan 	$  -nan 	$  -nan 	$      inf 	$     -nan 	$ 2 	$ 2   
