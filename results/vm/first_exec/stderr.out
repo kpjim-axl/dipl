@@ -1,0 +1,69 @@
+./run_all.sh: line 3:  1876 Segmentation fault      $1
+ream.16M 
+ ++++++++++++++++++++++++++
+
+
+Running ep.A.g 
+ ++++++++++++++++++++++++++
+
+
+Running 2mm_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running 3mm_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running cholesky_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running doitgen_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running gemm_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running gemver_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running gesummv_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running mvt_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running syr2k_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running syrk_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running trisolv_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running trmm_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running durbin_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running gramschmidt_STANDARD 
+ ++++++++++++++++++++++++++
+
+
+Running ft.A 
+ ++++++++++++++++++++++++++
+
+

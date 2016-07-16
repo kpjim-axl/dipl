@@ -1,0 +1,5 @@
+Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 1024 -smp 4 ~/images/kpjim_vm1/debia$  secs: $ 320533 $ cpu:$567326 
+ Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 1024 -smp 4 ~/images/kpjim_vm4/debia$  secs: $ 335381 $ cpu:$692285 
+ Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 1024 -smp 4 ~/images/kpjim_vm3/debia$  secs: $ 335448 $ cpu:$670002 
+ Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 1024 -smp 4 ~/images/kpjim_vm2/debia$  secs: $ 336437 $ cpu:$597732 
+ 

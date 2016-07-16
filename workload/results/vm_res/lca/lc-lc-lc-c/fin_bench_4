@@ -1,0 +1,30 @@
+STARTING gemm_STANDARD execution: Thu May  5 01:34:05 EEST 2016
+	1: Executing benchmark: gemm_STANDARD
+real 49.71
+user 197.89
+sys 0.20
+	2: Executing benchmark: gemm_STANDARD
+real 48.43
+user 193.15
+sys 0.11
+	3: Executing benchmark: gemm_STANDARD
+real 48.13
+user 191.93
+sys 0.11
+	4: Executing benchmark: gemm_STANDARD
+real 48.10
+user 191.90
+sys 0.10
+	5: Executing benchmark: gemm_STANDARD
+real 48.12
+user 191.93
+sys 0.09
+	6: Executing benchmark: gemm_STANDARD
+real 48.04
+user 191.53
+sys 0.10
+	7: Executing benchmark: gemm_STANDARD
+real 46.62
+user 185.98
+sys 0.10
+FINISHED gemm_STANDARD execution: Thu May  5 01:39:43 EEST 2016

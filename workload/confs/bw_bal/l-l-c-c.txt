@@ -1,0 +1,5 @@
+#cores	gang	pos	print	time	command
+4	1	1	1	0	./bin/uniform/ep.A.g
+4	1	2	1	0	./bin/uniform/stream_d0
+4	2	1	1	0	./bin/jacLR results/jaclr-out 50
+4	2	2	1	0	./bin/uniform/gemm_STANDARD dummy.out 5

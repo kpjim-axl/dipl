@@ -1,0 +1,42 @@
+STARTING mvt_STANDARD execution: Wed May  4 17:37:12 EEST 2016
+	1: Executing benchmark: mvt_STANDARD
+real 29.99
+user 88.92
+sys 0.34
+	2: Executing benchmark: mvt_STANDARD
+real 30.22
+user 86.18
+sys 0.23
+	3: Executing benchmark: mvt_STANDARD
+real 30.40
+user 89.92
+sys 0.19
+	4: Executing benchmark: mvt_STANDARD
+real 30.41
+user 87.94
+sys 0.20
+	5: Executing benchmark: mvt_STANDARD
+real 31.81
+user 92.53
+sys 0.21
+	6: Executing benchmark: mvt_STANDARD
+real 31.68
+user 86.12
+sys 0.15
+	7: Executing benchmark: mvt_STANDARD
+real 31.89
+user 100.75
+sys 0.18
+	8: Executing benchmark: mvt_STANDARD
+real 30.89
+user 91.98
+sys 0.22
+	9: Executing benchmark: mvt_STANDARD
+real 32.14
+user 90.86
+sys 0.16
+	10: Executing benchmark: mvt_STANDARD
+real 32.05
+user 88.61
+sys 0.14
+FINISHED mvt_STANDARD execution: Wed May  4 17:42:24 EEST 2016

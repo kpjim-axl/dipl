@@ -1,0 +1,90 @@
+Running jacLR
+Mon Apr 18 03:10:16 EEST 2016
+Mon Apr 18 03:10:29 EEST 2016
+jacLR ended
+
+Running stream.16M
+Mon Apr 18 03:10:29 EEST 2016
+Mon Apr 18 03:10:32 EEST 2016
+stream.16M ended
+
+Running ep.A.g
+Mon Apr 18 03:10:32 EEST 2016
+Mon Apr 18 03:10:42 EEST 2016
+ep.A.g ended
+
+Running 2mm_STANDARD
+Mon Apr 18 03:10:42 EEST 2016
+Mon Apr 18 03:11:01 EEST 2016
+2mm_STANDARD ended
+
+Running 3mm_STANDARD
+Mon Apr 18 03:11:01 EEST 2016
+Mon Apr 18 03:11:27 EEST 2016
+3mm_STANDARD ended
+
+Running cholesky_STANDARD
+Mon Apr 18 03:11:27 EEST 2016
+Mon Apr 18 03:11:34 EEST 2016
+cholesky_STANDARD ended
+
+Running doitgen_STANDARD
+Mon Apr 18 03:11:34 EEST 2016
+Mon Apr 18 03:11:49 EEST 2016
+doitgen_STANDARD ended
+
+Running gemm_STANDARD
+Mon Apr 18 03:11:49 EEST 2016
+Mon Apr 18 03:12:12 EEST 2016
+gemm_STANDARD ended
+
+Running gemver_STANDARD
+Mon Apr 18 03:12:12 EEST 2016
+Mon Apr 18 03:12:24 EEST 2016
+gemver_STANDARD ended
+
+Running gesummv_STANDARD
+Mon Apr 18 03:12:24 EEST 2016
+Mon Apr 18 03:12:31 EEST 2016
+gesummv_STANDARD ended
+
+Running mvt_STANDARD
+Mon Apr 18 03:12:31 EEST 2016
+Mon Apr 18 03:12:47 EEST 2016
+mvt_STANDARD ended
+
+Running syr2k_STANDARD
+Mon Apr 18 03:12:47 EEST 2016
+Mon Apr 18 03:13:03 EEST 2016
+syr2k_STANDARD ended
+
+Running syrk_STANDARD
+Mon Apr 18 03:13:03 EEST 2016
+Mon Apr 18 03:13:19 EEST 2016
+syrk_STANDARD ended
+
+Running trisolv_STANDARD
+Mon Apr 18 03:13:19 EEST 2016
+Mon Apr 18 03:13:26 EEST 2016
+trisolv_STANDARD ended
+
+Running trmm_STANDARD
+Mon Apr 18 03:13:26 EEST 2016
+Mon Apr 18 03:13:41 EEST 2016
+trmm_STANDARD ended
+
+Running durbin_STANDARD
+Mon Apr 18 03:13:41 EEST 2016
+Mon Apr 18 03:13:51 EEST 2016
+durbin_STANDARD ended
+
+Running gramschmidt_STANDARD
+Mon Apr 18 03:13:51 EEST 2016
+Mon Apr 18 03:14:13 EEST 2016
+gramschmidt_STANDARD ended
+
+Running ft.A
+Mon Apr 18 03:14:13 EEST 2016
+Mon Apr 18 03:14:16 EEST 2016
+ft.A ended
+

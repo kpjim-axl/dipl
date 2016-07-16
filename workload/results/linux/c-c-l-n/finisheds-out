@@ -1,0 +1,174 @@
+Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13161 $ cpu:$ 25370 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13140 $ cpu:$ 25336 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  31230 $ cpu:$ 62809 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  32580 $ cpu:$ 66391 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  40950 $ cpu:$ 82818 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  12800 $ cpu:$ 24183 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  12868 $ cpu:$ 24077 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  30529 $ cpu:$ 62690 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  32995 $ cpu:$ 67024 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14061 $ cpu:$ 27418 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14398 $ cpu:$ 30365 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  43044 $ cpu:$ 84778 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33383 $ cpu:$ 69868 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14076 $ cpu:$ 33527 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  33929 $ cpu:$ 65977 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13265 $ cpu:$ 26196 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14090 $ cpu:$ 27819 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  44856 $ cpu:$ 87700 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33744 $ cpu:$ 72811 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34768 $ cpu:$ 67413 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13503 $ cpu:$ 28261 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13447 $ cpu:$ 27731 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  32317 $ cpu:$ 66864 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34062 $ cpu:$ 67542 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13768 $ cpu:$ 27607 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  43288 $ cpu:$ 87645 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13457 $ cpu:$ 27494 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  31079 $ cpu:$ 67452 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13382 $ cpu:$ 27193 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34640 $ cpu:$ 69127 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14502 $ cpu:$ 30032 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  43958 $ cpu:$ 88467 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  32952 $ cpu:$ 69375 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14376 $ cpu:$ 29618 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  32898 $ cpu:$ 64874 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14163 $ cpu:$ 28001 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13096 $ cpu:$ 28069 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  43126 $ cpu:$ 85153 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33081 $ cpu:$ 67399 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13174 $ cpu:$ 25825 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34193 $ cpu:$ 67694 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13197 $ cpu:$ 24938 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33057 $ cpu:$ 67392 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14147 $ cpu:$ 31588 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  44587 $ cpu:$ 87055 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34969 $ cpu:$ 68143 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14384 $ cpu:$ 28757 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14028 $ cpu:$ 30485 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33976 $ cpu:$ 71626 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13948 $ cpu:$ 29898 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  35779 $ cpu:$ 68864 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  46102 $ cpu:$ 89266 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13219 $ cpu:$ 27212 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  32546 $ cpu:$ 68598 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14045 $ cpu:$ 27233 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  35769 $ cpu:$ 68494 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13631 $ cpu:$ 26834 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  42836 $ cpu:$ 87480 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  31634 $ cpu:$ 69763 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14831 $ cpu:$ 30939 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  33378 $ cpu:$ 68755 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13725 $ cpu:$ 28682 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  34145 $ cpu:$ 70184 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14139 $ cpu:$ 29282 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  44051 $ cpu:$ 86382 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13400 $ cpu:$ 28573 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  33842 $ cpu:$ 67026 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13007 $ cpu:$ 25077 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  31124 $ cpu:$ 64959 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13109 $ cpu:$ 25275 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  40156 $ cpu:$ 83051 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  33691 $ cpu:$ 67217 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14330 $ cpu:$ 28054 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  31988 $ cpu:$ 66142 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14049 $ cpu:$ 28978 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14213 $ cpu:$ 28281 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34064 $ cpu:$ 65317 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  41830 $ cpu:$ 84482 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  32072 $ cpu:$ 67070 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13002 $ cpu:$ 26615 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14027 $ cpu:$ 27788 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  32335 $ cpu:$ 67616 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14722 $ cpu:$ 30228 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  32592 $ cpu:$ 67394 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  42972 $ cpu:$ 86688 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14241 $ cpu:$ 27247 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  33333 $ cpu:$ 65290 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14465 $ cpu:$ 29948 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33346 $ cpu:$ 72631 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14148 $ cpu:$ 29067 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  44984 $ cpu:$ 89223 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34810 $ cpu:$ 68617 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13228 $ cpu:$ 24853 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  30787 $ cpu:$ 63101 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13084 $ cpu:$ 24993 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15702 $ cpu:$ 30821 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  33864 $ cpu:$ 67135 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  41727 $ cpu:$ 83596 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  31054 $ cpu:$ 67397 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  12244 $ cpu:$ 27872 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13371 $ cpu:$ 28730 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  35000 $ cpu:$ 66953 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14355 $ cpu:$ 33282 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33827 $ cpu:$ 69428 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  44315 $ cpu:$ 86186 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13235 $ cpu:$ 28278 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14719 $ cpu:$ 28229 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34114 $ cpu:$ 68394 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  37153 $ cpu:$ 75838 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13256 $ cpu:$ 28656 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  47761 $ cpu:$ 90867 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13760 $ cpu:$ 28181 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  33448 $ cpu:$ 68485 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13068 $ cpu:$ 25331 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33375 $ cpu:$ 69924 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14360 $ cpu:$ 29184 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  41988 $ cpu:$ 85220 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13751 $ cpu:$ 30983 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34356 $ cpu:$ 69199 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  36288 $ cpu:$ 74336 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14521 $ cpu:$ 30872 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14072 $ cpu:$ 26868 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  33507 $ cpu:$ 67419 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33108 $ cpu:$ 70600 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  45163 $ cpu:$ 89390 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13249 $ cpu:$ 25151 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14369 $ cpu:$ 27898 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  33674 $ cpu:$ 68406 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13514 $ cpu:$ 27864 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  31672 $ cpu:$ 65604 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13121 $ cpu:$ 25121 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  43406 $ cpu:$ 85303 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14725 $ cpu:$ 28840 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  33568 $ cpu:$ 69157 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  31286 $ cpu:$ 66824 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15014 $ cpu:$ 30045 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  45068 $ cpu:$ 87252 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14179 $ cpu:$ 27022 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  32800 $ cpu:$ 67503 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  34298 $ cpu:$ 70456 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13939 $ cpu:$ 30415 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14855 $ cpu:$ 26924 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  36549 $ cpu:$ 68576 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33564 $ cpu:$ 72673 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14296 $ cpu:$ 31499 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  46096 $ cpu:$ 91152 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15017 $ cpu:$ 31666 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15152 $ cpu:$ 30767 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34941 $ cpu:$ 66500 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  34718 $ cpu:$ 74967 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  42680 $ cpu:$ 88259 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13352 $ cpu:$ 26938 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13196 $ cpu:$ 25573 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  33952 $ cpu:$ 68236 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  32210 $ cpu:$ 66129 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  12440 $ cpu:$ 25886 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  12498 $ cpu:$ 26292 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  43832 $ cpu:$ 89283 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14750 $ cpu:$ 31335 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33657 $ cpu:$ 69470 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34019 $ cpu:$ 66001 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13005 $ cpu:$ 28372 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14806 $ cpu:$ 29029 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  33418 $ cpu:$ 69183 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  34022 $ cpu:$ 67071 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  48199 $ cpu:$ 94519 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13762 $ cpu:$ 29857 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14506 $ cpu:$ 30879 
+ Normal PROGRAM EXIT: $                          ./bin/uniform/doitgen_STANDARD dummy.out 100$  secs: $  35520 $ cpu:$ 75507 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  35079 $ cpu:$ 65373 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15075 $ cpu:$ 31813 
+ Normal PROGRAM EXIT: $                              ./bin/uniform/syrk_STANDARD dummy.out 40$  secs: $  44870 $ cpu:$ 88200 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  13773 $ cpu:$ 28937 
+ 

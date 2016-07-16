@@ -1,0 +1,46 @@
+STARTING trmm_STANDARD execution: Thu May  5 01:34:05 EEST 2016
+	1: Executing benchmark: trmm_STANDARD
+real 29.98
+user 118.46
+sys 0.80
+	2: Executing benchmark: trmm_STANDARD
+real 28.81
+user 114.20
+sys 0.60
+	3: Executing benchmark: trmm_STANDARD
+real 29.90
+user 115.35
+sys 0.74
+	4: Executing benchmark: trmm_STANDARD
+real 29.93
+user 117.57
+sys 0.67
+	5: Executing benchmark: trmm_STANDARD
+real 29.86
+user 118.21
+sys 0.76
+	6: Executing benchmark: trmm_STANDARD
+real 29.80
+user 118.11
+sys 0.67
+	7: Executing benchmark: trmm_STANDARD
+real 28.80
+user 114.16
+sys 0.67
+	8: Executing benchmark: trmm_STANDARD
+real 29.92
+user 118.49
+sys 0.68
+	9: Executing benchmark: trmm_STANDARD
+real 29.92
+user 114.25
+sys 0.70
+	10: Executing benchmark: trmm_STANDARD
+real 29.82
+user 118.16
+sys 0.62
+	11: Executing benchmark: trmm_STANDARD
+real 30.07
+user 117.18
+sys 0.56
+FINISHED trmm_STANDARD execution: Thu May  5 01:39:32 EEST 2016

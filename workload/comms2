@@ -1,0 +1,19 @@
+./scaff/bin/jacLR results/jaclr-out 50
+./scaff/bin/blackscholes 4 bin/in_10M.txt bsdummy
+./scaff/bin/uniform/stream_d0
+./scaff/bin/uniform/ep.A.g
+./scaff/bin/uniform/2mm_STANDARD dummy.out 2
+./scaff/bin/uniform/3mm_STANDARD dummy.out 2
+./scaff/bin/uniform/cholesky_STANDARD dummy.out 100
+./scaff/bin/uniform/doitgen_STANDARD dummy.out 100
+./scaff/bin/uniform/gemm_STANDARD dummy.out 5
+./scaff/bin/uniform/gemver_STANDARD dummy.out 50
+./scaff/bin/uniform/gesummv_STANDARD dummy.out 70
+./scaff/bin/uniform/mvt_STANDARD dummy.out 70
+./scaff/bin/uniform/syr2k_STANDARD dummy.out 20
+./scaff/bin/uniform/syrk_STANDARD dummy.out 40
+./scaff/bin/uniform/trisolv_STANDARD dummy.out 90
+./scaff/bin/uniform/trmm_STANDARD dummy.out 70
+./scaff/bin/uniform/durbin_STANDARD dummy.out 10
+./scaff/bin/uniform/gramschmidt_STANDARD dummy.out 10
+./scaff/bin/uniform/ft.A

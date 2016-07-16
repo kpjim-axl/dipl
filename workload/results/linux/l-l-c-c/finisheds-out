@@ -1,0 +1,49 @@
+Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15991 $ cpu:$ 28992 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  19547 $ cpu:$ 42590 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15367 $ cpu:$ 30964 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  35876 $ cpu:$ 71371 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  20924 $ cpu:$ 42454 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  16163 $ cpu:$ 30903 
+ Normal PROGRAM EXIT: $                                      ./bin/jacLR results/jaclr-out 50$  secs: $  52283 $ cpu:$109177 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15521 $ cpu:$ 31532 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  23413 $ cpu:$ 42255 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  37382 $ cpu:$ 73914 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15478 $ cpu:$ 30464 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  20744 $ cpu:$ 43128 
+ Normal PROGRAM EXIT: $                                      ./bin/jacLR results/jaclr-out 50$  secs: $  35993 $ cpu:$ 81495 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15742 $ cpu:$ 31410 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  20868 $ cpu:$ 42751 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  36682 $ cpu:$ 72893 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15257 $ cpu:$ 34230 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15568 $ cpu:$ 33263 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  22246 $ cpu:$ 42505 
+ Normal PROGRAM EXIT: $                                      ./bin/jacLR results/jaclr-out 50$  secs: $  51078 $ cpu:$108787 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  17016 $ cpu:$ 33055 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  37177 $ cpu:$ 69145 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  21068 $ cpu:$ 42729 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  16523 $ cpu:$ 30681 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  21682 $ cpu:$ 42800 
+ Normal PROGRAM EXIT: $                                      ./bin/jacLR results/jaclr-out 50$  secs: $  39259 $ cpu:$ 87502 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15626 $ cpu:$ 31171 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  36109 $ cpu:$ 73029 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  21095 $ cpu:$ 42476 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  16029 $ cpu:$ 31727 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  17069 $ cpu:$ 34339 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  21217 $ cpu:$ 41784 
+ Normal PROGRAM EXIT: $                                      ./bin/jacLR results/jaclr-out 50$  secs: $  42155 $ cpu:$ 89528 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  35934 $ cpu:$ 71970 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  14186 $ cpu:$ 31331 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  20019 $ cpu:$ 43154 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15955 $ cpu:$ 31308 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  36701 $ cpu:$ 73882 
+ Normal PROGRAM EXIT: $                                      ./bin/jacLR results/jaclr-out 50$  secs: $  37120 $ cpu:$ 74411 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  20853 $ cpu:$ 42000 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  16176 $ cpu:$ 32913 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15404 $ cpu:$ 33550 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  21897 $ cpu:$ 42627 
+ Normal PROGRAM EXIT: $                               ./bin/uniform/gemm_STANDARD dummy.out 5$  secs: $  37860 $ cpu:$ 73417 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  16533 $ cpu:$ 30920 
+ Normal PROGRAM EXIT: $                                      ./bin/jacLR results/jaclr-out 50$  secs: $  43386 $ cpu:$ 92844 
+ Normal PROGRAM EXIT: $                                                  ./bin/uniform/ep.A.g$  secs: $  20432 $ cpu:$ 42359 
+ Normal PROGRAM EXIT: $                                               ./bin/uniform/stream_d0$  secs: $  15015 $ cpu:$ 29968 
+ 

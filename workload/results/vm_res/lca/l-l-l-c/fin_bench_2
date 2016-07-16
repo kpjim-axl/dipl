@@ -1,0 +1,158 @@
+STARTING stream.16M execution: Wed May  4 16:10:44 EEST 2016
+	1: Executing benchmark: stream.16M
+real 6.29
+user 23.09
+sys 1.13
+	2: Executing benchmark: stream.16M
+real 7.92
+user 30.04
+sys 1.11
+	3: Executing benchmark: stream.16M
+real 7.91
+user 29.90
+sys 1.13
+	4: Executing benchmark: stream.16M
+real 7.90
+user 30.15
+sys 0.82
+	5: Executing benchmark: stream.16M
+real 7.88
+user 30.20
+sys 0.82
+	6: Executing benchmark: stream.16M
+real 7.89
+user 27.18
+sys 0.86
+	7: Executing benchmark: stream.16M
+real 6.82
+user 25.71
+sys 0.95
+	8: Executing benchmark: stream.16M
+real 7.90
+user 30.13
+sys 0.83
+	9: Executing benchmark: stream.16M
+real 7.88
+user 30.15
+sys 0.82
+	10: Executing benchmark: stream.16M
+real 7.88
+user 30.07
+sys 0.98
+	11: Executing benchmark: stream.16M
+real 7.91
+user 30.06
+sys 1.06
+	12: Executing benchmark: stream.16M
+real 7.94
+user 29.98
+sys 1.12
+	13: Executing benchmark: stream.16M
+real 7.78
+user 26.68
+sys 0.95
+	14: Executing benchmark: stream.16M
+real 7.93
+user 27.18
+sys 0.98
+	15: Executing benchmark: stream.16M
+real 6.93
+user 26.19
+sys 0.97
+	16: Executing benchmark: stream.16M
+real 7.91
+user 30.00
+sys 1.01
+	17: Executing benchmark: stream.16M
+real 7.91
+user 30.31
+sys 0.73
+	18: Executing benchmark: stream.16M
+real 7.88
+user 30.06
+sys 0.95
+	19: Executing benchmark: stream.16M
+real 7.88
+user 30.12
+sys 0.90
+	20: Executing benchmark: stream.16M
+real 7.87
+user 30.25
+sys 0.56
+	21: Executing benchmark: stream.16M
+real 7.89
+user 30.16
+sys 0.82
+	22: Executing benchmark: stream.16M
+real 7.88
+user 27.21
+sys 0.81
+	23: Executing benchmark: stream.16M
+real 6.90
+user 26.23
+sys 0.88
+	24: Executing benchmark: stream.16M
+real 7.91
+user 28.99
+sys 1.12
+	25: Executing benchmark: stream.16M
+real 7.92
+user 30.06
+sys 1.08
+	26: Executing benchmark: stream.16M
+real 7.78
+user 29.56
+sys 1.09
+	27: Executing benchmark: stream.16M
+real 7.93
+user 30.07
+sys 1.11
+	28: Executing benchmark: stream.16M
+real 7.90
+user 29.92
+sys 1.15
+	29: Executing benchmark: stream.16M
+real 7.92
+user 29.90
+sys 1.13
+	30: Executing benchmark: stream.16M
+real 7.90
+user 30.24
+sys 0.76
+	31: Executing benchmark: stream.16M
+real 7.88
+user 27.19
+sys 0.80
+	32: Executing benchmark: stream.16M
+real 6.81
+user 25.73
+sys 0.92
+	33: Executing benchmark: stream.16M
+real 7.91
+user 30.13
+sys 0.86
+	34: Executing benchmark: stream.16M
+real 7.89
+user 30.25
+sys 0.78
+	35: Executing benchmark: stream.16M
+real 7.91
+user 30.08
+sys 1.06
+	36: Executing benchmark: stream.16M
+real 7.90
+user 29.97
+sys 1.10
+	37: Executing benchmark: stream.16M
+real 7.94
+user 30.04
+sys 1.13
+	38: Executing benchmark: stream.16M
+real 7.77
+user 26.77
+sys 0.84
+	39: Executing benchmark: stream.16M
+real 7.93
+user 27.25
+sys 0.92
+FINISHED stream.16M execution: Wed May  4 16:15:47 EEST 2016

@@ -1,0 +1,5 @@
+#cores	gang	pos	print	time	command
+4	1	1	1	0	./bin/uniform/ft.A
+4	1	2	1	0	./bin/blackscholes 4 bin/in_10M.txt bsdummy
+4	2	1	1	0	./bin/uniform/doitgen_STANDARD dummy.out 100
+4	2	2	1	0	./bin/uniform/syr2k_STANDARD dummy.out 20

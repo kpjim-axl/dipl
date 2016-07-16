@@ -1,0 +1,14 @@
+STARTING blackscholes execution: Mon Jul 11 15:00:24 EEST 2016
+	1: Executing benchmark: blackscholes
+real 145.31
+user 455.12
+sys 11.06
+	2: Executing benchmark: blackscholes
+real 144.91
+user 451.94
+sys 9.37
+	3: Executing benchmark: blackscholes
+real 81.90
+user 231.13
+sys 3.78
+FINISHED blackscholes execution: Mon Jul 11 15:06:36 EEST 2016

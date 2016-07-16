@@ -1,0 +1,87 @@
+STARTING ep.A.g execution: Mon Jul 11 14:50:54 EEST 2016
+	1: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.56
+user 72.90
+sys 0.17
+	2: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.52
+user 70.25
+sys 0.20
+	3: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.25
+user 72.27
+sys 0.07
+	4: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 19.05
+user 72.09
+sys 0.04
+	5: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.78
+user 74.47
+sys 0.06
+	6: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.76
+user 74.26
+sys 0.13
+	7: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.32
+user 72.62
+sys 0.06
+	8: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.79
+user 74.46
+sys 0.08
+	9: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.34
+user 72.46
+sys 0.04
+	10: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.47
+user 73.46
+sys 0.04
+	11: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.84
+user 74.99
+sys 0.08
+	12: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.19
+user 71.98
+sys 0.06
+	13: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.40
+user 73.14
+sys 0.07
+	14: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.17
+user 71.92
+sys 0.04
+	15: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.39
+user 72.60
+sys 0.03
+	16: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 18.25
+user 71.67
+sys 0.08
+	17: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 13.48
+user 53.48
+sys 0.02
+FINISHED ep.A.g execution: Mon Jul 11 14:56:04 EEST 2016
