@@ -1,0 +1,3 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+57821 	$./bin/uniform/gesummv_STANDARD dummy.out 70 	$11681 	$0.432019 	$3722190.100000 	$4.044887 	$3.219983 	$3.094963 	$     1.26 	$     1.04 	$ 1 	$ 12   
+57823 	$./bin/jacLR results/jaclr-out 50 	$15431 	$0.505484 	$22745941.937500 	$12.566505 	$8.285507 	$8.127348 	$     1.53 	$     1.02 	$ 1 	$ 18   

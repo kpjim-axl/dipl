@@ -1,0 +1,15 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+50676 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$80 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50690 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$112 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50695 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$75 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50697 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$76 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50699 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$118 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50701 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$117 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50703 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$80 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50705 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$105 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50707 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$69 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50709 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$65 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50711 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$92 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50713 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$101 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50715 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$72 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50678 	$./bin/uniform/trmm_STANDARD dummy.out 70 	$13607 	$2.366202 	$581279.805556 	$17.560260 	$21.397844 	$0.561963 	$     0.81 	$      inf 	$ 1 	$ 38   

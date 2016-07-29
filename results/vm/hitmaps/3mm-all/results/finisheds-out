@@ -1,0 +1,4 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+9914 	$qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm2/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33332-:22 -nographic -monitor /dev/null 	$2069633 	$0.883487 	$5620729.631604 	$18.314436 	$10.951580 	$1.874654 	$     2.71 	$    62.91 	$ 1 	$ 2065   
+9912 	$qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm1/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33331-:22 -nographic -monitor /dev/null 	$2641096 	$0.217409 	$4337444.724478 	$22.941008 	$15.221661 	$0.278577 	$     1.54 	$   884.19 	$ 1 	$ 2637   
+10354 	$qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm2/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33332-:22 -nographic -monitor /dev/null 	$570778 	$-nan 	$990.836555 	$0.004061 	$0.004580 	$0.000100 	$     0.52 	$    44.18 	$ 1 	$ 571   

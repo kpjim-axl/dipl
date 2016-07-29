@@ -1,0 +1,3 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+61203 	$./bin/uniform/ft.A results/ft.a-out 	$4675 	$0.930137 	$19947532.000000 	$20.744094 	$4.184637 	$1.990452 	$     4.86 	$     2.04 	$ 1 	$ 5   
+61201 	$./bin/uniform/stream_d0 	$8339 	$0.638597 	$10380645.555556 	$9.359614 	$9.362632 	$9.165839 	$     1.00 	$     1.02 	$ 1 	$ 11   

@@ -1,0 +1,104 @@
+CMD 	==> TIME 	
+./bin/jacLR results/jaclr-out 50 	==> 13266 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 15584 	
+
+
+CMD 	==> TIME 	
+./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	==> 95 	
+./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	==> 46 	
+./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	==> 58 	
+./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	==> 60 	
+./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	==> 89 	
+./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	==> 53 	
+./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	==> 97 	
+./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	==> 60 	
+./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	==> 61 	
+./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	==> 57 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 10608 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/stream_d0 	==> 7422 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 15201 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/ep.A.g 	==> 10506 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11049 	
+
+
+CMD 	==> TIME 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11207 	
+./bin/uniform/3mm_STANDARD dummy.out 2 	==> 16191 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/cholesky_STANDARD dummy.out 100 	==> 6352 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11061 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11186 	
+./bin/uniform/doitgen_STANDARD dummy.out 100 	==> 14491 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11195 	
+./bin/uniform/gemm_STANDARD dummy.out 5 	==> 14191 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/gemver_STANDARD dummy.out 50 	==> 8604 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 12195 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/gesummv_STANDARD dummy.out 70 	==> 7337 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 12549 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/mvt_STANDARD dummy.out 70 	==> 10864 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11613 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11672 	
+./bin/uniform/syr2k_STANDARD dummy.out 20 	==> 15604 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11252 	
+./bin/uniform/syrk_STANDARD dummy.out 40 	==> 15111 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/trisolv_STANDARD dummy.out 90 	==> 7877 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11864 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11246 	
+./bin/uniform/trmm_STANDARD dummy.out 70 	==> 13786 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/durbin_STANDARD dummy.out 10 	==> 6418 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11142 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 10994 	
+./bin/uniform/gramschmidt_STANDARD dummy.out 10 	==> 12986 	
+
+
+CMD 	==> TIME 	
+./bin/uniform/ft.A results/ft.a-out 	==> 3170 	
+./bin/uniform/ft.A results/ft.a-out 	==> 3194 	
+./bin/uniform/ft.A results/ft.a-out 	==> 3211 	
+./bin/uniform/2mm_STANDARD dummy.out 2 	==> 11650 	
+
+

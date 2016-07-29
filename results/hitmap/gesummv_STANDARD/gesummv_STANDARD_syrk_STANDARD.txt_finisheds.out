@@ -1,0 +1,4 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+58011 	$./bin/uniform/gesummv_STANDARD dummy.out 70 	$7312 	$0.556457 	$3540274.666667 	$6.558877 	$5.190267 	$4.933246 	$     1.26 	$     1.05 	$ 1 	$ 8   
+58031 	$./bin/uniform/gesummv_STANDARD dummy.out 70 	$7274 	$0.556515 	$3540639.833333 	$6.555201 	$5.188530 	$4.930917 	$     1.26 	$     1.05 	$ 1 	$ 8   
+58013 	$./bin/uniform/syrk_STANDARD dummy.out 40 	$16411 	$2.344959 	$2899298.105263 	$19.755469 	$19.759131 	$1.255262 	$     1.00 	$   129.74 	$ 1 	$ 21   

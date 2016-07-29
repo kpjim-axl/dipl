@@ -1,0 +1,40 @@
+aff-executor-preload.c:affhooks_init()
+aff-executor-preload.c:affhooks_init()
+
+
+ NAS Parallel Benchmarks 2.3 OpenMP C version - FT Benchmark
+
+ Size                : 256x256x128
+ Iterations          :           6
+T =     1     Checksum =     5.046735008193e+02     5.114047905510e+02
+T =     2     Checksum =     5.059412319734e+02     5.098809666433e+02
+T =     3     Checksum =     5.069376896287e+02     5.098144042213e+02
+T =     4     Checksum =     5.077892868474e+02     5.101336130759e+02
+T =     5     Checksum =     5.085233095391e+02     5.104914655194e+02
+T =     6     Checksum =     5.091487099959e+02     5.107917842803e+02
+Result verification successful
+class = A
+
+
+ FT Benchmark Completed
+ Class           =                        A
+ Size            =              256x256x128
+ Iterations      =                        6
+ Threads         =                        4
+ Time in seconds =                     2.00
+ Mop/s total     =                  3560.18
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      2.3
+ Compile date    =              03 Mar 2015
+
+ Compile options:
+    CC           = gcc
+    CLINK        = gcc
+    C_LIB        = (none)
+    C_INC        = -I../common 
+    CFLAGS       = -Wall -O3 -fopenmp -mcmodel=medium #-g -O0
+    CLINKFLAGS   = -lm -lgomp
+    RAND         = randdp
+aff-executor-preload.c:affhooks_shut()
+HELLO KITTY

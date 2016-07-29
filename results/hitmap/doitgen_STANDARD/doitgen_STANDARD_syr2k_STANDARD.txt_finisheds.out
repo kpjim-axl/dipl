@@ -1,0 +1,3 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+52391 	$./bin/uniform/doitgen_STANDARD dummy.out 100 	$14839 	$1.668907 	$648535.846154 	$121.997616 	$0.412764 	$0.335286 	$   295.68 	$     1.23 	$ 1 	$ 15   
+52393 	$./bin/uniform/syr2k_STANDARD dummy.out 20 	$15412 	$1.997060 	$2694933.562500 	$24.376859 	$22.236925 	$2.828306 	$     1.10 	$     8.03 	$ 1 	$ 18   

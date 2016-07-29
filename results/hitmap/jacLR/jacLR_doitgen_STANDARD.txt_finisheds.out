@@ -1,0 +1,3 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+59284 	$./bin/jacLR results/jaclr-out 50 	$12928 	$0.580060 	$31114065.454545 	$15.376886 	$10.270141 	$9.975733 	$     1.50 	$     1.03 	$ 1 	$ 13   
+59286 	$./bin/uniform/doitgen_STANDARD dummy.out 100 	$15402 	$1.614494 	$605726.937500 	$111.963723 	$0.370491 	$0.306063 	$   312.07 	$     1.22 	$ 1 	$ 18   

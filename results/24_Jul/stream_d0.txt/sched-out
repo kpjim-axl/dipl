@@ -1,0 +1,84 @@
+NUMA is available
+set memset to 0-3
+creating cpuset: /dev/cpuset/AFF_1000 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1000
+Shared memory initialized
+forking prog: id:1000 time:0 pid:0 cpuset:[] idpath:/AFF_1000 cmd:./bin/uniform/stream_d0
+READY to execute:.. after fork with pid: 34497 
+READY to execute:.. after fork with pid: 0 
+/AFF_1000
+-----| Scheduler: llcm CPUS: 0,1,2,3,4,5,6,7
+initializing performance counting in cpus: [0, 1, 2, 3, 4, 5, 6, 7]
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+  STARTED RUNNING =>id:1000 time:0 pid:34498 cpuset:[0-7] idpath:/AFF_1000 cmd:./bin/uniform/stream_d0
+		 TICK [ 1 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+/AFF_1000
+Program: ./bin/uniform/stream_d0 added in gang id: 0
+Start execution of gang 0....
+Start execution of prog ./bin/uniform/stream_d0....
+		 TICK [ 2 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 0....
+/AFF_1000
+Program: ./bin/uniform/stream_d0 added in gang id: 1
+Start execution of gang 1....
+Start execution of prog ./bin/uniform/stream_d0....
+		 TICK [ 3 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 1....
+/AFF_1000
+Program: ./bin/uniform/stream_d0 added in gang id: 2
+Start execution of gang 2....
+Start execution of prog ./bin/uniform/stream_d0....
+		 TICK [ 4 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 2....
+/AFF_1000
+Program: ./bin/uniform/stream_d0 added in gang id: 3
+Start execution of gang 3....
+Start execution of prog ./bin/uniform/stream_d0....
+		 TICK [ 5 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 3....
+/AFF_1000
+Program: ./bin/uniform/stream_d0 added in gang id: 4
+Start execution of gang 4....
+Start execution of prog ./bin/uniform/stream_d0....
+		 TICK [ 6 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 4....
+/AFF_1000
+Program: ./bin/uniform/stream_d0 added in gang id: 5
+Start execution of gang 5....
+Start execution of prog ./bin/uniform/stream_d0....
+		 TICK [ 7 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 5....
+/AFF_1000
+Program: ./bin/uniform/stream_d0 added in gang id: 6
+Start execution of gang 6....
+Start execution of prog ./bin/uniform/stream_d0....
+SIGCHLD for pid=34497
+Normal exit [status:0] [secs:7.774180] [ticks:17110970947] id:1000 time:0 pid:34498 cpuset:[0-3] idpath:/AFF_1000 cmd:./bin/uniform/stream_d0
+STOP execution of gang 6....
+PROGRAM EXIT0: PID $34498 	$                                               ./bin/uniform/stream_d0 	$6776 	$0.716817 	$15894003.200000 	$13.332190 	$13.336108 	$13.054141 	$     1.00 	$     1.02 	$ 1   
+Start execution of gang 6....
+THE END: total running time: 7.789410 secs [17144491283 ticks]

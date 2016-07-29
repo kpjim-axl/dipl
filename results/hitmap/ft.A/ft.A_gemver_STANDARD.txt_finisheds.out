@@ -1,0 +1,4 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+54870 	$./bin/uniform/ft.A results/ft.a-out 	$3443 	$1.238297 	$27845099.000000 	$27.878390 	$5.252891 	$2.743651 	$     5.18 	$     1.87 	$ 1 	$ 4   
+54890 	$./bin/uniform/ft.A results/ft.a-out 	$3445 	$1.239159 	$28644120.500000 	$27.983327 	$4.807382 	$2.801851 	$     5.67 	$     1.71 	$ 1 	$ 4   
+54872 	$./bin/uniform/gemver_STANDARD dummy.out 50 	$8803 	$0.422453 	$10500602.363636 	$14.841601 	$11.453030 	$2.486839 	$     1.27 	$     5.12 	$ 1 	$ 13   

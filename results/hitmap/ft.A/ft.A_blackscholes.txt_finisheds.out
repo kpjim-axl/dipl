@@ -1,0 +1,5 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+54542 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$120 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+54557 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$73 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+54559 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$96 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+54540 	$./bin/uniform/ft.A results/ft.a-out 	$2953 	$1.202641 	$6474359.500000 	$18.182357 	$3.248890 	$1.772337 	$     4.60 	$   196.02 	$ 1 	$ 8   

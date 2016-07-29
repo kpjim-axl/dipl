@@ -1,0 +1,14 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+50205 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$79 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50219 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$47 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50224 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$40 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50226 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$56 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50228 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$53 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50230 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$51 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50232 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$93 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50234 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$56 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50236 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$48 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50238 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$63 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50240 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$36 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50242 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$43 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50207 	$./bin/uniform/gramschmidt_STANDARD dummy.out 10 	$12358 	$0.172342 	$1844.151515 	$11.244704 	$11.193557 	$0.000162 	$     1.00 	$      inf 	$ 1 	$ 35   
