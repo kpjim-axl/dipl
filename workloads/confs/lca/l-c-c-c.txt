@@ -1,5 +1,0 @@
-#cores	gang	pos	print	time	command
-4	1	1	0	0	./bin/uniform/stream_d0
-4	1	2	0	0	./bin/uniform/gramschmidt_STANDARD dummy.out 10
-4	2	1	0	0	./bin/uniform/syrk_STANDARD dummy.out 40
-4	2	2	0	0	./bin/uniform/2mm_STANDARD dummy.out 2

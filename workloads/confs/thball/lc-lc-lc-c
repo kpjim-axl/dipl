@@ -1,5 +1,0 @@
-#cores	gang	pos	print	time	command
-4	2010	1	1	0	./bin/uniform/syr2k_STANDARD dummy.out 20
-4	460	1	1	0	./bin/uniform/trisolv_STANDARD dummy.out 90
-4	2210	1	1	0	./bin/uniform/trmm_STANDARD dummy.out 70
-4	370	1	1	0	./bin/uniform/gemm_STANDARD dummy.out 5

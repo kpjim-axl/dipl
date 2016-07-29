@@ -1,5 +1,0 @@
-#cores	ipc_alone	axrhsto	axrhsto	time	command
-4	350	1	1	0	./bin/uniform/3mm_STANDARD dummy.out 2
-4	1920	1	1	0	./bin/uniform/cholesky_STANDARD dummy.out 100
-4	180	1	1	0	./bin/uniform/gramschmidt_STANDARD dummy.out 10
-4	360	1	1	0	./bin/uniform/2mm_STANDARD dummy.out 2

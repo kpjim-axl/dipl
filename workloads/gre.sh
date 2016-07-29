@@ -1,1 +1,0 @@
-cat ../scripts/comms | grep $1 >> mk_workloads.sh

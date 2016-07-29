@@ -1,7 +1,0 @@
-PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
-12619 	$./bin/uniform/gemver_STANDARD dummy.out 50 	$8498 	$0.464338 	$16258281.857143 	$17.640716 	$13.285900 	$3.028346 	$     1.33 	$     4.39 	$ 2 	$ 9   
-12617 	$./bin/uniform/ep.A.g 	$10469 	$0.761300 	$45441.200000 	$0.938646 	$0.985481 	$0.089740 	$     0.95 	$    14.85 	$ 1 	$ 12   
-12621 	$./bin/uniform/gramschmidt_STANDARD dummy.out 10 	$13332 	$0.180523 	$1614004.142857 	$13.010301 	$12.911854 	$0.123346 	$     1.01 	$   572.75 	$ 2 	$ 16   
-12615 	$./bin/uniform/gemm_STANDARD dummy.out 5 	$14243 	$0.373394 	$1217240.375000 	$22.113837 	$21.872380 	$0.115971 	$     1.01 	$   308.56 	$ 1 	$ 18   
-12650 	$./bin/uniform/ep.A.g 	$2149 	$0.788539 	$43149.000000 	$0.718332 	$0.748732 	$0.153764 	$     0.99 	$     4.94 	$ 1 	$ 5   
-12666 	$./bin/uniform/gramschmidt_STANDARD dummy.out 10 	$2148 	$-nan 	$-nan 	$   inf 	$  -nan 	$  -nan 	$      inf 	$     -nan 	$ 2 	$ 2   
