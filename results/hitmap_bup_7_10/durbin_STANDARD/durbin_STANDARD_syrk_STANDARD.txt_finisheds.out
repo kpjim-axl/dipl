@@ -1,0 +1,4 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+53318 	$./bin/uniform/durbin_STANDARD dummy.out 10 	$6481 	$0.290933 	$3627787.400000 	$6.768937 	$5.042402 	$0.607757 	$     1.34 	$     8.64 	$ 1 	$ 7   
+53338 	$./bin/uniform/durbin_STANDARD dummy.out 10 	$6483 	$0.290755 	$3601638.800000 	$6.725636 	$5.092103 	$0.606396 	$     1.32 	$     8.75 	$ 1 	$ 7   
+53320 	$./bin/uniform/syrk_STANDARD dummy.out 40 	$14853 	$2.510110 	$710527.058824 	$21.488166 	$21.487719 	$0.277537 	$     1.00 	$   110.13 	$ 1 	$ 19   

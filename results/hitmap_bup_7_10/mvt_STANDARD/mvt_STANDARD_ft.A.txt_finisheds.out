@@ -1,0 +1,4 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+60317 	$./bin/uniform/ft.A results/ft.a-out 	$3318 	$1.312821 	$28943230.000000 	$30.154339 	$5.102063 	$2.942193 	$     5.52 	$     1.69 	$ 1 	$ 4   
+60335 	$./bin/uniform/ft.A results/ft.a-out 	$3335 	$1.324936 	$28145938.000000 	$30.145923 	$5.344123 	$2.851949 	$     5.38 	$     1.83 	$ 1 	$ 4   
+60315 	$./bin/uniform/mvt_STANDARD dummy.out 70 	$11059 	$0.370515 	$11313795.307692 	$13.950058 	$11.992206 	$2.099176 	$     1.07 	$      inf 	$ 1 	$ 15   

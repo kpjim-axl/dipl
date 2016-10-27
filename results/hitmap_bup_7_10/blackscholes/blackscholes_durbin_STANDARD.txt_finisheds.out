@@ -1,0 +1,8 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+49832 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$84 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49846 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$42 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49851 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$51 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49853 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$47 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49855 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$103 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49857 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$48 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49834 	$./bin/uniform/durbin_STANDARD dummy.out 10 	$6061 	$0.219345 	$1234267.533333 	$5.429236 	$4.090250 	$0.422516 	$     1.33 	$   141.83 	$ 1 	$ 17   

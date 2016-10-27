@@ -1,0 +1,4 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+57582 	$./bin/uniform/ft.A results/ft.a-out 	$3480 	$1.242009 	$24662745.000000 	$28.124762 	$4.823487 	$2.545801 	$     5.64 	$     1.83 	$ 1 	$ 4   
+57606 	$./bin/uniform/ft.A results/ft.a-out 	$3512 	$1.214725 	$24139838.000000 	$27.247346 	$5.424000 	$2.503550 	$     4.87 	$     2.11 	$ 1 	$ 4   
+57580 	$./bin/uniform/gesummv_STANDARD dummy.out 70 	$7674 	$0.523689 	$2692825.444444 	$5.438192 	$4.305760 	$4.112668 	$     1.15 	$      inf 	$ 1 	$ 11   

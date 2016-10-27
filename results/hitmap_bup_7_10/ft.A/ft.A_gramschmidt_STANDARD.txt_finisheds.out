@@ -1,0 +1,6 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+54962 	$./bin/uniform/ft.A results/ft.a-out 	$3085 	$1.496516 	$28496038.000000 	$34.514788 	$6.024142 	$3.059718 	$     5.58 	$     1.95 	$ 1 	$ 4   
+54982 	$./bin/uniform/ft.A results/ft.a-out 	$3121 	$1.490636 	$28310373.000000 	$34.445836 	$5.948788 	$3.044074 	$     5.61 	$     1.92 	$ 1 	$ 4   
+54987 	$./bin/uniform/ft.A results/ft.a-out 	$3075 	$1.501764 	$28553951.000000 	$34.554991 	$5.870683 	$3.071015 	$     5.73 	$     1.90 	$ 1 	$ 4   
+54964 	$./bin/uniform/gramschmidt_STANDARD dummy.out 10 	$12867 	$0.182973 	$844850.235294 	$12.240034 	$12.178051 	$0.057554 	$     1.00 	$      inf 	$ 1 	$ 19   
+54992 	$./bin/uniform/ft.A results/ft.a-out 	$651 	$-nan 	$-nan 	$   inf 	$   inf 	$   inf 	$      inf 	$      inf 	$ 1 	$ 2   

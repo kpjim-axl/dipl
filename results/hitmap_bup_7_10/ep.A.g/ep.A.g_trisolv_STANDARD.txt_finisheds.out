@@ -1,0 +1,3 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+54335 	$./bin/uniform/trisolv_STANDARD dummy.out 90 	$7916 	$0.465252 	$3576726.166667 	$2.974948 	$2.706154 	$2.260482 	$     1.10 	$     1.20 	$ 1 	$ 8   
+54333 	$./bin/uniform/ep.A.g 	$10578 	$0.709619 	$119678.636364 	$0.875380 	$0.911417 	$0.158847 	$     0.96 	$      inf 	$ 1 	$ 13   

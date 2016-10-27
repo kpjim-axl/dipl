@@ -1,0 +1,24 @@
+	93: Executing benchmark: syrk_STANDARD
+real 15.92
+user 63.03
+sys 0.22
+	94: Executing benchmark: syrk_STANDARD
+real 15.97
+user 63.14
+sys 0.24
+	95: Executing benchmark: syrk_STANDARD
+real 15.90
+user 63.01
+sys 0.18
+	96: Executing benchmark: syrk_STANDARD
+real 15.95
+user 63.12
+sys 0.20
+	97: Executing benchmark: syrk_STANDARD
+real 15.94
+user 63.11
+sys 0.20
+	98: Executing benchmark: syrk_STANDARD
+real 15.92
+user 63.00
+sys 0.18

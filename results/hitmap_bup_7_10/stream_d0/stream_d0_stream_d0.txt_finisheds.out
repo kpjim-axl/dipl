@@ -1,0 +1,4 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+61560 	$./bin/uniform/stream_d0 	$13086 	$0.389059 	$9556730.750000 	$6.412191 	$6.414491 	$6.309321 	$     1.00 	$     1.02 	$ 1 	$ 14   
+61562 	$./bin/uniform/stream_d0 	$13088 	$0.389186 	$9553749.833333 	$6.413210 	$6.415458 	$6.310042 	$     1.00 	$     1.02 	$ 1 	$ 14   
+61580 	$./bin/uniform/stream_d0 	$2077 	$inf 	$inf 	$  -nan 	$  -nan 	$  -nan 	$      inf 	$     -nan 	$ 1 	$ 2   

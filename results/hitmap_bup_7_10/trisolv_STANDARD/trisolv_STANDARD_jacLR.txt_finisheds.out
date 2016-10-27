@@ -1,0 +1,3 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+64305 	$./bin/uniform/trisolv_STANDARD dummy.out 90 	$9077 	$0.423985 	$5684308.857143 	$2.647503 	$2.426945 	$1.974841 	$     1.09 	$     1.23 	$ 1 	$ 9   
+64307 	$./bin/jacLR results/jaclr-out 50 	$14611 	$0.528797 	$23908031.666667 	$12.865559 	$8.506065 	$8.328820 	$     1.53 	$     1.02 	$ 1 	$ 17   

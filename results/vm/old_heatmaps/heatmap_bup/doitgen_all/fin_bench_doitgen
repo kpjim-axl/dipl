@@ -1,0 +1,694 @@
+STARTING doitgen_STANDARD execution: Tue Jul 26 22:10:50 EEST 2016
+	2: Executing benchmark: doitgen_STANDARD
+real 16.77
+user 63.82
+sys 0.58
+	3: Executing benchmark: doitgen_STANDARD
+real 16.66
+user 63.67
+sys 0.62
+	4: Executing benchmark: doitgen_STANDARD
+real 16.73
+user 63.86
+sys 0.53
+	5: Executing benchmark: doitgen_STANDARD
+real 16.70
+user 63.82
+sys 0.57
+	6: Executing benchmark: doitgen_STANDARD
+real 16.71
+user 63.73
+sys 0.60
+	7: Executing benchmark: doitgen_STANDARD
+real 15.99
+user 61.31
+sys 0.52
+	8: Executing benchmark: doitgen_STANDARD
+real 14.66
+user 57.63
+sys 0.48
+	9: Executing benchmark: doitgen_STANDARD
+real 15.08
+user 59.21
+sys 0.43
+	10: Executing benchmark: doitgen_STANDARD
+real 15.24
+user 59.75
+sys 0.43
+	11: Executing benchmark: doitgen_STANDARD
+real 15.30
+user 59.72
+sys 0.42
+	12: Executing benchmark: doitgen_STANDARD
+real 15.17
+user 59.57
+sys 0.46
+	13: Executing benchmark: doitgen_STANDARD
+real 14.57
+user 57.28
+sys 0.46
+	14: Executing benchmark: doitgen_STANDARD
+real 14.77
+user 57.98
+sys 0.44
+	15: Executing benchmark: doitgen_STANDARD
+real 15.18
+user 59.59
+sys 0.48
+	16: Executing benchmark: doitgen_STANDARD
+real 15.24
+user 59.71
+sys 0.45
+	17: Executing benchmark: doitgen_STANDARD
+real 15.24
+user 59.69
+sys 0.52
+	18: Executing benchmark: doitgen_STANDARD
+real 14.88
+user 58.51
+sys 0.42
+	19: Executing benchmark: doitgen_STANDARD
+real 16.23
+user 61.59
+sys 0.55
+	20: Executing benchmark: doitgen_STANDARD
+real 16.56
+user 63.42
+sys 0.63
+	21: Executing benchmark: doitgen_STANDARD
+real 16.65
+user 63.46
+sys 0.59
+	22: Executing benchmark: doitgen_STANDARD
+real 16.62
+user 63.49
+sys 0.53
+	23: Executing benchmark: doitgen_STANDARD
+real 16.66
+user 63.65
+sys 0.55
+	24: Executing benchmark: doitgen_STANDARD
+real 16.20
+user 61.98
+sys 0.62
+	25: Executing benchmark: doitgen_STANDARD
+real 15.18
+user 59.30
+sys 0.45
+	26: Executing benchmark: doitgen_STANDARD
+real 15.41
+user 60.05
+sys 0.47
+	27: Executing benchmark: doitgen_STANDARD
+real 15.33
+user 59.93
+sys 0.45
+	28: Executing benchmark: doitgen_STANDARD
+real 15.39
+user 60.13
+sys 0.46
+	29: Executing benchmark: doitgen_STANDARD
+real 15.33
+user 59.96
+sys 0.44
+	30: Executing benchmark: doitgen_STANDARD
+real 15.31
+user 59.94
+sys 0.44
+	31: Executing benchmark: doitgen_STANDARD
+real 14.83
+user 58.36
+sys 0.44
+	32: Executing benchmark: doitgen_STANDARD
+real 15.28
+user 59.87
+sys 0.44
+	33: Executing benchmark: doitgen_STANDARD
+real 15.35
+user 59.87
+sys 0.44
+	34: Executing benchmark: doitgen_STANDARD
+real 15.26
+user 59.77
+sys 0.49
+	35: Executing benchmark: doitgen_STANDARD
+real 15.28
+user 59.87
+sys 0.45
+	36: Executing benchmark: doitgen_STANDARD
+real 15.30
+user 59.91
+sys 0.47
+	37: Executing benchmark: doitgen_STANDARD
+real 15.25
+user 59.79
+sys 0.48
+	38: Executing benchmark: doitgen_STANDARD
+real 14.93
+user 58.39
+sys 0.50
+	39: Executing benchmark: doitgen_STANDARD
+real 15.29
+user 59.91
+sys 0.42
+	40: Executing benchmark: doitgen_STANDARD
+real 15.29
+user 59.82
+sys 0.48
+	41: Executing benchmark: doitgen_STANDARD
+real 15.33
+user 60.05
+sys 0.34
+	42: Executing benchmark: doitgen_STANDARD
+real 15.42
+user 59.77
+sys 0.49
+	43: Executing benchmark: doitgen_STANDARD
+real 15.39
+user 60.17
+sys 0.47
+	44: Executing benchmark: doitgen_STANDARD
+real 15.29
+user 59.87
+sys 0.48
+	45: Executing benchmark: doitgen_STANDARD
+real 15.33
+user 59.85
+sys 0.58
+	46: Executing benchmark: doitgen_STANDARD
+real 14.88
+user 58.33
+sys 0.48
+	47: Executing benchmark: doitgen_STANDARD
+real 15.38
+user 59.98
+sys 0.52
+	48: Executing benchmark: doitgen_STANDARD
+real 15.40
+user 60.11
+sys 0.44
+	49: Executing benchmark: doitgen_STANDARD
+real 15.22
+user 59.75
+sys 0.39
+	50: Executing benchmark: doitgen_STANDARD
+real 15.23
+user 59.68
+sys 0.45
+	51: Executing benchmark: doitgen_STANDARD
+real 15.31
+user 59.87
+sys 0.47
+	52: Executing benchmark: doitgen_STANDARD
+real 14.94
+user 58.63
+sys 0.44
+	53: Executing benchmark: doitgen_STANDARD
+real 15.32
+user 60.03
+sys 0.38
+	54: Executing benchmark: doitgen_STANDARD
+real 15.27
+user 59.77
+sys 0.50
+	55: Executing benchmark: doitgen_STANDARD
+real 15.33
+user 59.89
+sys 0.46
+	56: Executing benchmark: doitgen_STANDARD
+real 15.25
+user 59.80
+sys 0.41
+	57: Executing benchmark: doitgen_STANDARD
+real 15.26
+user 59.77
+sys 0.46
+	58: Executing benchmark: doitgen_STANDARD
+real 15.32
+user 59.83
+sys 0.54
+	59: Executing benchmark: doitgen_STANDARD
+real 14.96
+user 58.73
+sys 0.42
+	60: Executing benchmark: doitgen_STANDARD
+real 15.24
+user 59.69
+sys 0.56
+	61: Executing benchmark: doitgen_STANDARD
+real 15.31
+user 59.89
+sys 0.51
+	62: Executing benchmark: doitgen_STANDARD
+real 15.29
+user 59.83
+sys 0.50
+	63: Executing benchmark: doitgen_STANDARD
+real 15.30
+user 59.89
+sys 0.42
+	64: Executing benchmark: doitgen_STANDARD
+real 15.26
+user 59.79
+sys 0.44
+	65: Executing benchmark: doitgen_STANDARD
+real 14.95
+user 58.53
+sys 0.50
+	66: Executing benchmark: doitgen_STANDARD
+real 15.24
+user 59.59
+sys 0.48
+	67: Executing benchmark: doitgen_STANDARD
+real 15.85
+user 59.69
+sys 0.48
+	68: Executing benchmark: doitgen_STANDARD
+real 15.23
+user 59.69
+sys 0.51
+	69: Executing benchmark: doitgen_STANDARD
+real 15.20
+user 59.64
+sys 0.50
+	70: Executing benchmark: doitgen_STANDARD
+real 15.21
+user 59.67
+sys 0.42
+	71: Executing benchmark: doitgen_STANDARD
+real 15.31
+user 59.95
+sys 0.44
+	72: Executing benchmark: doitgen_STANDARD
+real 14.88
+user 58.50
+sys 0.44
+	73: Executing benchmark: doitgen_STANDARD
+real 14.98
+user 58.74
+sys 0.46
+	74: Executing benchmark: doitgen_STANDARD
+real 15.04
+user 58.87
+sys 0.46
+	75: Executing benchmark: doitgen_STANDARD
+real 15.06
+user 58.90
+sys 0.47
+	76: Executing benchmark: doitgen_STANDARD
+real 15.02
+user 58.80
+sys 0.51
+	77: Executing benchmark: doitgen_STANDARD
+real 15.02
+user 58.86
+sys 0.47
+	78: Executing benchmark: doitgen_STANDARD
+real 15.56
+user 58.74
+sys 0.44
+	79: Executing benchmark: doitgen_STANDARD
+real 14.92
+user 58.57
+sys 0.44
+	80: Executing benchmark: doitgen_STANDARD
+real 15.16
+user 59.55
+sys 0.44
+	81: Executing benchmark: doitgen_STANDARD
+real 15.27
+user 59.58
+sys 0.48
+	82: Executing benchmark: doitgen_STANDARD
+real 15.16
+user 59.37
+sys 0.55
+	83: Executing benchmark: doitgen_STANDARD
+real 15.17
+user 59.45
+sys 0.47
+	84: Executing benchmark: doitgen_STANDARD
+real 15.24
+user 59.46
+sys 0.46
+	85: Executing benchmark: doitgen_STANDARD
+real 14.84
+user 58.22
+sys 0.47
+	86: Executing benchmark: doitgen_STANDARD
+real 15.56
+user 60.86
+sys 0.46
+	87: Executing benchmark: doitgen_STANDARD
+real 15.59
+user 60.93
+sys 0.54
+	88: Executing benchmark: doitgen_STANDARD
+real 15.75
+user 61.29
+sys 0.46
+	89: Executing benchmark: doitgen_STANDARD
+real 15.59
+user 60.73
+sys 0.59
+	90: Executing benchmark: doitgen_STANDARD
+real 15.60
+user 60.91
+sys 0.47
+	91: Executing benchmark: doitgen_STANDARD
+real 15.69
+user 61.03
+sys 0.48
+	92: Executing benchmark: doitgen_STANDARD
+real 15.23
+user 59.57
+sys 0.41
+	93: Executing benchmark: doitgen_STANDARD
+real 15.43
+user 60.28
+sys 0.48
+	94: Executing benchmark: doitgen_STANDARD
+real 15.35
+user 59.95
+sys 0.52
+	95: Executing benchmark: doitgen_STANDARD
+real 15.32
+user 60.10
+sys 0.45
+	96: Executing benchmark: doitgen_STANDARD
+real 15.50
+user 60.46
+sys 0.48
+	97: Executing benchmark: doitgen_STANDARD
+real 15.43
+user 60.19
+sys 0.48
+	98: Executing benchmark: doitgen_STANDARD
+real 15.49
+user 60.13
+sys 0.47
+	99: Executing benchmark: doitgen_STANDARD
+real 14.79
+user 57.95
+sys 0.48
+	100: Executing benchmark: doitgen_STANDARD
+real 14.71
+user 57.84
+sys 0.48
+	101: Executing benchmark: doitgen_STANDARD
+real 14.71
+user 57.72
+sys 0.49
+	102: Executing benchmark: doitgen_STANDARD
+real 14.71
+user 57.79
+sys 0.44
+	103: Executing benchmark: doitgen_STANDARD
+real 14.67
+user 57.72
+sys 0.39
+	104: Executing benchmark: doitgen_STANDARD
+real 14.71
+user 57.78
+sys 0.45
+	105: Executing benchmark: doitgen_STANDARD
+real 14.74
+user 57.83
+sys 0.48
+	106: Executing benchmark: doitgen_STANDARD
+real 14.83
+user 58.15
+sys 0.45
+	107: Executing benchmark: doitgen_STANDARD
+real 15.37
+user 60.07
+sys 0.47
+	108: Executing benchmark: doitgen_STANDARD
+real 15.32
+user 60.02
+sys 0.44
+	109: Executing benchmark: doitgen_STANDARD
+real 15.42
+user 60.15
+sys 0.48
+	110: Executing benchmark: doitgen_STANDARD
+real 15.53
+user 60.36
+sys 0.43
+	111: Executing benchmark: doitgen_STANDARD
+real 15.35
+user 59.96
+sys 0.52
+	112: Executing benchmark: doitgen_STANDARD
+real 14.85
+user 58.03
+sys 0.43
+	113: Executing benchmark: doitgen_STANDARD
+real 14.61
+user 57.32
+sys 0.52
+	114: Executing benchmark: doitgen_STANDARD
+real 14.59
+user 57.41
+sys 0.42
+	115: Executing benchmark: doitgen_STANDARD
+real 14.62
+user 57.35
+sys 0.50
+	116: Executing benchmark: doitgen_STANDARD
+real 14.59
+user 57.36
+sys 0.42
+	117: Executing benchmark: doitgen_STANDARD
+real 14.59
+user 57.41
+sys 0.44
+	118: Executing benchmark: doitgen_STANDARD
+real 14.51
+user 57.19
+sys 0.45
+	119: Executing benchmark: doitgen_STANDARD
+real 14.40
+user 56.73
+sys 0.38
+	120: Executing benchmark: doitgen_STANDARD
+real 14.79
+user 58.13
+sys 0.49
+	121: Executing benchmark: doitgen_STANDARD
+real 14.76
+user 58.11
+sys 0.53
+	122: Executing benchmark: doitgen_STANDARD
+real 14.93
+user 58.55
+sys 0.46
+	123: Executing benchmark: doitgen_STANDARD
+real 14.90
+user 58.44
+sys 0.48
+	124: Executing benchmark: doitgen_STANDARD
+real 14.90
+user 58.45
+sys 0.47
+	125: Executing benchmark: doitgen_STANDARD
+real 14.93
+user 58.47
+sys 0.47
+	126: Executing benchmark: doitgen_STANDARD
+real 14.89
+user 58.50
+sys 0.44
+	127: Executing benchmark: doitgen_STANDARD
+real 14.67
+user 57.77
+sys 0.36
+	128: Executing benchmark: doitgen_STANDARD
+real 15.15
+user 59.11
+sys 0.53
+	129: Executing benchmark: doitgen_STANDARD
+real 15.26
+user 59.58
+sys 0.41
+	130: Executing benchmark: doitgen_STANDARD
+real 15.23
+user 59.33
+sys 0.54
+	131: Executing benchmark: doitgen_STANDARD
+real 15.25
+user 59.49
+sys 0.55
+	132: Executing benchmark: doitgen_STANDARD
+real 15.32
+user 59.76
+sys 0.41
+	133: Executing benchmark: doitgen_STANDARD
+real 15.12
+user 59.17
+sys 0.45
+	134: Executing benchmark: doitgen_STANDARD
+real 14.51
+user 57.19
+sys 0.38
+	135: Executing benchmark: doitgen_STANDARD
+real 14.53
+user 57.21
+sys 0.42
+	136: Executing benchmark: doitgen_STANDARD
+real 14.41
+user 56.53
+sys 0.46
+	137: Executing benchmark: doitgen_STANDARD
+real 14.41
+user 56.44
+sys 0.46
+	138: Executing benchmark: doitgen_STANDARD
+real 14.47
+user 56.66
+sys 0.42
+	139: Executing benchmark: doitgen_STANDARD
+real 14.34
+user 56.05
+sys 0.48
+	140: Executing benchmark: doitgen_STANDARD
+real 14.24
+user 55.75
+sys 0.47
+	141: Executing benchmark: doitgen_STANDARD
+real 14.20
+user 55.61
+sys 0.52
+	142: Executing benchmark: doitgen_STANDARD
+real 14.17
+user 55.57
+sys 0.47
+	143: Executing benchmark: doitgen_STANDARD
+real 14.22
+user 55.60
+sys 0.52
+	144: Executing benchmark: doitgen_STANDARD
+real 14.45
+user 56.52
+sys 0.48
+	145: Executing benchmark: doitgen_STANDARD
+real 14.35
+user 56.22
+sys 0.42
+	146: Executing benchmark: doitgen_STANDARD
+real 14.47
+user 56.46
+sys 0.47
+	147: Executing benchmark: doitgen_STANDARD
+real 14.43
+user 56.23
+sys 0.53
+	148: Executing benchmark: doitgen_STANDARD
+real 14.59
+user 56.74
+sys 0.48
+	149: Executing benchmark: doitgen_STANDARD
+real 14.46
+user 56.52
+sys 0.43
+	150: Executing benchmark: doitgen_STANDARD
+real 14.29
+user 56.09
+sys 0.40
+	151: Executing benchmark: doitgen_STANDARD
+real 14.14
+user 55.65
+sys 0.44
+	152: Executing benchmark: doitgen_STANDARD
+real 14.29
+user 55.95
+sys 0.40
+	153: Executing benchmark: doitgen_STANDARD
+real 14.34
+user 56.23
+sys 0.46
+	154: Executing benchmark: doitgen_STANDARD
+real 14.53
+user 56.64
+sys 0.45
+	155: Executing benchmark: doitgen_STANDARD
+real 14.55
+user 56.85
+sys 0.39
+	156: Executing benchmark: doitgen_STANDARD
+real 14.51
+user 56.53
+sys 0.49
+	157: Executing benchmark: doitgen_STANDARD
+real 14.54
+user 56.80
+sys 0.40
+	158: Executing benchmark: doitgen_STANDARD
+real 14.38
+user 56.31
+sys 0.49
+	159: Executing benchmark: doitgen_STANDARD
+real 14.48
+user 56.49
+sys 0.40
+	160: Executing benchmark: doitgen_STANDARD
+real 14.41
+user 56.09
+sys 0.52
+	161: Executing benchmark: doitgen_STANDARD
+real 14.37
+user 56.00
+sys 0.44
+	162: Executing benchmark: doitgen_STANDARD
+real 14.39
+user 56.32
+sys 0.46
+	163: Executing benchmark: doitgen_STANDARD
+real 14.52
+user 56.82
+sys 0.52
+	164: Executing benchmark: doitgen_STANDARD
+real 14.46
+user 56.53
+sys 0.47
+	165: Executing benchmark: doitgen_STANDARD
+real 15.18
+user 56.38
+sys 0.46
+	166: Executing benchmark: doitgen_STANDARD
+real 14.39
+user 56.21
+sys 0.42
+	167: Executing benchmark: doitgen_STANDARD
+real 14.27
+user 56.03
+sys 0.38
+	168: Executing benchmark: doitgen_STANDARD
+real 14.27
+user 55.87
+sys 0.42
+	169: Executing benchmark: doitgen_STANDARD
+real 14.37
+user 56.14
+sys 0.44
+	170: Executing benchmark: doitgen_STANDARD
+real 14.23
+user 55.67
+sys 0.39
+	171: Executing benchmark: doitgen_STANDARD
+real 14.22
+user 55.47
+sys 0.38
+	172: Executing benchmark: doitgen_STANDARD
+real 14.54
+user 56.76
+sys 0.40
+	173: Executing benchmark: doitgen_STANDARD
+real 14.40
+user 56.15
+sys 0.54
+	174: Executing benchmark: doitgen_STANDARD
+real 14.45
+user 56.50
+sys 0.37
+FINISHED doitgen_STANDARD execution: Tue Jul 26 22:54:18 EEST 2016

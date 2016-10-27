@@ -1,0 +1,630 @@
+STARTING syr2k_STANDARD execution: Wed Jul 27 19:06:30 EEST 2016
+	2: Executing benchmark: syr2k_STANDARD
+real 25.24
+user 99.77
+sys 0.09
+	3: Executing benchmark: syr2k_STANDARD
+real 26.13
+user 103.63
+sys 0.09
+	4: Executing benchmark: syr2k_STANDARD
+real 26.14
+user 103.68
+sys 0.09
+	5: Executing benchmark: syr2k_STANDARD
+real 26.22
+user 103.97
+sys 0.08
+	6: Executing benchmark: syr2k_STANDARD
+real 16.25
+user 64.36
+sys 0.05
+	7: Executing benchmark: syr2k_STANDARD
+real 15.88
+user 63.09
+sys 0.05
+	8: Executing benchmark: syr2k_STANDARD
+real 16.25
+user 64.71
+sys 0.04
+	9: Executing benchmark: syr2k_STANDARD
+real 16.26
+user 64.77
+sys 0.03
+	10: Executing benchmark: syr2k_STANDARD
+real 16.27
+user 64.79
+sys 0.04
+	11: Executing benchmark: syr2k_STANDARD
+real 15.70
+user 62.46
+sys 0.04
+	12: Executing benchmark: syr2k_STANDARD
+real 15.65
+user 62.26
+sys 0.04
+	13: Executing benchmark: syr2k_STANDARD
+real 16.26
+user 64.74
+sys 0.04
+	14: Executing benchmark: syr2k_STANDARD
+real 16.27
+user 64.75
+sys 0.05
+	15: Executing benchmark: syr2k_STANDARD
+real 16.26
+user 64.74
+sys 0.04
+	16: Executing benchmark: syr2k_STANDARD
+real 15.75
+user 62.65
+sys 0.06
+	17: Executing benchmark: syr2k_STANDARD
+real 21.73
+user 86.29
+sys 0.05
+	18: Executing benchmark: syr2k_STANDARD
+real 24.14
+user 95.64
+sys 0.10
+	19: Executing benchmark: syr2k_STANDARD
+real 23.76
+user 94.30
+sys 0.07
+	20: Executing benchmark: syr2k_STANDARD
+real 23.75
+user 94.14
+sys 0.10
+	21: Executing benchmark: syr2k_STANDARD
+real 17.26
+user 68.45
+sys 0.09
+	22: Executing benchmark: syr2k_STANDARD
+real 16.50
+user 65.44
+sys 0.05
+	23: Executing benchmark: syr2k_STANDARD
+real 16.37
+user 65.09
+sys 0.03
+	24: Executing benchmark: syr2k_STANDARD
+real 16.43
+user 65.29
+sys 0.06
+	25: Executing benchmark: syr2k_STANDARD
+real 16.39
+user 65.13
+sys 0.04
+	26: Executing benchmark: syr2k_STANDARD
+real 16.40
+user 65.29
+sys 0.04
+	27: Executing benchmark: syr2k_STANDARD
+real 16.06
+user 63.93
+sys 0.04
+	28: Executing benchmark: syr2k_STANDARD
+real 16.48
+user 65.54
+sys 0.04
+	29: Executing benchmark: syr2k_STANDARD
+real 16.48
+user 65.59
+sys 0.04
+	30: Executing benchmark: syr2k_STANDARD
+real 16.50
+user 65.68
+sys 0.03
+	31: Executing benchmark: syr2k_STANDARD
+real 16.48
+user 65.59
+sys 0.04
+	32: Executing benchmark: syr2k_STANDARD
+real 16.44
+user 65.44
+sys 0.02
+	33: Executing benchmark: syr2k_STANDARD
+real 16.51
+user 65.69
+sys 0.04
+	34: Executing benchmark: syr2k_STANDARD
+real 16.01
+user 63.69
+sys 0.04
+	35: Executing benchmark: syr2k_STANDARD
+real 16.47
+user 65.55
+sys 0.03
+	36: Executing benchmark: syr2k_STANDARD
+real 16.48
+user 65.61
+sys 0.03
+	37: Executing benchmark: syr2k_STANDARD
+real 16.48
+user 65.64
+sys 0.03
+	38: Executing benchmark: syr2k_STANDARD
+real 16.52
+user 65.78
+sys 0.04
+	39: Executing benchmark: syr2k_STANDARD
+real 16.54
+user 65.77
+sys 0.03
+	40: Executing benchmark: syr2k_STANDARD
+real 16.48
+user 65.59
+sys 0.03
+	41: Executing benchmark: syr2k_STANDARD
+real 16.07
+user 63.98
+sys 0.03
+	42: Executing benchmark: syr2k_STANDARD
+real 16.57
+user 65.78
+sys 0.03
+	43: Executing benchmark: syr2k_STANDARD
+real 16.49
+user 65.55
+sys 0.03
+	44: Executing benchmark: syr2k_STANDARD
+real 16.51
+user 65.60
+sys 0.05
+	45: Executing benchmark: syr2k_STANDARD
+real 16.53
+user 65.72
+sys 0.05
+	46: Executing benchmark: syr2k_STANDARD
+real 16.54
+user 65.70
+sys 0.04
+	47: Executing benchmark: syr2k_STANDARD
+real 16.04
+user 63.73
+sys 0.05
+	48: Executing benchmark: syr2k_STANDARD
+real 16.33
+user 64.83
+sys 0.06
+	49: Executing benchmark: syr2k_STANDARD
+real 16.34
+user 64.88
+sys 0.06
+	50: Executing benchmark: syr2k_STANDARD
+real 16.38
+user 64.99
+sys 0.04
+	51: Executing benchmark: syr2k_STANDARD
+real 16.33
+user 64.82
+sys 0.03
+	52: Executing benchmark: syr2k_STANDARD
+real 16.38
+user 65.02
+sys 0.04
+	53: Executing benchmark: syr2k_STANDARD
+real 15.96
+user 63.42
+sys 0.05
+	54: Executing benchmark: syr2k_STANDARD
+real 16.53
+user 65.76
+sys 0.04
+	55: Executing benchmark: syr2k_STANDARD
+real 16.52
+user 65.70
+sys 0.04
+	56: Executing benchmark: syr2k_STANDARD
+real 16.53
+user 65.71
+sys 0.05
+	57: Executing benchmark: syr2k_STANDARD
+real 16.52
+user 65.63
+sys 0.05
+	58: Executing benchmark: syr2k_STANDARD
+real 16.50
+user 65.64
+sys 0.04
+	59: Executing benchmark: syr2k_STANDARD
+real 16.26
+user 64.62
+sys 0.04
+	60: Executing benchmark: syr2k_STANDARD
+real 16.75
+user 66.67
+sys 0.04
+	61: Executing benchmark: syr2k_STANDARD
+real 16.93
+user 67.41
+sys 0.04
+	62: Executing benchmark: syr2k_STANDARD
+real 16.90
+user 67.26
+sys 0.04
+	63: Executing benchmark: syr2k_STANDARD
+real 16.92
+user 67.34
+sys 0.03
+	64: Executing benchmark: syr2k_STANDARD
+real 16.93
+user 67.36
+sys 0.04
+	65: Executing benchmark: syr2k_STANDARD
+real 16.91
+user 67.31
+sys 0.04
+	66: Executing benchmark: syr2k_STANDARD
+real 16.38
+user 65.15
+sys 0.04
+	67: Executing benchmark: syr2k_STANDARD
+real 16.87
+user 67.10
+sys 0.04
+	68: Executing benchmark: syr2k_STANDARD
+real 16.90
+user 67.21
+sys 0.04
+	69: Executing benchmark: syr2k_STANDARD
+real 16.94
+user 67.34
+sys 0.06
+	70: Executing benchmark: syr2k_STANDARD
+real 16.93
+user 67.33
+sys 0.04
+	71: Executing benchmark: syr2k_STANDARD
+real 16.95
+user 67.36
+sys 0.04
+	72: Executing benchmark: syr2k_STANDARD
+real 16.07
+user 63.96
+sys 0.03
+	73: Executing benchmark: syr2k_STANDARD
+real 16.58
+user 66.00
+sys 0.04
+	74: Executing benchmark: syr2k_STANDARD
+real 16.63
+user 66.21
+sys 0.02
+	75: Executing benchmark: syr2k_STANDARD
+real 16.56
+user 65.92
+sys 0.04
+	76: Executing benchmark: syr2k_STANDARD
+real 16.62
+user 66.12
+sys 0.05
+	77: Executing benchmark: syr2k_STANDARD
+real 16.54
+user 65.82
+sys 0.04
+	78: Executing benchmark: syr2k_STANDARD
+real 16.28
+user 64.79
+sys 0.04
+	79: Executing benchmark: syr2k_STANDARD
+real 17.05
+user 67.86
+sys 0.04
+	80: Executing benchmark: syr2k_STANDARD
+real 17.03
+user 67.80
+sys 0.04
+	81: Executing benchmark: syr2k_STANDARD
+real 17.01
+user 67.69
+sys 0.05
+	82: Executing benchmark: syr2k_STANDARD
+real 17.02
+user 67.77
+sys 0.03
+	83: Executing benchmark: syr2k_STANDARD
+real 17.02
+user 67.73
+sys 0.05
+	84: Executing benchmark: syr2k_STANDARD
+real 16.31
+user 64.91
+sys 0.04
+	85: Executing benchmark: syr2k_STANDARD
+real 16.83
+user 66.98
+sys 0.04
+	86: Executing benchmark: syr2k_STANDARD
+real 16.85
+user 67.11
+sys 0.03
+	87: Executing benchmark: syr2k_STANDARD
+real 16.84
+user 67.04
+sys 0.02
+	88: Executing benchmark: syr2k_STANDARD
+real 16.84
+user 67.00
+sys 0.04
+	89: Executing benchmark: syr2k_STANDARD
+real 16.83
+user 67.02
+sys 0.04
+	90: Executing benchmark: syr2k_STANDARD
+real 16.03
+user 63.71
+sys 0.06
+	91: Executing benchmark: syr2k_STANDARD
+real 16.31
+user 64.90
+sys 0.03
+	92: Executing benchmark: syr2k_STANDARD
+real 16.29
+user 64.74
+sys 0.06
+	93: Executing benchmark: syr2k_STANDARD
+real 16.26
+user 64.66
+sys 0.04
+	94: Executing benchmark: syr2k_STANDARD
+real 16.29
+user 64.77
+sys 0.05
+	95: Executing benchmark: syr2k_STANDARD
+real 16.26
+user 64.68
+sys 0.06
+	96: Executing benchmark: syr2k_STANDARD
+real 16.10
+user 64.01
+sys 0.04
+	97: Executing benchmark: syr2k_STANDARD
+real 16.75
+user 66.68
+sys 0.05
+	98: Executing benchmark: syr2k_STANDARD
+real 16.76
+user 66.73
+sys 0.04
+	99: Executing benchmark: syr2k_STANDARD
+real 16.80
+user 66.86
+sys 0.06
+	100: Executing benchmark: syr2k_STANDARD
+real 16.80
+user 66.84
+sys 0.05
+	101: Executing benchmark: syr2k_STANDARD
+real 16.77
+user 66.75
+sys 0.04
+	102: Executing benchmark: syr2k_STANDARD
+real 16.57
+user 65.94
+sys 0.06
+	103: Executing benchmark: syr2k_STANDARD
+real 15.72
+user 62.43
+sys 0.04
+	104: Executing benchmark: syr2k_STANDARD
+real 15.77
+user 62.78
+sys 0.04
+	105: Executing benchmark: syr2k_STANDARD
+real 15.75
+user 62.66
+sys 0.04
+	106: Executing benchmark: syr2k_STANDARD
+real 15.77
+user 62.77
+sys 0.03
+	107: Executing benchmark: syr2k_STANDARD
+real 15.81
+user 62.86
+sys 0.05
+	108: Executing benchmark: syr2k_STANDARD
+real 15.66
+user 62.31
+sys 0.02
+	109: Executing benchmark: syr2k_STANDARD
+real 15.85
+user 62.99
+sys 0.05
+	110: Executing benchmark: syr2k_STANDARD
+real 15.92
+user 63.26
+sys 0.04
+	111: Executing benchmark: syr2k_STANDARD
+real 15.92
+user 63.34
+sys 0.04
+	112: Executing benchmark: syr2k_STANDARD
+real 15.91
+user 63.31
+sys 0.03
+	113: Executing benchmark: syr2k_STANDARD
+real 15.96
+user 63.53
+sys 0.04
+	114: Executing benchmark: syr2k_STANDARD
+real 15.94
+user 63.45
+sys 0.03
+	115: Executing benchmark: syr2k_STANDARD
+real 15.94
+user 63.45
+sys 0.03
+	116: Executing benchmark: syr2k_STANDARD
+real 15.92
+user 63.39
+sys 0.03
+	117: Executing benchmark: syr2k_STANDARD
+real 17.08
+user 67.94
+sys 0.05
+	118: Executing benchmark: syr2k_STANDARD
+real 17.16
+user 68.26
+sys 0.05
+	119: Executing benchmark: syr2k_STANDARD
+real 17.22
+user 68.52
+sys 0.03
+	120: Executing benchmark: syr2k_STANDARD
+real 17.08
+user 67.96
+sys 0.03
+	121: Executing benchmark: syr2k_STANDARD
+real 17.07
+user 67.86
+sys 0.05
+	122: Executing benchmark: syr2k_STANDARD
+real 15.79
+user 62.77
+sys 0.03
+	123: Executing benchmark: syr2k_STANDARD
+real 15.59
+user 61.97
+sys 0.04
+	124: Executing benchmark: syr2k_STANDARD
+real 15.13
+user 60.11
+sys 0.05
+	125: Executing benchmark: syr2k_STANDARD
+real 15.29
+user 60.76
+sys 0.03
+	126: Executing benchmark: syr2k_STANDARD
+real 15.40
+user 61.27
+sys 0.02
+	127: Executing benchmark: syr2k_STANDARD
+real 15.53
+user 61.44
+sys 0.06
+	128: Executing benchmark: syr2k_STANDARD
+real 15.39
+user 61.05
+sys 0.05
+	129: Executing benchmark: syr2k_STANDARD
+real 15.32
+user 60.69
+sys 0.05
+	130: Executing benchmark: syr2k_STANDARD
+real 15.17
+user 60.33
+sys 0.04
+	131: Executing benchmark: syr2k_STANDARD
+real 15.11
+user 60.04
+sys 0.04
+	132: Executing benchmark: syr2k_STANDARD
+real 15.22
+user 60.32
+sys 0.03
+	133: Executing benchmark: syr2k_STANDARD
+real 14.99
+user 59.61
+sys 0.04
+	134: Executing benchmark: syr2k_STANDARD
+real 15.34
+user 60.87
+sys 0.05
+	135: Executing benchmark: syr2k_STANDARD
+real 15.35
+user 60.67
+sys 0.06
+	136: Executing benchmark: syr2k_STANDARD
+real 15.38
+user 60.83
+sys 0.04
+	137: Executing benchmark: syr2k_STANDARD
+real 15.41
+user 60.89
+sys 0.06
+	138: Executing benchmark: syr2k_STANDARD
+real 15.29
+user 60.61
+sys 0.05
+	139: Executing benchmark: syr2k_STANDARD
+real 15.34
+user 60.80
+sys 0.03
+	140: Executing benchmark: syr2k_STANDARD
+real 15.37
+user 60.95
+sys 0.02
+	141: Executing benchmark: syr2k_STANDARD
+real 15.34
+user 60.74
+sys 0.04
+	142: Executing benchmark: syr2k_STANDARD
+real 15.18
+user 60.28
+sys 0.05
+	143: Executing benchmark: syr2k_STANDARD
+real 15.41
+user 61.07
+sys 0.04
+	144: Executing benchmark: syr2k_STANDARD
+real 15.61
+user 61.80
+sys 0.04
+	145: Executing benchmark: syr2k_STANDARD
+real 15.48
+user 61.49
+sys 0.03
+	146: Executing benchmark: syr2k_STANDARD
+real 15.54
+user 61.56
+sys 0.04
+	147: Executing benchmark: syr2k_STANDARD
+real 15.39
+user 61.09
+sys 0.04
+	148: Executing benchmark: syr2k_STANDARD
+real 15.40
+user 60.91
+sys 0.05
+	149: Executing benchmark: syr2k_STANDARD
+real 15.32
+user 60.61
+sys 0.04
+	150: Executing benchmark: syr2k_STANDARD
+real 15.27
+user 60.61
+sys 0.04
+	151: Executing benchmark: syr2k_STANDARD
+real 15.20
+user 60.27
+sys 0.05
+	152: Executing benchmark: syr2k_STANDARD
+real 15.30
+user 60.61
+sys 0.05
+	153: Executing benchmark: syr2k_STANDARD
+real 15.31
+user 60.82
+sys 0.04
+	154: Executing benchmark: syr2k_STANDARD
+real 15.32
+user 60.71
+sys 0.04
+	155: Executing benchmark: syr2k_STANDARD
+real 15.31
+user 60.65
+sys 0.04
+	156: Executing benchmark: syr2k_STANDARD
+real 15.05
+user 59.81
+sys 0.04
+	157: Executing benchmark: syr2k_STANDARD
+real 15.16
+user 60.20
+sys 0.03
+	158: Executing benchmark: syr2k_STANDARD
+real 15.10
+user 59.95
+sys 0.03
+FINISHED syr2k_STANDARD execution: Wed Jul 27 19:49:58 EEST 2016

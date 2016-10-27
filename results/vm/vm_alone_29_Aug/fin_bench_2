@@ -1,0 +1,391 @@
+
+STARTING jacLR execution: Mon Aug 29 19:41:47 EEST 2016 (sec: 1472488907)
+real 12.94
+user 46.13
+sys 0.09
+real 12.90
+user 46.12
+sys 0.06
+real 12.92
+user 46.12
+sys 0.09
+real 12.93
+user 46.19
+sys 0.07
+real 12.93
+user 46.25
+sys 0.05
+FINISHED jacLR execution: Mon Aug 29 19:42:51 EEST 2016 (sec: 1472488971)
+STARTING blackscholes execution: Mon Aug 29 19:42:51 EEST 2016 (sec: 1472488971)
+real 78.93
+user 231.80
+sys 3.51
+FINISHED blackscholes execution: Mon Aug 29 19:44:10 EEST 2016 (sec: 1472489050)
+STARTING stream_d0 execution: Mon Aug 29 19:44:10 EEST 2016 (sec: 1472489050)
+real 7.55
+user 27.04
+sys 1.32
+real 7.31
+user 26.90
+sys 0.71
+real 7.30
+user 26.94
+sys 0.68
+real 7.30
+user 26.95
+sys 0.64
+real 7.32
+user 26.87
+sys 0.68
+real 7.31
+user 26.92
+sys 0.60
+real 7.31
+user 26.95
+sys 0.67
+real 7.29
+user 26.77
+sys 0.73
+real 7.30
+user 26.89
+sys 0.65
+FINISHED stream_d0 execution: Mon Aug 29 19:45:16 EEST 2016 (sec: 1472489116)
+STARTING ep.A.g execution: Mon Aug 29 19:45:16 EEST 2016 (sec: 1472489116)
+Command exited with non-zero status 26
+real 10.15
+user 40.51
+sys 0.01
+Command exited with non-zero status 26
+real 10.21
+user 40.65
+sys 0.01
+Command exited with non-zero status 26
+real 10.23
+user 40.77
+sys 0.01
+Command exited with non-zero status 26
+real 10.11
+user 40.32
+sys 0.00
+Command exited with non-zero status 26
+real 10.33
+user 41.09
+sys 0.00
+Command exited with non-zero status 26
+real 10.34
+user 41.21
+sys 0.00
+FINISHED ep.A.g execution: Mon Aug 29 19:46:18 EEST 2016 (sec: 1472489178)
+STARTING 2mm_STANDARD execution: Mon Aug 29 19:46:18 EEST 2016 (sec: 1472489178)
+real 24.12
+user 96.07
+sys 0.05
+real 24.10
+user 96.00
+sys 0.03
+real 23.74
+user 94.64
+sys 0.04
+FINISHED 2mm_STANDARD execution: Mon Aug 29 19:47:30 EEST 2016 (sec: 1472489250)
+STARTING 3mm_STANDARD execution: Mon Aug 29 19:47:30 EEST 2016 (sec: 1472489250)
+real 34.80
+user 138.68
+sys 0.08
+real 35.24
+user 140.22
+sys 0.09
+FINISHED 3mm_STANDARD execution: Mon Aug 29 19:48:40 EEST 2016 (sec: 1472489320)
+STARTING cholesky_STANDARD execution: Mon Aug 29 19:48:40 EEST 2016 (sec: 1472489320)
+real 6.35
+user 25.26
+sys 0.03
+real 6.51
+user 25.92
+sys 0.04
+real 6.53
+user 25.97
+sys 0.03
+real 6.45
+user 25.65
+sys 0.04
+real 6.44
+user 25.65
+sys 0.02
+real 6.40
+user 25.48
+sys 0.03
+real 6.45
+user 25.67
+sys 0.02
+real 6.38
+user 25.39
+sys 0.03
+real 6.49
+user 25.81
+sys 0.03
+real 6.31
+user 25.13
+sys 0.02
+FINISHED cholesky_STANDARD execution: Mon Aug 29 19:49:44 EEST 2016 (sec: 1472489384)
+STARTING doitgen_STANDARD execution: Mon Aug 29 19:49:44 EEST 2016 (sec: 1472489384)
+real 14.92
+user 58.40
+sys 0.45
+real 16.42
+user 64.46
+sys 0.45
+real 15.43
+user 60.69
+sys 0.40
+real 16.10
+user 63.08
+sys 0.44
+FINISHED doitgen_STANDARD execution: Mon Aug 29 19:50:47 EEST 2016 (sec: 1472489447)
+STARTING gemm_STANDARD execution: Mon Aug 29 19:50:47 EEST 2016 (sec: 1472489447)
+real 30.89
+user 122.95
+sys 0.06
+real 30.71
+user 122.35
+sys 0.06
+FINISHED gemm_STANDARD execution: Mon Aug 29 19:51:49 EEST 2016 (sec: 1472489509)
+STARTING gemver_STANDARD execution: Mon Aug 29 19:51:49 EEST 2016 (sec: 1472489509)
+real 13.69
+user 43.18
+sys 0.09
+real 13.69
+user 43.07
+sys 0.08
+real 13.65
+user 42.86
+sys 0.14
+real 13.70
+user 43.02
+sys 0.10
+real 13.69
+user 43.08
+sys 0.10
+FINISHED gemver_STANDARD execution: Mon Aug 29 19:52:57 EEST 2016 (sec: 1472489577)
+STARTING gesummv_STANDARD execution: Mon Aug 29 19:52:57 EEST 2016 (sec: 1472489577)
+real 7.27
+user 12.34
+sys 0.48
+real 7.21
+user 12.27
+sys 0.49
+real 7.24
+user 12.36
+sys 0.44
+real 7.30
+user 12.54
+sys 0.42
+real 7.30
+user 12.39
+sys 0.41
+real 7.19
+user 12.25
+sys 0.45
+real 7.19
+user 12.32
+sys 0.41
+real 7.14
+user 12.26
+sys 0.38
+real 7.18
+user 12.35
+sys 0.42
+FINISHED gesummv_STANDARD execution: Mon Aug 29 19:54:03 EEST 2016 (sec: 1472489643)
+STARTING mvt_STANDARD execution: Mon Aug 29 19:54:03 EEST 2016 (sec: 1472489643)
+real 18.14
+user 56.34
+sys 0.15
+real 18.14
+user 56.48
+sys 0.11
+real 18.28
+user 56.46
+sys 0.13
+real 18.65
+user 57.59
+sys 0.14
+FINISHED mvt_STANDARD execution: Mon Aug 29 19:55:16 EEST 2016 (sec: 1472489716)
+STARTING syr2k_STANDARD execution: Mon Aug 29 19:55:16 EEST 2016 (sec: 1472489716)
+real 16.48
+user 65.16
+sys 0.04
+real 16.39
+user 64.89
+sys 0.04
+real 16.45
+user 65.04
+sys 0.04
+real 16.19
+user 64.13
+sys 0.05
+FINISHED syr2k_STANDARD execution: Mon Aug 29 19:56:21 EEST 2016 (sec: 1472489781)
+STARTING syrk_STANDARD execution: Mon Aug 29 19:56:21 EEST 2016 (sec: 1472489781)
+real 15.64
+user 61.93
+sys 0.20
+real 15.46
+user 61.39
+sys 0.19
+real 15.52
+user 61.50
+sys 0.16
+real 15.59
+user 61.89
+sys 0.22
+FINISHED syrk_STANDARD execution: Mon Aug 29 19:57:24 EEST 2016 (sec: 1472489844)
+STARTING trisolv_STANDARD execution: Mon Aug 29 19:57:24 EEST 2016 (sec: 1472489844)
+real 7.49
+user 10.13
+sys 0.42
+real 7.50
+user 10.11
+sys 0.49
+real 7.50
+user 10.18
+sys 0.44
+real 7.48
+user 10.08
+sys 0.51
+real 7.47
+user 10.14
+sys 0.45
+real 7.44
+user 10.07
+sys 0.46
+real 7.42
+user 10.09
+sys 0.38
+real 7.45
+user 10.10
+sys 0.48
+FINISHED trisolv_STANDARD execution: Mon Aug 29 19:58:24 EEST 2016 (sec: 1472489904)
+STARTING trmm_STANDARD execution: Mon Aug 29 19:58:24 EEST 2016 (sec: 1472489904)
+real 14.25
+user 56.21
+sys 0.33
+real 14.30
+user 56.43
+sys 0.35
+real 14.18
+user 56.02
+sys 0.29
+real 14.14
+user 55.90
+sys 0.24
+real 14.37
+user 56.67
+sys 0.36
+FINISHED trmm_STANDARD execution: Mon Aug 29 19:59:35 EEST 2016 (sec: 1472489975)
+STARTING durbin_STANDARD execution: Mon Aug 29 19:59:35 EEST 2016 (sec: 1472489975)
+real 11.75
+user 11.77
+sys 0.20
+real 11.78
+user 11.83
+sys 0.19
+real 11.79
+user 11.88
+sys 0.18
+real 11.83
+user 11.89
+sys 0.18
+real 11.70
+user 11.78
+sys 0.16
+real 11.75
+user 11.84
+sys 0.15
+FINISHED durbin_STANDARD execution: Mon Aug 29 20:00:46 EEST 2016 (sec: 1472490046)
+STARTING gramschmidt_STANDARD execution: Mon Aug 29 20:00:46 EEST 2016 (sec: 1472490046)
+real 26.66
+user 61.45
+sys 0.07
+real 26.93
+user 62.02
+sys 0.05
+real 27.23
+user 62.76
+sys 0.07
+FINISHED gramschmidt_STANDARD execution: Mon Aug 29 20:02:06 EEST 2016 (sec: 1472490126)
+STARTING ft.A execution: Mon Aug 29 20:02:06 EEST 2016 (sec: 1472490126)
+Command exited with non-zero status 26
+real 3.16
+user 8.27
+sys 0.28
+Command exited with non-zero status 26
+real 3.18
+user 8.18
+sys 0.30
+Command exited with non-zero status 26
+real 3.10
+user 8.11
+sys 0.26
+Command exited with non-zero status 26
+real 3.22
+user 8.25
+sys 0.26
+Command exited with non-zero status 26
+real 3.19
+user 8.40
+sys 0.24
+Command exited with non-zero status 26
+real 3.17
+user 8.28
+sys 0.26
+Command exited with non-zero status 26
+real 3.12
+user 7.91
+sys 0.24
+Command exited with non-zero status 26
+real 3.14
+user 8.16
+sys 0.28
+Command exited with non-zero status 26
+real 3.26
+user 7.81
+sys 0.27
+Command exited with non-zero status 26
+real 3.09
+user 8.03
+sys 0.26
+Command exited with non-zero status 26
+real 3.17
+user 7.99
+sys 0.28
+Command exited with non-zero status 26
+real 3.15
+user 8.23
+sys 0.25
+Command exited with non-zero status 26
+real 3.11
+user 8.04
+sys 0.28
+Command exited with non-zero status 26
+real 3.10
+user 8.00
+sys 0.30
+Command exited with non-zero status 26
+real 3.10
+user 8.02
+sys 0.26
+Command exited with non-zero status 26
+real 3.13
+user 8.26
+sys 0.27
+Command exited with non-zero status 26
+real 3.07
+user 7.97
+sys 0.27
+Command exited with non-zero status 26
+real 3.10
+user 8.14
+sys 0.24
+Command exited with non-zero status 26
+real 3.11
+user 8.16
+sys 0.23
+FINISHED ft.A execution: Mon Aug 29 20:03:06 EEST 2016 (sec: 1472490186)
