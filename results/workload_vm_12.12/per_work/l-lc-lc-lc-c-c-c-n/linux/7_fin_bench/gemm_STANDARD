@@ -1,0 +1,22 @@
+STARTING gemm_STANDARD execution: Wed Dec 14 21:36:42 EET 2016
+0: Executing benchmark: gemm_STANDARD
+real 93.86
+user 369.32
+sys 1.05
+1: Executing benchmark: gemm_STANDARD
+real 92.45
+user 364.90
+sys 0.69
+2: Executing benchmark: gemm_STANDARD
+real 93.27
+user 368.33
+sys 0.41
+3: Executing benchmark: gemm_STANDARD
+real 93.69
+user 368.59
+sys 0.60
+4: Executing benchmark: gemm_STANDARD
+real 91.10
+user 359.01
+sys 0.30
+FINISHED gemm_STANDARD execution: Wed Dec 14 21:44:26 EET 2016

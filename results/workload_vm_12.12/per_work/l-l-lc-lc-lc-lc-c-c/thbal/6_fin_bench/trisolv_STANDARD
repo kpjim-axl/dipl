@@ -1,0 +1,70 @@
+STARTING trisolv_STANDARD execution: Wed Dec 14 13:19:13 EET 2016
+0: Executing benchmark: trisolv_STANDARD
+real 26.38
+user 36.82
+sys 2.10
+1: Executing benchmark: trisolv_STANDARD
+real 26.44
+user 34.78
+sys 1.36
+2: Executing benchmark: trisolv_STANDARD
+real 25.29
+user 27.94
+sys 1.05
+3: Executing benchmark: trisolv_STANDARD
+real 26.31
+user 40.37
+sys 1.81
+4: Executing benchmark: trisolv_STANDARD
+real 28.49
+user 37.01
+sys 1.38
+5: Executing benchmark: trisolv_STANDARD
+real 27.33
+user 35.77
+sys 1.31
+6: Executing benchmark: trisolv_STANDARD
+real 29.16
+user 34.85
+sys 1.82
+7: Executing benchmark: trisolv_STANDARD
+real 30.04
+user 35.07
+sys 1.38
+8: Executing benchmark: trisolv_STANDARD
+real 30.41
+user 32.86
+sys 1.46
+9: Executing benchmark: trisolv_STANDARD
+real 33.21
+user 37.22
+sys 1.52
+10: Executing benchmark: trisolv_STANDARD
+real 28.48
+user 38.79
+sys 1.70
+11: Executing benchmark: trisolv_STANDARD
+real 30.44
+user 41.33
+sys 1.98
+12: Executing benchmark: trisolv_STANDARD
+real 31.39
+user 45.38
+sys 1.82
+13: Executing benchmark: trisolv_STANDARD
+real 27.87
+user 29.99
+sys 1.21
+14: Executing benchmark: trisolv_STANDARD
+real 29.24
+user 31.64
+sys 1.31
+15: Executing benchmark: trisolv_STANDARD
+real 15.73
+user 18.21
+sys 0.78
+16: Executing benchmark: trisolv_STANDARD
+real 9.72
+user 12.16
+sys 0.63
+FINISHED trisolv_STANDARD execution: Wed Dec 14 13:26:49 EET 2016

@@ -1,0 +1,30 @@
+STARTING syr2k_STANDARD execution: Sat Dec 17 05:04:39 EET 2016
+0: Executing benchmark: syr2k_STANDARD
+real 64.33
+user 256.49
+sys 0.24
+1: Executing benchmark: syr2k_STANDARD
+real 64.29
+user 256.60
+sys 0.14
+2: Executing benchmark: syr2k_STANDARD
+real 64.31
+user 250.76
+sys 0.09
+3: Executing benchmark: syr2k_STANDARD
+real 64.33
+user 253.77
+sys 0.14
+4: Executing benchmark: syr2k_STANDARD
+real 64.38
+user 256.87
+sys 0.19
+5: Executing benchmark: syr2k_STANDARD
+real 67.35
+user 268.83
+sys 0.12
+6: Executing benchmark: syr2k_STANDARD
+real 64.28
+user 256.64
+sys 0.11
+FINISHED syr2k_STANDARD execution: Sat Dec 17 05:12:13 EET 2016
