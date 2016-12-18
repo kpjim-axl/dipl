@@ -1,0 +1,74 @@
+STARTING cholesky_STANDARD execution: Sun Dec 11 22:18:16 EET 2016
+0: Executing benchmark: cholesky_STANDARD
+real 27.67
+user 110.32
+sys 0.19
+1: Executing benchmark: cholesky_STANDARD
+real 24.60
+user 98.21
+sys 0.11
+2: Executing benchmark: cholesky_STANDARD
+real 27.61
+user 110.28
+sys 0.08
+3: Executing benchmark: cholesky_STANDARD
+real 24.61
+user 98.31
+sys 0.08
+4: Executing benchmark: cholesky_STANDARD
+real 27.60
+user 110.29
+sys 0.03
+5: Executing benchmark: cholesky_STANDARD
+real 27.64
+user 110.34
+sys 0.12
+6: Executing benchmark: cholesky_STANDARD
+real 24.62
+user 98.29
+sys 0.12
+7: Executing benchmark: cholesky_STANDARD
+real 27.63
+user 110.31
+sys 0.12
+8: Executing benchmark: cholesky_STANDARD
+real 24.61
+user 98.25
+sys 0.11
+9: Executing benchmark: cholesky_STANDARD
+real 27.61
+user 110.27
+sys 0.10
+10: Executing benchmark: cholesky_STANDARD
+real 24.59
+user 98.23
+sys 0.08
+11: Executing benchmark: cholesky_STANDARD
+real 27.60
+user 110.16
+sys 0.16
+12: Executing benchmark: cholesky_STANDARD
+real 24.67
+user 98.49
+sys 0.11
+13: Executing benchmark: cholesky_STANDARD
+real 27.63
+user 110.38
+sys 0.07
+14: Executing benchmark: cholesky_STANDARD
+real 27.63
+user 110.32
+sys 0.12
+15: Executing benchmark: cholesky_STANDARD
+real 24.63
+user 98.34
+sys 0.09
+16: Executing benchmark: cholesky_STANDARD
+real 27.65
+user 110.43
+sys 0.08
+17: Executing benchmark: cholesky_STANDARD
+real 24.68
+user 98.53
+sys 0.11
+FINISHED cholesky_STANDARD execution: Sun Dec 11 22:26:10 EET 2016

@@ -1,0 +1,46 @@
+STARTING durbin_STANDARD execution: Thu Dec 15 01:10:41 EET 2016
+0: Executing benchmark: durbin_STANDARD
+real 40.44
+user 39.20
+sys 1.47
+1: Executing benchmark: durbin_STANDARD
+real 40.37
+user 39.98
+sys 0.65
+2: Executing benchmark: durbin_STANDARD
+real 43.47
+user 43.03
+sys 0.71
+3: Executing benchmark: durbin_STANDARD
+real 40.55
+user 40.13
+sys 0.66
+4: Executing benchmark: durbin_STANDARD
+real 43.64
+user 52.15
+sys 0.75
+5: Executing benchmark: durbin_STANDARD
+real 40.63
+user 40.23
+sys 0.64
+6: Executing benchmark: durbin_STANDARD
+real 43.67
+user 43.17
+sys 0.75
+7: Executing benchmark: durbin_STANDARD
+real 40.54
+user 40.14
+sys 0.64
+8: Executing benchmark: durbin_STANDARD
+real 43.55
+user 46.14
+sys 0.66
+9: Executing benchmark: durbin_STANDARD
+real 40.65
+user 40.22
+sys 0.69
+10: Executing benchmark: durbin_STANDARD
+real 43.68
+user 43.22
+sys 0.72
+FINISHED durbin_STANDARD execution: Thu Dec 15 01:18:22 EET 2016

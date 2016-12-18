@@ -1,0 +1,34 @@
+STARTING trmm_STANDARD execution: Mon Dec 12 00:26:09 EET 2016
+0: Executing benchmark: trmm_STANDARD
+real 56.78
+user 224.96
+sys 1.47
+1: Executing benchmark: trmm_STANDARD
+real 59.72
+user 237.02
+sys 1.39
+2: Executing benchmark: trmm_STANDARD
+real 59.86
+user 236.77
+sys 1.26
+3: Executing benchmark: trmm_STANDARD
+real 56.75
+user 225.23
+sys 1.30
+4: Executing benchmark: trmm_STANDARD
+real 61.51
+user 243.99
+sys 1.56
+5: Executing benchmark: trmm_STANDARD
+real 56.79
+user 225.41
+sys 1.30
+6: Executing benchmark: trmm_STANDARD
+real 59.79
+user 237.53
+sys 1.21
+7: Executing benchmark: trmm_STANDARD
+real 59.79
+user 231.43
+sys 1.29
+FINISHED trmm_STANDARD execution: Mon Dec 12 00:34:00 EET 2016
