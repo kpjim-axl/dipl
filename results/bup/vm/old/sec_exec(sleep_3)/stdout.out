@@ -1,0 +1,483 @@
+Execution Time; 13.083879
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 16000000 (elements), Offset = 0 (elements)
+Memory per array = 122.1 MiB (= 0.1 GiB).
+Total memory required = 366.2 MiB (= 0.4 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 14856 microseconds.
+   (= 14856 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           11941.9     0.021631     0.021437     0.022148
+Scale:          11881.6     0.021734     0.021546     0.022012
+Add:            13317.7     0.028961     0.028834     0.029193
+Triad:          13436.9     0.028808     0.028578     0.029037
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+
+
+ NAS Parallel Benchmarks 2.3 OpenMP C version - EP Benchmark
+ Number of random numbers generated:     536870912
+EP Benchmark Results: 
+CPU Time =    10.9038
+N = 2^   28
+No. Gaussian Pairs =       210832767
+Sums =    -4.295875165634796e+03    -1.580732573678614e+04
+Counts:
+  0        98257395
+  1        93827014
+  2        17611549
+  3         1110028
+  4           26536
+  5             245
+  6               0
+  7               0
+  8               0
+  9               0
+
+
+ EP Benchmark Completed
+ Class           =                        A
+ Size            =                       29
+ Iterations      =                        0
+ Threads         =                        4
+ Time in seconds =                    10.90
+ Mop/s total     =                    49.24
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                      2.3
+ Compile date    =              26 Jun 2013
+
+ Compile options:
+    CC           = gcc
+    CLINK        = gcc
+    C_LIB        = (none)
+    C_INC        = -I../common 
+    CFLAGS       = -Wall -O3 -fopenmp -mcmodel=medium
+    CLINKFLAGS   = -lm -lgomp
+    RAND         = randdp
+Execution Time; 18.254604
+Execution Time; 13.557972
+Execution Time; 13.425214
+Execution Time; 6.468817
+Execution Time; 0.155047
+Execution Time; 0.146776
+Execution Time; 0.134454
+Execution Time; 0.133997
+Execution Time; 0.133603
+Execution Time; 0.134927
+Execution Time; 0.138042
+Execution Time; 0.142337
+Execution Time; 0.142371
+Execution Time; 0.142384
+Execution Time; 0.142331
+Execution Time; 0.145151
+Execution Time; 0.142265
+Execution Time; 0.145950
+Execution Time; 0.142339
+Execution Time; 0.142349
+Execution Time; 0.149915
+Execution Time; 0.143722
+Execution Time; 0.146355
+Execution Time; 0.142930
+Execution Time; 0.142510
+Execution Time; 0.142277
+Execution Time; 0.142097
+Execution Time; 0.142125
+Execution Time; 0.146237
+Execution Time; 0.142371
+Execution Time; 0.142857
+Execution Time; 0.147779
+Execution Time; 0.145146
+Execution Time; 0.142393
+Execution Time; 0.134970
+Execution Time; 0.133477
+Execution Time; 0.137619
+Execution Time; 0.140277
+Execution Time; 0.144998
+Execution Time; 0.150513
+Execution Time; 0.146047
+Execution Time; 0.144998
+Execution Time; 0.142171
+Execution Time; 0.142523
+Execution Time; 0.142676
+Execution Time; 0.149606
+Execution Time; 0.142215
+Execution Time; 0.145274
+Execution Time; 0.142339
+Execution Time; 0.144809
+Execution Time; 0.151152
+Execution Time; 0.149030
+Execution Time; 0.142371
+Execution Time; 0.149263
+Execution Time; 0.142204
+Execution Time; 0.150268
+Execution Time; 0.147974
+Execution Time; 0.142631
+Execution Time; 0.148182
+Execution Time; 0.141673
+Execution Time; 0.135236
+Execution Time; 0.130677
+Execution Time; 0.136550
+Execution Time; 0.135206
+Execution Time; 0.145922
+Execution Time; 0.145354
+Execution Time; 0.146113
+Execution Time; 0.142366
+Execution Time; 0.149797
+Execution Time; 0.146541
+Execution Time; 0.145770
+Execution Time; 0.145095
+Execution Time; 0.147870
+Execution Time; 0.145631
+Execution Time; 0.140155
+Execution Time; 0.147387
+Execution Time; 0.147373
+Execution Time; 0.148257
+Execution Time; 0.144794
+Execution Time; 0.146307
+Execution Time; 0.148298
+Execution Time; 0.155311
+Execution Time; 0.147187
+Execution Time; 0.146592
+Execution Time; 0.146499
+Execution Time; 0.142176
+Execution Time; 0.140152
+Execution Time; 0.140466
+Execution Time; 0.130927
+Execution Time; 0.134765
+Execution Time; 0.134318
+Execution Time; 0.145094
+Execution Time; 0.142216
+Execution Time; 0.142225
+Execution Time; 0.140457
+Execution Time; 0.141918
+Execution Time; 0.136341
+Execution Time; 0.142567
+Execution Time; 0.146571
+Execution Time; 0.148705
+Execution Time; 0.143257
+Execution Time; 0.143090
+Execution Time; 0.140426
+Execution Time; 0.142918
+Execution Time; 4.698145
+Execution Time; 4.677584
+Execution Time; 4.684043
+Execution Time; 4.631100
+Execution Time; 4.627743
+Execution Time; 11.698534
+Execution Time; 0.020001
+Execution Time; 0.023470
+Execution Time; 0.021062
+Execution Time; 0.020613
+Execution Time; 0.023216
+Execution Time; 0.024068
+Execution Time; 0.023439
+Execution Time; 0.021371
+Execution Time; 0.023281
+Execution Time; 0.020111
+Execution Time; 0.023243
+Execution Time; 0.020146
+Execution Time; 0.020126
+Execution Time; 0.020665
+Execution Time; 0.020081
+Execution Time; 0.018770
+Execution Time; 0.018667
+Execution Time; 0.019711
+Execution Time; 0.019571
+Execution Time; 0.019846
+Execution Time; 0.019671
+Execution Time; 0.019685
+Execution Time; 0.019956
+Execution Time; 0.019854
+Execution Time; 0.019738
+Execution Time; 0.020085
+Execution Time; 0.020357
+Execution Time; 0.020126
+Execution Time; 0.019945
+Execution Time; 0.020132
+Execution Time; 0.019585
+Execution Time; 0.019926
+Execution Time; 0.023632
+Execution Time; 0.025926
+Execution Time; 0.020199
+Execution Time; 0.020352
+Execution Time; 0.019731
+Execution Time; 0.019776
+Execution Time; 0.019903
+Execution Time; 0.020021
+Execution Time; 0.024162
+Execution Time; 0.020121
+Execution Time; 0.020074
+Execution Time; 0.019915
+Execution Time; 0.019955
+Execution Time; 0.019545
+Execution Time; 0.019536
+Execution Time; 0.019988
+Execution Time; 0.018553
+Execution Time; 0.018219
+Execution Time; 0.018693
+Execution Time; 0.022546
+Execution Time; 0.019020
+Execution Time; 0.018264
+Execution Time; 0.024325
+Execution Time; 0.021234
+Execution Time; 0.019372
+Execution Time; 0.019161
+Execution Time; 0.020079
+Execution Time; 0.024902
+Execution Time; 0.019929
+Execution Time; 0.020061
+Execution Time; 0.020153
+Execution Time; 0.019774
+Execution Time; 0.019803
+Execution Time; 0.019486
+Execution Time; 0.020050
+Execution Time; 0.019537
+Execution Time; 0.019546
+Execution Time; 0.020016
+Execution Time; 16.132386
+Execution Time; 15.795032
+Execution Time; 0.407298
+Execution Time; 0.390547
+Execution Time; 0.366501
+Execution Time; 0.357958
+Execution Time; 0.380816
+Execution Time; 0.388300
+Execution Time; 0.377008
+Execution Time; 0.385487
+Execution Time; 0.373517
+Execution Time; 0.376251
+Execution Time; 0.388884
+Execution Time; 0.388740
+Execution Time; 0.367262
+Execution Time; 0.362119
+Execution Time; 0.372640
+Execution Time; 0.391939
+Execution Time; 0.399248
+Execution Time; 0.395740
+Execution Time; 0.387977
+Execution Time; 0.398242
+Execution Time; 0.400485
+Execution Time; 0.397252
+Execution Time; 0.377665
+Execution Time; 0.354774
+Execution Time; 0.355079
+Execution Time; 0.380066
+Execution Time; 0.398565
+Execution Time; 0.389541
+Execution Time; 0.391657
+Execution Time; 0.415854
+Execution Time; 0.411310
+Execution Time; 0.391497
+Execution Time; 0.403680
+Execution Time; 0.382176
+Execution Time; 0.369856
+Execution Time; 0.401307
+Execution Time; 0.402817
+Execution Time; 0.390815
+Execution Time; 0.415467
+Execution Time; 0.397225
+Execution Time; 0.004777
+Execution Time; 0.009685
+Execution Time; 0.005347
+Execution Time; 0.005251
+Execution Time; 0.005429
+Execution Time; 0.005134
+Execution Time; 0.005358
+Execution Time; 0.005173
+Execution Time; 0.005159
+Execution Time; 0.005210
+Execution Time; 0.005284
+Execution Time; 0.005142
+Execution Time; 0.005127
+Execution Time; 0.005490
+Execution Time; 0.005353
+Execution Time; 0.005573
+Execution Time; 0.005196
+Execution Time; 0.005192
+Execution Time; 0.005692
+Execution Time; 0.005434
+Execution Time; 0.005228
+Execution Time; 0.005407
+Execution Time; 0.005250
+Execution Time; 0.005514
+Execution Time; 0.005080
+Execution Time; 0.005270
+Execution Time; 0.005214
+Execution Time; 0.005111
+Execution Time; 0.005375
+Execution Time; 0.005259
+Execution Time; 0.005251
+Execution Time; 0.006178
+Execution Time; 0.005355
+Execution Time; 0.005208
+Execution Time; 0.005953
+Execution Time; 0.005502
+Execution Time; 0.005381
+Execution Time; 0.005114
+Execution Time; 0.005244
+Execution Time; 0.005238
+Execution Time; 0.005034
+Execution Time; 0.005178
+Execution Time; 0.005061
+Execution Time; 0.005157
+Execution Time; 0.005297
+Execution Time; 0.005486
+Execution Time; 0.005348
+Execution Time; 0.005300
+Execution Time; 0.005197
+Execution Time; 0.005057
+Execution Time; 0.005212
+Execution Time; 0.005366
+Execution Time; 0.007788
+Execution Time; 0.005136
+Execution Time; 0.005106
+Execution Time; 0.005214
+Execution Time; 0.005331
+Execution Time; 0.007457
+Execution Time; 0.005299
+Execution Time; 0.005164
+Execution Time; 0.005109
+Execution Time; 0.005334
+Execution Time; 0.005404
+Execution Time; 0.005431
+Execution Time; 0.005122
+Execution Time; 0.005135
+Execution Time; 0.005308
+Execution Time; 0.005486
+Execution Time; 0.005392
+Execution Time; 0.005243
+Execution Time; 0.005237
+Execution Time; 0.005575
+Execution Time; 0.005079
+Execution Time; 0.005074
+Execution Time; 0.005314
+Execution Time; 0.005565
+Execution Time; 0.005356
+Execution Time; 0.007568
+Execution Time; 0.005352
+Execution Time; 0.008029
+Execution Time; 0.006110
+Execution Time; 0.005242
+Execution Time; 0.005457
+Execution Time; 0.005637
+Execution Time; 0.005127
+Execution Time; 0.005272
+Execution Time; 0.005266
+Execution Time; 0.005325
+Execution Time; 0.005321
+Execution Time; 0.005684
+Execution Time; 0.205941
+Execution Time; 0.199051
+Execution Time; 0.199520
+Execution Time; 0.204870
+Execution Time; 0.201604
+Execution Time; 0.201033
+Execution Time; 0.204153
+Execution Time; 0.200493
+Execution Time; 0.199746
+Execution Time; 0.198828
+Execution Time; 0.203118
+Execution Time; 0.200325
+Execution Time; 0.200445
+Execution Time; 0.199081
+Execution Time; 0.200178
+Execution Time; 0.199693
+Execution Time; 0.200559
+Execution Time; 0.199198
+Execution Time; 0.198734
+Execution Time; 0.196525
+Execution Time; 0.190052
+Execution Time; 0.193525
+Execution Time; 0.198337
+Execution Time; 0.201713
+Execution Time; 0.194305
+Execution Time; 0.190327
+Execution Time; 0.194488
+Execution Time; 0.198324
+Execution Time; 0.205032
+Execution Time; 0.198869
+Execution Time; 0.198776
+Execution Time; 0.193470
+Execution Time; 0.199390
+Execution Time; 0.202392
+Execution Time; 0.202178
+Execution Time; 0.199046
+Execution Time; 0.200486
+Execution Time; 0.199571
+Execution Time; 0.202631
+Execution Time; 0.201833
+Execution Time; 0.199014
+Execution Time; 0.201574
+Execution Time; 0.202900
+Execution Time; 0.198892
+Execution Time; 0.201627
+Execution Time; 0.198770
+Execution Time; 0.204413
+Execution Time; 0.199600
+Execution Time; 0.204034
+Execution Time; 0.200669
+Execution Time; 0.198139
+Execution Time; 0.194560
+Execution Time; 0.203611
+Execution Time; 0.200733
+Execution Time; 0.199816
+Execution Time; 0.199259
+Execution Time; 0.200495
+Execution Time; 0.199642
+Execution Time; 0.202287
+Execution Time; 0.198452
+Execution Time; 0.199791
+Execution Time; 0.202634
+Execution Time; 0.199020
+Execution Time; 0.199966
+Execution Time; 0.199481
+Execution Time; 0.199095
+Execution Time; 0.204189
+Execution Time; 0.200902
+Execution Time; 0.200263
+Execution Time; 0.203502
+Execution Time; 0.929257
+Execution Time; 0.939263
+Execution Time; 0.945993
+Execution Time; 0.952950
+Execution Time; 0.926511
+Execution Time; 0.944326
+Execution Time; 0.942147
+Execution Time; 0.938966
+Execution Time; 0.946078
+Execution Time; 0.948388
+Execution Time; 2.222822
+Execution Time; 2.181336
+Execution Time; 2.166867
+Execution Time; 2.175742
+Execution Time; 2.215873
+Execution Time; 2.182264
+Execution Time; 2.210257
+Execution Time; 2.184869
+Execution Time; 2.190557
+Execution Time; 2.139110
+
+Running ft.A 
+ ++++++++++++++++++++++++++
+
+

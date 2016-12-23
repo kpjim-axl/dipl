@@ -1,0 +1,2 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+39349 	$./bin/uniform/gramschmidt_STANDARD dummy.out 10 	$12694 	$0.183798 	$1895.909091 	$13.970421 	$13.813797 	$0.000152 	$     1.01 	$260245.52 	$ 1 	$ 13   

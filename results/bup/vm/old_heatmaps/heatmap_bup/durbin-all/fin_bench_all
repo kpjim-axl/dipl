@@ -1,0 +1,709 @@
+
+STARTING jacLR execution: Thu Jul 28 15:34:36 EEST 2016 (sec: 1469709276)
+	1: Executing benchmark: jacLR
+real 13.63
+user 48.74
+sys 0.12
+	2: Executing benchmark: jacLR
+real 13.54
+user 48.59
+sys 0.08
+	3: Executing benchmark: jacLR
+real 13.56
+user 48.66
+sys 0.07
+	4: Executing benchmark: jacLR
+real 13.58
+user 48.79
+sys 0.08
+	5: Executing benchmark: jacLR
+real 13.57
+user 48.71
+sys 0.09
+	6: Executing benchmark: jacLR
+real 13.57
+user 48.68
+sys 0.07
+	7: Executing benchmark: jacLR
+real 13.55
+user 48.63
+sys 0.06
+FINISHED jacLR execution: Thu Jul 28 15:36:12 EEST 2016 (sec: 1469709372)
+STARTING blackscholes execution: Thu Jul 28 15:36:17 EEST 2016 (sec: 1469709377)
+	8: Executing benchmark: blackscholes
+real 79.97
+user 239.35
+sys 2.66
+	9: Executing benchmark: blackscholes
+real 78.26
+user 238.62
+sys 1.06
+FINISHED blackscholes execution: Thu Jul 28 15:38:55 EEST 2016 (sec: 1469709535)
+STARTING stream_d0 execution: Thu Jul 28 15:39:00 EEST 2016 (sec: 1469709540)
+	10: Executing benchmark: stream_d0
+real 7.69
+user 28.20
+sys 1.08
+	11: Executing benchmark: stream_d0
+real 7.64
+user 28.23
+sys 0.74
+	12: Executing benchmark: stream_d0
+real 7.56
+user 28.08
+sys 0.65
+	13: Executing benchmark: stream_d0
+real 7.55
+user 28.06
+sys 0.67
+	14: Executing benchmark: stream_d0
+real 7.63
+user 28.17
+sys 0.73
+	15: Executing benchmark: stream_d0
+real 7.68
+user 28.33
+sys 0.68
+	16: Executing benchmark: stream_d0
+real 7.61
+user 28.21
+sys 0.70
+	17: Executing benchmark: stream_d0
+real 7.57
+user 28.11
+sys 0.72
+	18: Executing benchmark: stream_d0
+real 7.58
+user 28.11
+sys 0.72
+	19: Executing benchmark: stream_d0
+real 7.59
+user 28.13
+sys 0.71
+	20: Executing benchmark: stream_d0
+real 7.57
+user 28.12
+sys 0.64
+	21: Executing benchmark: stream_d0
+real 7.58
+user 28.10
+sys 0.68
+FINISHED stream_d0 execution: Thu Jul 28 15:40:31 EEST 2016 (sec: 1469709631)
+STARTING ep.A.g execution: Thu Jul 28 15:40:36 EEST 2016 (sec: 1469709636)
+	22: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 10.40
+user 41.33
+sys 0.01
+	23: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 10.38
+user 41.30
+sys 0.01
+	24: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 10.40
+user 41.46
+sys 0.01
+	25: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 10.41
+user 41.44
+sys 0.01
+	26: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 10.35
+user 41.21
+sys 0.02
+	27: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 10.38
+user 41.31
+sys 0.00
+	28: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 10.40
+user 41.47
+sys 0.01
+	29: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 10.46
+user 41.53
+sys 0.02
+	30: Executing benchmark: ep.A.g
+Command exited with non-zero status 26
+real 10.43
+user 41.53
+sys 0.00
+FINISHED ep.A.g execution: Thu Jul 28 15:42:10 EEST 2016 (sec: 1469709730)
+STARTING 2mm_STANDARD execution: Thu Jul 28 15:42:15 EEST 2016 (sec: 1469709735)
+	31: Executing benchmark: 2mm_STANDARD
+real 24.52
+user 97.75
+sys 0.06
+	32: Executing benchmark: 2mm_STANDARD
+real 24.50
+user 97.62
+sys 0.03
+	33: Executing benchmark: 2mm_STANDARD
+real 24.53
+user 97.71
+sys 0.07
+	34: Executing benchmark: 2mm_STANDARD
+real 24.43
+user 97.29
+sys 0.06
+FINISHED 2mm_STANDARD execution: Thu Jul 28 15:43:53 EEST 2016 (sec: 1469709833)
+STARTING 3mm_STANDARD execution: Thu Jul 28 15:43:58 EEST 2016 (sec: 1469709838)
+	35: Executing benchmark: 3mm_STANDARD
+real 36.09
+user 143.78
+sys 0.10
+	36: Executing benchmark: 3mm_STANDARD
+real 35.84
+user 142.80
+sys 0.09
+	37: Executing benchmark: 3mm_STANDARD
+real 35.95
+user 143.30
+sys 0.08
+FINISHED 3mm_STANDARD execution: Thu Jul 28 15:45:46 EEST 2016 (sec: 1469709946)
+STARTING cholesky_STANDARD execution: Thu Jul 28 15:45:51 EEST 2016 (sec: 1469709951)
+	38: Executing benchmark: cholesky_STANDARD
+real 6.52
+user 25.99
+sys 0.03
+	39: Executing benchmark: cholesky_STANDARD
+real 6.50
+user 25.90
+sys 0.02
+	40: Executing benchmark: cholesky_STANDARD
+real 6.51
+user 25.93
+sys 0.02
+	41: Executing benchmark: cholesky_STANDARD
+real 6.53
+user 26.00
+sys 0.02
+	42: Executing benchmark: cholesky_STANDARD
+real 6.55
+user 26.07
+sys 0.04
+	43: Executing benchmark: cholesky_STANDARD
+real 6.55
+user 26.09
+sys 0.03
+	44: Executing benchmark: cholesky_STANDARD
+real 6.54
+user 26.04
+sys 0.03
+	45: Executing benchmark: cholesky_STANDARD
+real 6.55
+user 26.08
+sys 0.02
+	46: Executing benchmark: cholesky_STANDARD
+real 6.54
+user 26.08
+sys 0.01
+	47: Executing benchmark: cholesky_STANDARD
+real 6.58
+user 26.22
+sys 0.03
+	48: Executing benchmark: cholesky_STANDARD
+real 6.55
+user 26.08
+sys 0.02
+	49: Executing benchmark: cholesky_STANDARD
+real 6.54
+user 26.06
+sys 0.02
+	50: Executing benchmark: cholesky_STANDARD
+real 6.51
+user 25.94
+sys 0.03
+	51: Executing benchmark: cholesky_STANDARD
+real 6.54
+user 26.09
+sys 0.02
+FINISHED cholesky_STANDARD execution: Thu Jul 28 15:47:23 EEST 2016 (sec: 1469710043)
+STARTING doitgen_STANDARD execution: Thu Jul 28 15:47:28 EEST 2016 (sec: 1469710048)
+	52: Executing benchmark: doitgen_STANDARD
+real 14.75
+user 57.74
+sys 0.46
+	53: Executing benchmark: doitgen_STANDARD
+real 14.81
+user 57.72
+sys 0.48
+	54: Executing benchmark: doitgen_STANDARD
+real 14.84
+user 57.91
+sys 0.40
+	55: Executing benchmark: doitgen_STANDARD
+real 14.79
+user 57.77
+sys 0.38
+	56: Executing benchmark: doitgen_STANDARD
+real 14.84
+user 57.77
+sys 0.46
+	57: Executing benchmark: doitgen_STANDARD
+real 15.34
+user 59.83
+sys 0.46
+	58: Executing benchmark: doitgen_STANDARD
+real 14.78
+user 57.71
+sys 0.46
+FINISHED doitgen_STANDARD execution: Thu Jul 28 15:49:12 EEST 2016 (sec: 1469710152)
+STARTING gemm_STANDARD execution: Thu Jul 28 15:49:17 EEST 2016 (sec: 1469710157)
+	59: Executing benchmark: gemm_STANDARD
+real 31.36
+user 124.79
+sys 0.06
+	60: Executing benchmark: gemm_STANDARD
+real 31.23
+user 124.27
+sys 0.05
+	61: Executing benchmark: gemm_STANDARD
+real 31.47
+user 125.16
+sys 0.06
+FINISHED gemm_STANDARD execution: Thu Jul 28 15:50:51 EEST 2016 (sec: 1469710251)
+STARTING gemver_STANDARD execution: Thu Jul 28 15:50:56 EEST 2016 (sec: 1469710256)
+	62: Executing benchmark: gemver_STANDARD
+real 13.94
+user 44.07
+sys 0.13
+	63: Executing benchmark: gemver_STANDARD
+real 13.96
+user 44.13
+sys 0.09
+	64: Executing benchmark: gemver_STANDARD
+real 13.79
+user 43.57
+sys 0.10
+	65: Executing benchmark: gemver_STANDARD
+real 13.95
+user 44.08
+sys 0.11
+	66: Executing benchmark: gemver_STANDARD
+real 13.92
+user 44.00
+sys 0.11
+	67: Executing benchmark: gemver_STANDARD
+real 13.91
+user 43.97
+sys 0.12
+	68: Executing benchmark: gemver_STANDARD
+real 13.84
+user 43.83
+sys 0.10
+FINISHED gemver_STANDARD execution: Thu Jul 28 15:52:33 EEST 2016 (sec: 1469710353)
+STARTING gesummv_STANDARD execution: Thu Jul 28 15:52:38 EEST 2016 (sec: 1469710358)
+	69: Executing benchmark: gesummv_STANDARD
+real 7.26
+user 12.42
+sys 0.42
+	70: Executing benchmark: gesummv_STANDARD
+real 7.30
+user 12.39
+sys 0.47
+	71: Executing benchmark: gesummv_STANDARD
+real 7.26
+user 12.30
+sys 0.48
+	72: Executing benchmark: gesummv_STANDARD
+real 7.23
+user 12.33
+sys 0.40
+	73: Executing benchmark: gesummv_STANDARD
+real 7.30
+user 12.30
+sys 0.51
+	74: Executing benchmark: gesummv_STANDARD
+real 7.26
+user 12.39
+sys 0.42
+	75: Executing benchmark: gesummv_STANDARD
+real 7.26
+user 12.36
+sys 0.44
+	76: Executing benchmark: gesummv_STANDARD
+real 7.20
+user 12.23
+sys 0.48
+	77: Executing benchmark: gesummv_STANDARD
+real 7.20
+user 12.25
+sys 0.42
+	78: Executing benchmark: gesummv_STANDARD
+real 7.22
+user 12.26
+sys 0.47
+	79: Executing benchmark: gesummv_STANDARD
+real 7.22
+user 12.29
+sys 0.45
+	80: Executing benchmark: gesummv_STANDARD
+real 7.38
+user 12.35
+sys 0.47
+	81: Executing benchmark: gesummv_STANDARD
+real 7.25
+user 12.30
+sys 0.49
+FINISHED gesummv_STANDARD execution: Thu Jul 28 15:54:13 EEST 2016 (sec: 1469710453)
+STARTING mvt_STANDARD execution: Thu Jul 28 15:54:18 EEST 2016 (sec: 1469710458)
+	82: Executing benchmark: mvt_STANDARD
+real 18.39
+user 57.46
+sys 0.11
+	83: Executing benchmark: mvt_STANDARD
+real 18.44
+user 57.64
+sys 0.11
+	84: Executing benchmark: mvt_STANDARD
+real 18.36
+user 57.47
+sys 0.10
+	85: Executing benchmark: mvt_STANDARD
+real 18.55
+user 58.04
+sys 0.10
+	86: Executing benchmark: mvt_STANDARD
+real 18.53
+user 57.96
+sys 0.11
+FINISHED mvt_STANDARD execution: Thu Jul 28 15:55:50 EEST 2016 (sec: 1469710550)
+STARTING syr2k_STANDARD execution: Thu Jul 28 15:55:55 EEST 2016 (sec: 1469710555)
+	87: Executing benchmark: syr2k_STANDARD
+real 16.95
+user 67.46
+sys 0.04
+	88: Executing benchmark: syr2k_STANDARD
+real 16.87
+user 67.14
+sys 0.04
+	89: Executing benchmark: syr2k_STANDARD
+real 16.93
+user 67.39
+sys 0.04
+	90: Executing benchmark: syr2k_STANDARD
+real 16.86
+user 67.06
+sys 0.06
+	91: Executing benchmark: syr2k_STANDARD
+real 16.86
+user 67.13
+sys 0.04
+	92: Executing benchmark: syr2k_STANDARD
+real 16.86
+user 67.08
+sys 0.05
+FINISHED syr2k_STANDARD execution: Thu Jul 28 15:57:37 EEST 2016 (sec: 1469710657)
+STARTING syrk_STANDARD execution: Thu Jul 28 15:57:42 EEST 2016 (sec: 1469710662)
+	93: Executing benchmark: syrk_STANDARD
+real 15.92
+user 63.03
+sys 0.22
+	94: Executing benchmark: syrk_STANDARD
+real 15.97
+user 63.14
+sys 0.24
+	95: Executing benchmark: syrk_STANDARD
+real 15.90
+user 63.01
+sys 0.18
+	96: Executing benchmark: syrk_STANDARD
+real 15.95
+user 63.12
+sys 0.20
+	97: Executing benchmark: syrk_STANDARD
+real 15.94
+user 63.11
+sys 0.20
+	98: Executing benchmark: syrk_STANDARD
+real 15.92
+user 63.00
+sys 0.18
+FINISHED syrk_STANDARD execution: Thu Jul 28 15:59:17 EEST 2016 (sec: 1469710757)
+STARTING trisolv_STANDARD execution: Thu Jul 28 15:59:22 EEST 2016 (sec: 1469710762)
+	99: Executing benchmark: trisolv_STANDARD
+real 7.49
+user 10.19
+sys 0.37
+	100: Executing benchmark: trisolv_STANDARD
+real 7.46
+user 10.03
+sys 0.50
+	101: Executing benchmark: trisolv_STANDARD
+real 7.48
+user 10.18
+sys 0.41
+	102: Executing benchmark: trisolv_STANDARD
+real 7.48
+user 10.11
+sys 0.46
+	103: Executing benchmark: trisolv_STANDARD
+real 7.48
+user 10.06
+sys 0.49
+	104: Executing benchmark: trisolv_STANDARD
+real 7.49
+user 10.09
+sys 0.48
+	105: Executing benchmark: trisolv_STANDARD
+real 7.53
+user 10.10
+sys 0.49
+	106: Executing benchmark: trisolv_STANDARD
+real 7.51
+user 10.12
+sys 0.52
+	107: Executing benchmark: trisolv_STANDARD
+real 7.55
+user 10.12
+sys 0.47
+	108: Executing benchmark: trisolv_STANDARD
+real 7.53
+user 10.24
+sys 0.40
+	109: Executing benchmark: trisolv_STANDARD
+real 7.54
+user 10.22
+sys 0.48
+	110: Executing benchmark: trisolv_STANDARD
+real 7.50
+user 10.05
+sys 0.48
+FINISHED trisolv_STANDARD execution: Thu Jul 28 16:00:52 EEST 2016 (sec: 1469710852)
+STARTING trmm_STANDARD execution: Thu Jul 28 16:00:57 EEST 2016 (sec: 1469710857)
+	111: Executing benchmark: trmm_STANDARD
+real 14.75
+user 58.22
+sys 0.32
+	112: Executing benchmark: trmm_STANDARD
+real 14.66
+user 57.85
+sys 0.36
+	113: Executing benchmark: trmm_STANDARD
+real 14.73
+user 58.13
+sys 0.33
+	114: Executing benchmark: trmm_STANDARD
+real 14.70
+user 58.04
+sys 0.34
+	115: Executing benchmark: trmm_STANDARD
+real 14.72
+user 58.12
+sys 0.29
+	116: Executing benchmark: trmm_STANDARD
+real 14.79
+user 58.33
+sys 0.37
+	117: Executing benchmark: trmm_STANDARD
+real 14.72
+user 57.95
+sys 0.40
+FINISHED trmm_STANDARD execution: Thu Jul 28 16:02:41 EEST 2016 (sec: 1469710961)
+STARTING durbin_STANDARD execution: Thu Jul 28 16:02:46 EEST 2016 (sec: 1469710966)
+	118: Executing benchmark: durbin_STANDARD
+real 11.81
+user 11.90
+sys 0.14
+	119: Executing benchmark: durbin_STANDARD
+real 11.72
+user 11.77
+sys 0.20
+	120: Executing benchmark: durbin_STANDARD
+real 11.79
+user 11.87
+sys 0.17
+	121: Executing benchmark: durbin_STANDARD
+real 11.71
+user 11.79
+sys 0.16
+	122: Executing benchmark: durbin_STANDARD
+real 11.69
+user 11.79
+sys 0.15
+	123: Executing benchmark: durbin_STANDARD
+real 11.72
+user 11.85
+sys 0.12
+	124: Executing benchmark: durbin_STANDARD
+real 11.76
+user 11.82
+sys 0.16
+	125: Executing benchmark: durbin_STANDARD
+real 11.68
+user 11.74
+sys 0.17
+FINISHED durbin_STANDARD execution: Thu Jul 28 16:04:20 EEST 2016 (sec: 1469711060)
+STARTING gramschmidt_STANDARD execution: Thu Jul 28 16:04:25 EEST 2016 (sec: 1469711065)
+	126: Executing benchmark: gramschmidt_STANDARD
+real 27.36
+user 63.23
+sys 0.07
+	127: Executing benchmark: gramschmidt_STANDARD
+real 27.31
+user 63.16
+sys 0.04
+	128: Executing benchmark: gramschmidt_STANDARD
+real 27.36
+user 63.30
+sys 0.06
+	129: Executing benchmark: gramschmidt_STANDARD
+real 27.31
+user 63.23
+sys 0.06
+FINISHED gramschmidt_STANDARD execution: Thu Jul 28 16:06:14 EEST 2016 (sec: 1469711174)
+STARTING ft.A execution: Thu Jul 28 16:06:19 EEST 2016 (sec: 1469711179)
+	130: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.12
+user 8.14
+sys 0.30
+	131: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.17
+user 8.41
+sys 0.27
+	132: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.23
+user 8.29
+sys 0.28
+	133: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.20
+user 8.13
+sys 0.31
+	134: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.18
+user 8.35
+sys 0.28
+	135: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.14
+user 8.20
+sys 0.27
+	136: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.13
+user 8.29
+sys 0.24
+	137: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.26
+user 8.13
+sys 0.26
+	138: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.21
+user 8.30
+sys 0.24
+	139: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.16
+user 8.19
+sys 0.24
+	140: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.17
+user 8.43
+sys 0.28
+	141: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.13
+user 8.23
+sys 0.28
+	142: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.12
+user 8.13
+sys 0.26
+	143: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.11
+user 8.09
+sys 0.26
+	144: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.17
+user 8.17
+sys 0.29
+	145: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.36
+user 8.12
+sys 0.28
+	146: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.23
+user 7.89
+sys 0.26
+	147: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.18
+user 8.43
+sys 0.28
+	148: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.14
+user 8.13
+sys 0.26
+	149: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.10
+user 8.10
+sys 0.24
+	150: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.27
+user 8.15
+sys 0.30
+	151: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.10
+user 8.17
+sys 0.18
+	152: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.14
+user 8.24
+sys 0.33
+	153: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.11
+user 8.12
+sys 0.29
+	154: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.17
+user 8.24
+sys 0.28
+	155: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.16
+user 8.23
+sys 0.27
+	156: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.16
+user 8.26
+sys 0.24
+	157: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.17
+user 8.24
+sys 0.24
+	158: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 3.18
+user 8.44
+sys 0.26
+FINISHED ft.A execution: Thu Jul 28 16:07:51 EEST 2016 (sec: 1469711271)

@@ -1,0 +1,15 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+50006 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$69 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50020 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$106 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50025 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$93 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50027 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$116 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50029 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$49 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50031 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$90 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50033 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$92 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50035 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$84 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50037 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$85 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50039 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$64 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50041 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$80 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50048 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$68 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50050 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$69 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50008 	$./bin/uniform/gemm_STANDARD dummy.out 5 	$13803 	$0.374702 	$49552.361111 	$20.094694 	$19.859014 	$0.008186 	$     1.01 	$  3536.93 	$ 1 	$ 38   

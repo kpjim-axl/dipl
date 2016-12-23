@@ -1,0 +1,36 @@
+l_bal/
+	1-ft.A	13.06
+	2-gemm_STANDARD	95.26
+	3-trmm_STANDARD	58.23
+	4-2mm_STANDARD	75.46
+	5-mvt_STANDARD	61.83
+	6-cholesky_STANDARD	26.09
+	7-doitgen_STANDARD	67.55
+	8-jacLR	54.20
+lca/
+	1-jacLR	53.71
+	2-doitgen_STANDARD	68.48
+	3-mvt_STANDARD	62.50
+	4-2mm_STANDARD	71.71
+	5-cholesky_STANDARD	26.38
+	6-trmm_STANDARD	58.87
+	7-gemm_STANDARD	93.41
+	8-ft.A	5.43
+linux/
+	1-jacLR	51.04
+	2-ft.A	12.43
+	3-mvt_STANDARD	59.66
+	4-trmm_STANDARD	66.34
+	5-2mm_STANDARD	68.35
+	6-cholesky_STANDARD	26.83
+	7-gemm_STANDARD	92.87
+	8-doitgen_STANDARD	59.63
+thbal/
+	1-jacLR	46.97
+	2-ft.A	10.62
+	3-mvt_STANDARD	38.97
+	4-trmm_STANDARD	49.21
+	5-2mm_STANDARD	56.61
+	6-cholesky_STANDARD	22.48
+	7-gemm_STANDARD	76.49
+	8-doitgen_STANDARD	48.45

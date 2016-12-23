@@ -1,0 +1,28 @@
+	7: Executing benchmark: stream_d0
+real 13.58
+user 49.05
+sys 2.20
+	8: Executing benchmark: stream_d0
+real 13.42
+user 49.05
+sys 1.62
+	9: Executing benchmark: stream_d0
+real 13.33
+user 48.73
+sys 1.54
+	10: Executing benchmark: stream_d0
+real 13.40
+user 48.98
+sys 1.60
+	11: Executing benchmark: stream_d0
+real 13.45
+user 49.21
+sys 1.60
+	12: Executing benchmark: stream_d0
+real 13.43
+user 49.11
+sys 1.57
+	13: Executing benchmark: stream_d0
+real 13.46
+user 49.14
+sys 1.62

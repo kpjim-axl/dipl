@@ -1,0 +1,2 @@
+PID   $time     $Instr Ret     $Unh Clk Cycles   $l2 trans reqs $l1lines       $l2lines       $Per Core bw   $Power         $Power2        $Power3        $bandwidth     $              $IPC           $MEM INTENSIITY$L2->L1 BW (MB)$L3->L2 BW (MB)$MM->L3 BW (MB)$L2 REUSE      $L3 REUSE      
+ 5156 $  1004   $  2325110048  $  6212660555     $    21279326  $   123169749  $   149273052  $    15402907  $      26      $       0      $      97      $           0  $              $0.374254      $21279326.000000      $7.851458 $9.515414 $0.981859 $     0.83  $     9.69  

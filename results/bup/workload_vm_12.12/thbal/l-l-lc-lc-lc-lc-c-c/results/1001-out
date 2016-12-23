@@ -1,0 +1,918 @@
+aff-executor-preload.c:affhooks_init()
+[H[J[?25l[m[H[J[2;25HGNU GRUB  version 1.99-27+deb7u2
+
+[m[4;2H+--------------------------------------------------------------------------+[5;2H|[5;77H|[6;2H|[6;77H|[7;2H|[7;77H|[8;2H|[8;77H|[9;2H|[9;77H|[10;2H|[10;77H|[11;2H|[11;77H|[12;2H|[12;77H|[13;2H|[13;77H|[14;2H|[14;77H|[15;2H|[15;77H|[16;2H|[16;77H|[17;2H+--------------------------------------------------------------------------+[m[18;2H[m
+      Use the ^ and v keys to select which entry is highlighted.      
+      Press enter to boot the selected OS, 'e' to edit the commands      
+      before booting or 'c' for a command-line.      
+      [5;78H [7m[5;3HDebian GNU/Linux, with Linux 3.2.0-4-amd64                               [m [5;76H[m[m[6;3HDebian GNU/Linux, with Linux 3.2.0-4-amd64 (recovery mode)               [m [6;76H[m[m[7;3H                                                                         [m [7;76H[m[m[8;3H                                                                         [m [8;76H[m[m[9;3H                                                                         [m [9;76H[m[m[10;3H                                                                         [m [10;76H[m[m[11;3H                                                                         [m [11;76H[m[m[12;3H                                                                         [m [12;76H[m[m[13;3H                                                                         [m [13;76H[m[m[14;3H                                                                         [m [14;76H[m[m[15;3H                                                                         [m [15;76H[m[m[16;3H                                                                         [m [16;76H[m[16;78H [5;76H[22;1H   The highlighted entry will be executed automatically in 5s.                 [5;76H[22;1H   The highlighted entry will be executed automatically in 4s.                 [5;76H[22;1H   The highlighted entry will be executed automatically in 3s.                 [5;76H[22;1H   The highlighted entry will be executed automatically in 2s.                 [5;76H[22;1H   The highlighted entry will be executed automatically in 1s.                 [5;76H[22;1H   The highlighted entry will be executed automatically in 0s.                 [5;76H[?25h[H[J[H[J  Booting 'Debian GNU/Linux, with Linux 3.2.0-4-amd64'
+
+Loading Linux 3.2.0-4-amd64 ...
+Loading initial ramdisk ...
+[    0.000000] Initializing cgroup subsys cpuset
+[    0.000000] Initializing cgroup subsys cpu
+[    0.000000] Linux version 3.2.0-4-amd64 (debian-kernel@lists.debian.org) (gcc version 4.6.3 (Debian 4.6.3-14) ) #1 SMP Debian 3.2.68-1+deb7u3
+[    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-3.2.0-4-amd64 root=UUID=e35ebd7f-2405-4c97-9c3e-26919d55a9e5 ro console=tty0 console=ttyS0,115200n8
+[    0.000000] BIOS-provided physical RAM map:
+[    0.000000]  BIOS-e820: 0000000000000000 - 000000000009f400 (usable)
+[    0.000000]  BIOS-e820: 000000000009f400 - 00000000000a0000 (reserved)
+[    0.000000]  BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)
+[    0.000000]  BIOS-e820: 0000000000100000 - 00000000dfffe000 (usable)
+[    0.000000]  BIOS-e820: 00000000dfffe000 - 00000000e0000000 (reserved)
+[    0.000000]  BIOS-e820: 00000000feffc000 - 00000000ff000000 (reserved)
+[    0.000000]  BIOS-e820: 00000000fffc0000 - 0000000100000000 (reserved)
+[    0.000000]  BIOS-e820: 0000000100000000 - 0000000420000000 (usable)
+[    0.000000] NX (Execute Disable) protection: active
+[    0.000000] SMBIOS 2.4 present.
+[    0.000000] No AGP bridge found
+[    0.000000] last_pfn = 0x420000 max_arch_pfn = 0x400000000
+[    0.000000] PAT not supported by CPU.
+[    0.000000] last_pfn = 0xdfffe max_arch_pfn = 0x400000000
+[    0.000000] found SMP MP-table at [ffff8800000fdac0] fdac0
+[    0.000000] init_memory_mapping: 0000000000000000-00000000dfffe000
+[    0.000000] init_memory_mapping: 0000000100000000-0000000420000000
+[    0.000000] RAMDISK: 36c6c000 - 3762e000
+[    0.000000] ACPI: RSDP 00000000000fd8b0 00014 (v00 BOCHS )
+[    0.000000] ACPI: RSDT 00000000dfffe470 00038 (v01 BOCHS  BXPCRSDT 00000001 BXPC 00000001)
+[    0.000000] ACPI: FACP 00000000dfffff80 00074 (v01 BOCHS  BXPCFACP 00000001 BXPC 00000001)
+[    0.000000] ACPI: DSDT 00000000dfffe4b0 01121 (v01   BXPC   BXDSDT 00000001 INTL 20100528)
+[    0.000000] ACPI: FACS 00000000dfffff40 00040
+[    0.000000] ACPI: SSDT 00000000dffffd70 001C1 (v01 BOCHS  BXPCSSDT 00000001 BXPC 00000001)
+[    0.000000] ACPI: APIC 00000000dffffc70 00090 (v01 BOCHS  BXPCAPIC 00000001 BXPC 00000001)
+[    0.000000] ACPI: HPET 00000000dffffc30 00038 (v01 BOCHS  BXPCHPET 00000001 BXPC 00000001)
+[    0.000000] ACPI: SSDT 00000000dffff5e0 00644 (v01   BXPC BXSSDTPC 00000001 INTL 20100528)
+[    0.000000] No NUMA configuration found
+[    0.000000] Faking a node at 0000000000000000-0000000420000000
+[    0.000000] Initmem setup node 0 0000000000000000-0000000420000000
+[    0.000000]   NODE_DATA [000000041fffb000 - 000000041fffffff]
+[    0.000000] kvm-clock: Using msrs 4b564d01 and 4b564d00
+[    0.000000] kvm-clock: cpu 0, msr 0:16a8741, boot clock
+[    0.000000] Zone PFN ranges:
+[    0.000000]   DMA      0x00000010 -> 0x00001000
+[    0.000000]   DMA32    0x00001000 -> 0x00100000
+[    0.000000]   Normal   0x00100000 -> 0x00420000
+[    0.000000] Movable zone start PFN for each node
+[    0.000000] early_node_map[3] active PFN ranges
+[    0.000000]     0: 0x00000010 -> 0x0000009f
+[    0.000000]     0: 0x00000100 -> 0x000dfffe
+[    0.000000]     0: 0x00100000 -> 0x00420000
+[    0.000000] ACPI: PM-Timer IO Port: 0xb008
+[    0.000000] ACPI: LAPIC (acpi_id[0x00] lapic_id[0x00] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x01] lapic_id[0x01] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x02] lapic_id[0x02] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x03] lapic_id[0x03] enabled)
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0xff] dfl dfl lint[0x1])
+[    0.000000] ACPI: IOAPIC (id[0x04] address[0xfec00000] gsi_base[0])
+[    0.000000] IOAPIC[0]: apic_id 4, version 17, address 0xfec00000, GSI 0-23
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 5 global_irq 5 high level)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 10 global_irq 10 high level)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 11 global_irq 11 high level)
+[    0.000000] Using ACPI (MADT) for SMP configuration information
+[    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+[    0.000000] SMP: Allowing 4 CPUs, 0 hotplug CPUs
+[    0.000000] PM: Registered nosave memory: 000000000009f000 - 00000000000a0000
+[    0.000000] PM: Registered nosave memory: 00000000000a0000 - 00000000000f0000
+[    0.000000] PM: Registered nosave memory: 00000000000f0000 - 0000000000100000
+[    0.000000] PM: Registered nosave memory: 00000000dfffe000 - 00000000e0000000
+[    0.000000] PM: Registered nosave memory: 00000000e0000000 - 00000000feffc000
+[    0.000000] PM: Registered nosave memory: 00000000feffc000 - 00000000ff000000
+[    0.000000] PM: Registered nosave memory: 00000000ff000000 - 00000000fffc0000
+[    0.000000] PM: Registered nosave memory: 00000000fffc0000 - 0000000100000000
+[    0.000000] Allocating PCI resources starting at e0000000 (gap: e0000000:1effc000)
+[    0.000000] Booting paravirtualized kernel on KVM
+[    0.000000] setup_percpu: NR_CPUS:512 nr_cpumask_bits:512 nr_cpu_ids:4 nr_node_ids:1
+[    0.000000] PERCPU: Embedded 27 pages/cpu @ffff88041fc00000 s78912 r8192 d23488 u524288
+[    0.000000] kvm-clock: cpu 0, msr 4:1fc12741, primary cpu clock
+[    0.000000] KVM setup async PF for cpu 0
+[    0.000000] kvm-stealtime: cpu 0, msr 41fc0cfc0
+[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 4135048
+[    0.000000] Policy zone: Normal
+[    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-3.2.0-4-amd64 root=UUID=e35ebd7f-2405-4c97-9c3e-26919d55a9e5 ro console=tty0 console=ttyS0,115200n8
+[    0.000000] PID hash table entries: 4096 (order: 3, 32768 bytes)
+[    0.000000] Checking aperture...
+[    0.000000] No AGP bridge found
+[    0.000000] Memory: 16460264k/17301504k available (3434k kernel code, 524748k absent, 316492k reserved, 3305k data, 580k init)
+[    0.000000] Hierarchical RCU implementation.
+[    0.000000] 	RCU dyntick-idle grace-period acceleration is enabled.
+[    0.000000] NR_IRQS:33024 nr_irqs:712 16
+[    0.000000] Console: colour VGA+ 80x25
+[    0.000000] console [tty0] enabled
+[    0.000000] console [ttyS0] enabled
+[    0.000000] Detected 2199.998 MHz processor.
+[    0.008000] Calibrating delay loop (skipped) preset value.. 4399.99 BogoMIPS (lpj=8799992)
+[    0.008000] pid_max: default: 32768 minimum: 301
+[    0.008000] Security Framework initialized
+[    0.008013] AppArmor: AppArmor disabled by boot time parameter
+[    0.009993] Dentry cache hash table entries: 2097152 (order: 12, 16777216 bytes)
+[    0.014796] Inode-cache hash table entries: 1048576 (order: 11, 8388608 bytes)
+[    0.017622] Mount-cache hash table entries: 256
+[    0.018631] Initializing cgroup subsys cpuacct
+[    0.019467] Initializing cgroup subsys memory
+[    0.020037] Initializing cgroup subsys devices
+[    0.020870] Initializing cgroup subsys freezer
+[    0.021679] Initializing cgroup subsys net_cls
+[    0.022490] Initializing cgroup subsys blkio
+[    0.024025] Initializing cgroup subsys perf_event
+[    0.025012] mce: CPU supports 10 MCE banks
+[    0.027139] ACPI: Core revision 20110623
+[    0.031887] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+[    0.032007] CPU0: Intel QEMU Virtual CPU version 1.1.2 stepping 03
+[    0.036002] Performance Events: unsupported p6 CPU model 2 no PMU driver, software events only.
+[    0.036002] NMI watchdog disabled (cpu0): hardware events not enabled
+[    0.036002] Booting Node   0, Processors  #1
+[    0.052009] kvm-clock: cpu 1, msr 4:1fc92741, secondary cpu clock
+[    0.052180] NMI watchdog disabled (cpu1): hardware events not enabled
+[    0.052477]  #2
+[    0.052213] KVM setup async PF for cpu 1
+[    0.052213] kvm-stealtime: cpu 1, msr 41fc8cfc0
+[    0.068009] kvm-clock: cpu 2, msr 4:1fd12741, secondary cpu clock
+[    0.068138] NMI watchdog disabled (cpu2): hardware events not enabled
+[    0.068389]  #3 Ok.
+[    0.068168] KVM setup async PF for cpu 2
+[    0.068168] kvm-stealtime: cpu 2, msr 41fd0cfc0
+[    0.084010] kvm-clock: cpu 3, msr 4:1fd92741, secondary cpu clock
+[    0.084179] NMI watchdog disabled (cpu3): hardware events not enabled
+[    0.084215] Brought up 4 CPUs
+[    0.084217] Total of 4 processors activated (17599.98 BogoMIPS).
+[    0.084213] KVM setup async PF for cpu 3
+[    0.084213] kvm-stealtime: cpu 3, msr 41fd8cfc0
+[    0.091029] devtmpfs: initialized
+[    0.096379] print_constraints: dummy: 
+[    0.097724] NET: Registered protocol family 16
+[    0.098669] ACPI: bus type pci registered
+[    0.099587] PCI: Using configuration type 1 for base access
+[    0.101023] bio: create slab <bio-0> at 0
+[    0.104409] ACPI: Added _OSI(Module Device)
+[    0.105143] ACPI: Added _OSI(Processor Device)
+[    0.106013] ACPI: Added _OSI(3.0 _SCP Extensions)
+[    0.106916] ACPI: Added _OSI(Processor Aggregator Device)
+[    0.111099] ACPI: Interpreter enabled
+[    0.112019] ACPI: (supports S0 S3 S4 S5)
+[    0.113370] ACPI: Using IOAPIC for interrupt routing
+[    0.118870] ACPI: No dock devices found.
+[    0.119685] HEST: Table not found.
+[    0.120015] PCI: Ignoring host bridge windows from ACPI; if necessary, use "pci=use_crs" and report a bug
+[    0.121911] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+[    0.128941] pci 0000:00:01.3: quirk: [io  0xb000-0xb03f] claimed by PIIX4 ACPI
+[    0.130437] pci 0000:00:01.3: quirk: [io  0xb100-0xb10f] claimed by PIIX4 SMB
+[    0.157079]  pci0000:00: Unable to request _OSC control (_OSC support mask: 0x1e)
+[    0.161400] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 *10 11)
+[    0.163286] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 *10 11)
+[    0.165008] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 10 *11)
+[    0.166794] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 10 *11)
+[    0.168685] ACPI: PCI Interrupt Link [LNKS] (IRQs 9) *0
+[    0.170763] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+[    0.172023] vgaarb: loaded
+[    0.173023] vgaarb: bridge control possible 0000:00:02.0
+[    0.174181] PCI: Using ACPI for IRQ routing
+[    0.176282] HPET: 3 timers in total, 0 timers will be used for per-cpu timer
+[    0.177692] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0
+[    0.179197] hpet0: 3 comparators, 64-bit 100.000000 MHz counter
+[    0.189365] Switching to clocksource kvm-clock
+[    0.196234] pnp: PnP ACPI init
+[    0.197000] ACPI: bus type pnp registered
+[    0.199052] pnp: PnP ACPI: found 8 devices
+[    0.199962] ACPI: ACPI bus type pnp unregistered
+[    0.219361] NET: Registered protocol family 2
+[    0.223048] IP route cache hash table entries: 524288 (order: 10, 4194304 bytes)
+[    0.229765] TCP established hash table entries: 524288 (order: 11, 8388608 bytes)
+[    0.238507] TCP bind hash table entries: 65536 (order: 8, 1048576 bytes)
+[    0.240795] TCP: Hash tables configured (established 524288 bind 65536)
+[    0.242012] TCP reno registered
+[    0.242737] UDP hash table entries: 8192 (order: 6, 262144 bytes)
+[    0.244267] UDP-Lite hash table entries: 8192 (order: 6, 262144 bytes)
+[    0.246385] NET: Registered protocol family 1
+[    0.247278] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+[    0.256745] pci 0000:00:01.0: PIIX3: Enabling Passive Release
+[    0.257853] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+[    0.259134] Unpacking initramfs...
+[    0.506089] Freeing initrd memory: 9992k freed
+[    0.510224] PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+[    0.511469] Placing 64MB software IO TLB between ffff8800dbff0000 - ffff8800dfff0000
+[    0.513192] software IO TLB at phys 0xdbff0000 - 0xdfff0000
+[    0.516583] audit: initializing netlink socket (disabled)
+[    0.517681] type=2000 audit(1481714306.516:1): initialized
+[    0.548324] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+[    0.554366] VFS: Disk quotas dquot_6.5.2
+[    0.555381] Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+[    0.556917] msgmni has been set to 32168
+[    0.558578] alg: No test for stdrng (krng)
+[    0.559605] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 253)
+[    0.561203] io scheduler noop registered
+[    0.562032] io scheduler deadline registered
+[    0.563151] io scheduler cfq registered (default)
+[    0.564396] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+[    0.565479] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+[    0.566684] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+[    0.567997] acpiphp: Slot [3] registered
+[    0.569031] acpiphp: Slot [4] registered
+[    0.569878] acpiphp: Slot [5] registered
+[    0.570725] acpiphp: Slot [6] registered
+[    0.571598] acpiphp: Slot [7] registered
+[    0.572677] acpiphp: Slot [8] registered
+[    0.573537] acpiphp: Slot [9] registered
+[    0.574391] acpiphp: Slot [10] registered
+[    0.575248] acpiphp: Slot [11] registered
+[    0.576254] acpiphp: Slot [12] registered
+[    0.577097] acpiphp: Slot [13] registered
+[    0.577923] acpiphp: Slot [14] registered
+[    0.578745] acpiphp: Slot [15] registered
+[    0.579595] acpiphp: Slot [16] registered
+[    0.580602] acpiphp: Slot [17] registered
+[    0.581424] acpiphp: Slot [18] registered
+[    0.582273] acpiphp: Slot [19] registered
+[    0.583089] acpiphp: Slot [20] registered
+[    0.583969] acpiphp: Slot [21] registered
+[    0.585004] acpiphp: Slot [22] registered
+[    0.585819] acpiphp: Slot [23] registered
+[    0.586629] acpiphp: Slot [24] registered
+[    0.587468] acpiphp: Slot [25] registered
+[    0.588453] acpiphp: Slot [26] registered
+[    0.589269] acpiphp: Slot [27] registered
+[    0.590102] acpiphp: Slot [28] registered
+[    0.590926] acpiphp: Slot [29] registered
+[    0.591780] acpiphp: Slot [30] registered
+[    0.592844] acpiphp: Slot [31] registered
+[    0.593876] ERST: Table is not found!
+[    0.594621] GHES: HEST is not enabled!
+[    0.595651] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+[    0.618674] serial8250: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+[    0.678342] 00:06: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+[    0.680586] Linux agpgart interface v0.103
+[    0.681626] i8042: PNP: PS/2 Controller [PNP0303:KBD,PNP0f13:MOU] at 0x60,0x64 irq 1,12
+[    0.684247] serio: i8042 KBD port at 0x60,0x64 irq 1
+[    0.685197] serio: i8042 AUX port at 0x60,0x64 irq 12
+[    0.686866] mousedev: PS/2 mouse device common for all mice
+[    0.688508] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input0
+[    0.690362] rtc_cmos 00:01: RTC can wake from S4
+[    0.691764] rtc_cmos 00:01: rtc core: registered rtc_cmos as rtc0
+[    0.693190] rtc0: alarms up to one day, 114 bytes nvram, hpet irqs
+[    0.694346] cpuidle: using governor ladder
+[    0.695153] cpuidle: using governor menu
+[    0.696583] TCP cubic registered
+[    0.698372] NET: Registered protocol family 10
+[    0.700320] Mobile IPv6
+[    0.700935] NET: Registered protocol family 17
+[    0.701834] Registering the dns_resolver key type
+[    0.703414] registered taskstats version 1
+[    0.705727] rtc_cmos 00:01: setting system clock to 2016-12-14 11:18:28 UTC (1481714308)
+[    0.707367] Initializing network drop monitor service
+[    0.710257] Freeing unused kernel memory: 580k freed
+[    0.711523] Write protecting the kernel read-only data: 6144k
+[    0.715343] Freeing unused kernel memory: 644k freed
+[    0.719491] Freeing unused kernel memory: 688k freed
+Loading, please wait...
+[    0.738417] udevd[58]: starting version 175
+[    0.752855] SCSI subsystem initialized
+[    0.757033] e1000: Intel(R) PRO/1000 Network Driver - version 7.3.21-k8-NAPI
+[    0.758347] e1000: Copyright (c) 1999-2006 Intel Corporation.
+[    0.759629] ACPI: PCI Interrupt Link [LNKC] enabled at IRQ 11
+[    0.778696] Floppy drive(s): fd0 is 1.44M
+[    0.796825] FDC 0 is a S82078B
+[    1.130611] e1000 0000:00:03.0: eth0: (PCI:33MHz:32-bit) 52:54:00:12:34:56
+[    1.131862] e1000 0000:00:03.0: eth0: Intel(R) PRO/1000 Network Connection
+[    1.134548] scsi0 : ata_piix
+[    1.135698] scsi1 : ata_piix
+[    1.136616] ata1: PATA max MWDMA2 cmd 0x1f0 ctl 0x3f6 bmdma 0xc040 irq 14
+[    1.137834] ata2: PATA max MWDMA2 cmd 0x170 ctl 0x376 bmdma 0xc048 irq 15
+[    2.147224] Refined TSC clocksource calibration: 2199.963 MHz.
+[    2.148767] ata1.00: ATA-7: QEMU HARDDISK, 1.1.2, max UDMA/100
+[    2.150431] ata1.00: 9011200 sectors, multi 16: LBA48 
+[    2.152340] ata2.00: ATAPI: QEMU DVD-ROM, 1.1.2, max UDMA/100
+[    2.154897] ata1.00: configured for MWDMA2
+[    2.156288] ata2.00: configured for MWDMA2
+[    2.156442] scsi 0:0:0:0: Direct-Access     ATA      QEMU HARDDISK    1.1. PQ: 0 ANSI: 5
+[    2.159812] scsi 1:0:0:0: CD-ROM            QEMU     QEMU DVD-ROM     1.1. PQ: 0 ANSI: 5
+[    2.172543] sr0: scsi3-mmc drive: 4x/4x cd/rw xa/form2 tray
+[    2.174451] cdrom: Uniform CD-ROM driver Revision: 3.20
+[    2.178801] sd 0:0:0:0: [sda] 9011200 512-byte logical blocks: (4.61 GB/4.29 GiB)
+[    2.181089] sd 0:0:0:0: [sda] Write Protect is off
+[    2.182063] sd 0:0:0:0: [sda] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+[    2.184702]  sda: sda1
+[    2.185719] sd 0:0:0:0: [sda] Attached SCSI disk
+[    2.189759] sd 0:0:0:0: Attached scsi generic sg0 type 0
+[    2.190965] sr 1:0:0:0: Attached scsi generic sg1 type 5
+Begin: Loading essential drivers ... done.
+Begin: Running /scripts/init-premount ... done.
+Begin: Mounting root file system ... Begin: Running /scripts/local-top ... done.
+Begin: Running /scripts/local-premount ... done.
+[    2.770337] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+Begin: Running /scripts/local-bottom ... done.
+done.
+Begin: Running /scripts/init-bottom ... done.
+INIT: version 2.88 booting
+[[36minfo[39;49m] Using makefile-style concurrent boot in runlevel S.
+findfs: unable to resolve 'UUID="e35ebd7f-2405-4c97-9c3e-26919d55a9e5"'
+[....] Starting the hotplug events dispatcher: udevd[    4.376413] udevd[303]: starting version 175
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0c.
+[....] Synthesizing the initial hotplug events...[    4.479585] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input1
+[    4.481325] ACPI: Power Button [PWRF]
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[    4.530421] parport_pc 00:05: reported by Plug and Play ACPI
+[    4.531857] parport0: PC-style at 0x378, irq 7 [PCSPP,TRISTATE]
+[    4.535263] input: PC Speaker as /devices/platform/pcspkr/input/input2
+[    4.545399] piix4_smbus 0000:00:01.3: SMBus Host Controller at 0xb100, revision 0
+[....] Waiting for /dev to be fully populated...[    4.556724] Error: Driver 'pcspkr' is already registered, aborting...
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+findfs: unable to resolve 'UUID="e35ebd7f-2405-4c97-9c3e-26919d55a9e5"'
+[....] Activating swap...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+Usage: mountpoint [-q] [-d] [-x] path
+[    5.029649] EXT4-fs (sda1): re-mounted. Opts: (null)
+[....] Checking root file system...fsck from util-linux 2.20.1
+/run/rootdev: clean, 32636/264000 files, 884978/1054720 blocks
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[    5.124002] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro,errors=remount-ro
+[    7.165737] input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input3
+[....] Cleaning up temporary files... /tmp[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0c.
+findfs: unable to resolve 'UUID="e35ebd7f-2405-4c97-9c3e-26919d55a9e5"'
+findfs: unable to resolve 'UUID="e35ebd7f-2405-4c97-9c3e-26919d55a9e5"'
+[....] Activating lvm and md swap...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Checking file systems...fsck from util-linux 2.20.1
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Mounting local filesystems...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Activating swapfile swap...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+findfs: unable to resolve 'UUID="e35ebd7f-2405-4c97-9c3e-26919d55a9e5"'
+[....] Cleaning up temporary files...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0c.
+[....] Setting kernel variables ...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Configuring network interfaces...Internet Systems Consortium DHCP Client 4.2.2
+Copyright 2004-2011 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+[    9.362743] ADDRCONF(NETDEV_UP): eth0: link is not ready
+Listening on LPF/eth0/52:54:00:12:34:56
+Sending on   LPF/eth0/52:54:00:12:34:56
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 5
+[   11.360890] e1000: eth0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[   11.366287] ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 9
+DHCPREQUEST on eth0 to 255.255.255.255 port 67
+DHCPOFFER from 10.0.2.2
+DHCPACK from 10.0.2.2
+bound to 10.0.2.15 -- renewal in 39427 seconds.
+ifup: interface eth0 already configured
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Cleaning up temporary files...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0c.
+INIT: Entering runlevel: 2
+[[36minfo[39;49m] Using makefile-style concurrent boot in runlevel 2.
+[....] Starting OpenBSD Secure Shell server: sshd[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0c.
+Entering benchmark mode
+./scaff/bin/uniform/stream_d0
+STARTING stream_d0 execution: Wed Dec 14 13:18:44 EET 2016
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 60580 microseconds.
+   (= 60580 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11660.6      10215.4    0.078313    0.068607     0.100455
+Scale:          11588.2       2019.2    0.396192    0.069036     2.099576
+Add:            13386.4      11817.5    0.101544    0.089643     0.122407
+Triad:          13458.5       2879.1    0.416804    0.089163     2.110502
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 57399 microseconds.
+   (= 57399 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11080.0       2633.5    0.303782    0.072202     2.103411
+Scale:          11043.6       4099.9    0.195125    0.072440     2.098090
+Add:            12468.8       2470.6    0.485704    0.096240     3.160823
+Triad:          12782.0       7118.2    0.168581    0.093882     1.123662
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 60874 microseconds.
+   (= 60874 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11217.0       8722.4    0.091718    0.071320     0.133767
+Scale:          11118.5       2666.1    0.300067    0.071952     2.108034
+Add:            12846.4       3701.9    0.324154    0.093411     2.119906
+Triad:          12856.6       2768.3    0.433483    0.093337     2.155873
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 61365 microseconds.
+   (= 61365 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11194.9       2636.9    0.303386    0.071461     2.121945
+Scale:          11142.5       1955.9    0.409017    0.071797     2.113204
+Add:            12809.5       4371.3    0.274521    0.093680     2.127579
+Triad:          12870.4       7072.5    0.169671    0.093237     1.118299
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 60811 microseconds.
+   (= 60811 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11005.6       5358.0    0.149310    0.072690     1.137930
+Scale:          10993.1       4036.0    0.198215    0.072773     2.102913
+Add:            12687.3       2446.7    0.490452    0.094583     2.130766
+Triad:          12733.2       3586.6    0.334578    0.094242     2.129177
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 55083 microseconds.
+   (= 55083 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11287.1       4085.4    0.195820    0.070877     2.097567
+Scale:          11112.5       5602.7    0.142789    0.071991     1.102135
+Add:            12549.1       2771.4    0.432998    0.095624     2.130498
+Triad:          12963.3       2772.9    0.432760    0.092569     2.123197
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 69628 microseconds.
+   (= 69628 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           10693.0       2220.1    0.360340    0.074815     3.127244
+Scale:          10473.0       3133.1    0.255340    0.076387     2.099995
+Add:            12046.9       2440.5    0.491699    0.099611     2.133297
+Triad:          12127.6       4293.3    0.279502    0.098948     3.116704
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 4092324 microseconds.
+   (= 4092324 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11097.1       3151.5    0.253849    0.072091     2.089422
+Scale:          11021.6       5554.5    0.144027    0.072585     1.104751
+Add:            12708.5       2751.7    0.436099    0.094425     3.123157
+Triad:          12762.0       3119.4    0.384688    0.094029     3.109179
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 56203 microseconds.
+   (= 56203 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11133.4       1915.9    0.417561    0.071856     3.089469
+Scale:          11075.9       5373.9    0.148866    0.072229     1.135021
+Add:            12790.0       2723.2    0.440655    0.093823     2.166629
+Triad:          12827.1       3014.9    0.398017    0.093552     3.182726
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 61865 microseconds.
+   (= 61865 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:            9712.5       1941.5    0.412050    0.082368     3.099176
+Scale:           9551.2       3980.8    0.200967    0.083759     2.097314
+Add:            11835.4       2727.2    0.440005    0.101391     3.182734
+Triad:          11122.6       3633.3    0.330283    0.107888     2.118525
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 62899 microseconds.
+   (= 62899 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11575.1       4165.7    0.192043    0.069114     2.101287
+Scale:          11534.9       4145.3    0.192991    0.069355     2.100495
+Add:            13401.5       2485.4    0.482828    0.089542     3.114792
+Triad:          13457.4       4412.6    0.271949    0.089170     2.132122
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 70358 microseconds.
+   (= 70358 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           10588.3       8553.3    0.093531    0.075555     0.143870
+Scale:          10551.0       1950.4    0.410183    0.075822     2.111843
+Add:            12405.0       3636.7    0.329971    0.096735     2.135472
+Triad:          12205.5       2753.3    0.435841    0.098316     2.129902
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 60343 microseconds.
+   (= 60343 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11136.0       3151.6    0.253838    0.071839     2.104094
+Scale:          11155.6       4001.8    0.199909    0.071713     2.094124
+Add:            12641.4       3097.1    0.387461    0.094926     3.174966
+Triad:          12555.7       2723.9    0.440550    0.095574     3.133103
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 72214 microseconds.
+   (= 72214 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11103.9       3010.5    0.265738    0.072047     2.090882
+Scale:          11073.1       2150.1    0.372081    0.072247     3.094896
+Add:            12747.1       2651.1    0.452642    0.094139     3.154138
+Triad:          12789.3       4128.7    0.290648    0.093828     2.134882
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 78982 microseconds.
+   (= 78982 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11194.1       2668.5    0.299799    0.071466     2.107641
+Scale:          11053.7       3211.6    0.249099    0.072374     3.088765
+Add:            12821.2       1852.1    0.647923    0.093595     3.128921
+Triad:          12828.2       7161.7    0.167558    0.093544     1.152798
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 50000000 (elements), Offset = 0 (elements)
+Memory per array = 381.5 MiB (= 0.4 GiB).
+Total memory required = 1144.4 MiB (= 1.1 GiB).
+Each kernel will be executed 20 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 4
+Number of Threads counted = 4
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 73233 microseconds.
+   (= 73233 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate  Avg Rate   MB/s  Avg time     Min time     Max time
+Copy:           11545.8       4210.9    0.189982    0.069289     2.092485
+Scale:          11539.5       5891.7    0.135785    0.069327     1.103517
+Add:            13265.8       3237.8    0.370622    0.090458     2.121704
+Triad:          13366.2       3742.2    0.320671    0.089779     2.114882
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+INIT: Switching to runlevel: 0
+INIT: Sending processes the TERM signal
+[[36minfo[39;49m] Using makefile-style concurrent boot in runlevel 0.
+[[36minfo[39;49m] Saving the system clock.
+[[36minfo[39;49m] Hardware Clock updated to Wed Dec 14 11:26:34 UTC 2016.
+[....] Asking all remaining processes to terminate...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] All processes ended within 2 seconds...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Deconfiguring network interfaces...Internet Systems Consortium DHCP Client 4.2.2
+Copyright 2004-2011 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/52:54:00:12:34:56
+Sending on   LPF/eth0/52:54:00:12:34:56
+Sending on   Socket/fallback
+DHCPRELEASE on eth0 to 10.0.2.2 port 67
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Deactivating swap...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[  489.331637] EXT4-fs (sda1): re-mounted. Opts: (null)
+[[36minfo[39;49m] Will now halt.
+[  491.922351] sd 0:0:0:0: [sda] Stopping disk
+[  491.925331] ACPI: Preparing to enter system sleep state S5
+[  491.926390] Power down.
+aff-executor-preload.c:affhooks_init()
+aff-executor-preload.c:affhooks_shut()
+HELLO KITTY

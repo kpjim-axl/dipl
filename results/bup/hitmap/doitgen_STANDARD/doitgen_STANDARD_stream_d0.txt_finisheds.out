@@ -1,0 +1,5 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+52339 	$./bin/uniform/stream_d0 	$7132 	$0.735782 	$14427249.666667 	$12.009012 	$12.012450 	$11.730738 	$     1.00 	$     1.02 	$ 1 	$ 8   
+52357 	$./bin/uniform/stream_d0 	$7150 	$0.738421 	$14362634.500000 	$11.985753 	$11.989229 	$11.707714 	$     1.00 	$     1.02 	$ 1 	$ 8   
+52337 	$./bin/uniform/doitgen_STANDARD dummy.out 100 	$15252 	$1.627162 	$568689.882353 	$112.081119 	$0.371022 	$0.301802 	$   308.16 	$     1.25 	$ 1 	$ 19   
+52367 	$./bin/uniform/stream_d0 	$2075 	$inf 	$-nan 	$   inf 	$   inf 	$  -nan 	$     -nan 	$     -nan 	$ 1 	$ 2   

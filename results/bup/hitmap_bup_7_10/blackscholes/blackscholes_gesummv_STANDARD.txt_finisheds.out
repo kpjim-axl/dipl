@@ -1,0 +1,9 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+50150 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$69 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50164 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$110 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50169 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$81 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50171 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$116 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50173 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$134 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50175 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$69 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50177 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$101 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50152 	$./bin/uniform/gesummv_STANDARD dummy.out 70 	$6902 	$0.527303 	$1290226.833333 	$5.086552 	$4.065827 	$3.867130 	$     1.20 	$     1.05 	$ 1 	$ 20   

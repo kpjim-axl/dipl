@@ -1,0 +1,3 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+56922 	$./bin/uniform/gemver_STANDARD dummy.out 50 	$11419 	$0.357902 	$13923546.400000 	$13.119286 	$10.443143 	$2.263204 	$     1.26 	$     4.62 	$ 1 	$ 12   
+56924 	$./bin/jacLR results/jaclr-out 50 	$14712 	$0.526993 	$23320667.200000 	$13.036788 	$8.603706 	$8.415014 	$     1.53 	$     1.02 	$ 1 	$ 17   

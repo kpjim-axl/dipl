@@ -1,0 +1,2 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+39395 	$./bin/jacLR results/jaclr-out 50 	$12345 	$0.597936 	$33245955.090909 	$15.954833 	$10.613049 	$10.366841 	$     1.50 	$     1.02 	$ 1 	$ 13   

@@ -1,0 +1,2 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+34498 	$./bin/uniform/stream_d0 	$6776 	$0.716817 	$15894003.200000 	$13.332190 	$13.336108 	$13.054141 	$     1.00 	$     1.02 	$ 1 	$ 7   

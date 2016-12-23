@@ -1,0 +1,84 @@
+NUMA is available
+set memset to 0-3
+creating cpuset: /dev/cpuset/AFF_1000 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1000
+Shared memory initialized
+forking prog: id:1000 time:0 pid:0 cpuset:[] idpath:/AFF_1000 cmd:./bin/uniform/gesummv_STANDARD dummy.out 70
+READY to execute:.. after fork with pid: 34376 
+READY to execute:.. after fork with pid: 0 
+/AFF_1000
+-----| Scheduler: llcm CPUS: 0,1,2,3,4,5,6,7
+initializing performance counting in cpus: [0, 1, 2, 3, 4, 5, 6, 7]
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+  STARTED RUNNING =>id:1000 time:0 pid:34377 cpuset:[0-7] idpath:/AFF_1000 cmd:./bin/uniform/gesummv_STANDARD dummy.out 70
+		 TICK [ 1 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+/AFF_1000
+Program: ./bin/uniform/gesummv_STANDARD dummy.out 70 added in gang id: 0
+Start execution of gang 0....
+Start execution of prog ./bin/uniform/gesummv_STANDARD dummy.out 70....
+		 TICK [ 2 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 0....
+/AFF_1000
+Program: ./bin/uniform/gesummv_STANDARD dummy.out 70 added in gang id: 1
+Start execution of gang 1....
+Start execution of prog ./bin/uniform/gesummv_STANDARD dummy.out 70....
+		 TICK [ 3 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 1....
+/AFF_1000
+Program: ./bin/uniform/gesummv_STANDARD dummy.out 70 added in gang id: 2
+Start execution of gang 2....
+Start execution of prog ./bin/uniform/gesummv_STANDARD dummy.out 70....
+		 TICK [ 4 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 2....
+/AFF_1000
+Program: ./bin/uniform/gesummv_STANDARD dummy.out 70 added in gang id: 3
+Start execution of gang 3....
+Start execution of prog ./bin/uniform/gesummv_STANDARD dummy.out 70....
+		 TICK [ 5 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 3....
+/AFF_1000
+Program: ./bin/uniform/gesummv_STANDARD dummy.out 70 added in gang id: 4
+Start execution of gang 4....
+Start execution of prog ./bin/uniform/gesummv_STANDARD dummy.out 70....
+		 TICK [ 6 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 4....
+/AFF_1000
+Program: ./bin/uniform/gesummv_STANDARD dummy.out 70 added in gang id: 5
+Start execution of gang 5....
+Start execution of prog ./bin/uniform/gesummv_STANDARD dummy.out 70....
+		 TICK [ 7 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 5....
+/AFF_1000
+Program: ./bin/uniform/gesummv_STANDARD dummy.out 70 added in gang id: 6
+Start execution of gang 6....
+Start execution of prog ./bin/uniform/gesummv_STANDARD dummy.out 70....
+SIGCHLD for pid=34376
+Normal exit [status:0] [secs:7.930048] [ticks:17454035434] id:1000 time:0 pid:34377 cpuset:[0-3] idpath:/AFF_1000 cmd:./bin/uniform/gesummv_STANDARD dummy.out 70
+STOP execution of gang 6....
+PROGRAM EXIT0: PID $34377 	$                           ./bin/uniform/gesummv_STANDARD dummy.out 70 	$6936 	$0.558690 	$3560336.400000 	$6.852772 	$5.417362 	$5.163513 	$     1.26 	$     1.05 	$ 1   
+Start execution of gang 6....
+THE END: total running time: 7.949996 secs [17497941868 ticks]

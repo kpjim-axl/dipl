@@ -1,0 +1,84 @@
+NUMA is available
+set memset to 0-3
+creating cpuset: /dev/cpuset/AFF_1000 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1000
+Shared memory initialized
+forking prog: id:1000 time:0 pid:0 cpuset:[] idpath:/AFF_1000 cmd:./bin/uniform/cholesky_STANDARD dummy.out 100
+READY to execute:.. after fork with pid: 34177 
+READY to execute:.. after fork with pid: 0 
+/AFF_1000
+-----| Scheduler: llcm CPUS: 0,1,2,3,4,5,6,7
+initializing performance counting in cpus: [0, 1, 2, 3, 4, 5, 6, 7]
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+  STARTED RUNNING =>id:1000 time:0 pid:34178 cpuset:[0-7] idpath:/AFF_1000 cmd:./bin/uniform/cholesky_STANDARD dummy.out 100
+		 TICK [ 1 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+/AFF_1000
+Program: ./bin/uniform/cholesky_STANDARD dummy.out 100 added in gang id: 0
+Start execution of gang 0....
+Start execution of prog ./bin/uniform/cholesky_STANDARD dummy.out 100....
+		 TICK [ 2 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 0....
+/AFF_1000
+Program: ./bin/uniform/cholesky_STANDARD dummy.out 100 added in gang id: 1
+Start execution of gang 1....
+Start execution of prog ./bin/uniform/cholesky_STANDARD dummy.out 100....
+		 TICK [ 3 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 1....
+/AFF_1000
+Program: ./bin/uniform/cholesky_STANDARD dummy.out 100 added in gang id: 2
+Start execution of gang 2....
+Start execution of prog ./bin/uniform/cholesky_STANDARD dummy.out 100....
+		 TICK [ 4 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 2....
+/AFF_1000
+Program: ./bin/uniform/cholesky_STANDARD dummy.out 100 added in gang id: 3
+Start execution of gang 3....
+Start execution of prog ./bin/uniform/cholesky_STANDARD dummy.out 100....
+		 TICK [ 5 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 3....
+/AFF_1000
+Program: ./bin/uniform/cholesky_STANDARD dummy.out 100 added in gang id: 4
+Start execution of gang 4....
+Start execution of prog ./bin/uniform/cholesky_STANDARD dummy.out 100....
+		 TICK [ 6 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 4....
+/AFF_1000
+Program: ./bin/uniform/cholesky_STANDARD dummy.out 100 added in gang id: 5
+Start execution of gang 5....
+Start execution of prog ./bin/uniform/cholesky_STANDARD dummy.out 100....
+		 TICK [ 7 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 5....
+/AFF_1000
+Program: ./bin/uniform/cholesky_STANDARD dummy.out 100 added in gang id: 6
+Start execution of gang 6....
+Start execution of prog ./bin/uniform/cholesky_STANDARD dummy.out 100....
+SIGCHLD for pid=34177
+Normal exit [status:0] [secs:7.133577] [ticks:15701003457] id:1000 time:0 pid:34178 cpuset:[0-3] idpath:/AFF_1000 cmd:./bin/uniform/cholesky_STANDARD dummy.out 100
+STOP execution of gang 6....
+PROGRAM EXIT0: PID $34178 	$                         ./bin/uniform/cholesky_STANDARD dummy.out 100 	$6143 	$1.931580 	$9441.000000 	$25.510322 	$33.652193 	$0.001669 	$     0.76 	$ 20176.59 	$ 1   
+Start execution of gang 6....
+THE END: total running time: 7.158298 secs [15755413154 ticks]

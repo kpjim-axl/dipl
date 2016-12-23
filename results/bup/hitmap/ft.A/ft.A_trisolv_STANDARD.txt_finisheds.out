@@ -1,0 +1,4 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+55303 	$./bin/uniform/ft.A results/ft.a-out 	$3296 	$1.325460 	$26358745.000000 	$30.555382 	$5.779027 	$2.823475 	$     5.01 	$     1.96 	$ 1 	$ 4   
+55329 	$./bin/uniform/ft.A results/ft.a-out 	$3318 	$1.347775 	$26294222.000000 	$30.769833 	$5.216197 	$2.766924 	$     5.67 	$     1.84 	$ 1 	$ 4   
+55305 	$./bin/uniform/trisolv_STANDARD dummy.out 90 	$7819 	$0.453955 	$2846079.333333 	$2.754434 	$2.513716 	$2.090742 	$     1.09 	$     1.19 	$ 1 	$ 11   

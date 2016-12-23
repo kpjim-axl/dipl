@@ -1,0 +1,8 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+50410 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$173 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50427 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$132 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50429 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$117 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50431 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$133 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50433 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$116 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50435 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$93 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50412 	$./bin/uniform/stream_d0 	$6756 	$0.728218 	$5878944.733333 	$10.442768 	$10.448684 	$10.220181 	$     1.00 	$     1.02 	$ 1 	$ 17   

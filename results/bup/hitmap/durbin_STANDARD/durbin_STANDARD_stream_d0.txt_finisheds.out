@@ -1,0 +1,3 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+53223 	$./bin/uniform/stream_d0 	$7435 	$0.665016 	$14941669.166667 	$11.955998 	$11.959460 	$11.703265 	$     1.00 	$     1.02 	$ 1 	$ 8   
+53221 	$./bin/uniform/durbin_STANDARD dummy.out 10 	$7467 	$0.264985 	$3435105.714286 	$5.950123 	$4.526108 	$0.507515 	$     1.32 	$    10.14 	$ 1 	$ 9   

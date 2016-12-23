@@ -1,0 +1,3 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+56370 	$./bin/uniform/gemver_STANDARD dummy.out 50 	$8616 	$0.465939 	$16175257.000000 	$17.523516 	$12.965754 	$3.000120 	$     1.35 	$     4.32 	$ 1 	$ 9   
+56372 	$./bin/uniform/2mm_STANDARD dummy.out 2 	$11916 	$0.340357 	$8546098.583333 	$22.390479 	$22.215382 	$0.568580 	$     1.01 	$   333.37 	$ 1 	$ 14   

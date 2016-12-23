@@ -1,0 +1,3 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+54686 	$./bin/uniform/ft.A results/ft.a-out 	$3141 	$1.452071 	$29851205.000000 	$33.838825 	$5.713228 	$3.118028 	$     5.75 	$     1.81 	$ 1 	$ 4   
+54688 	$./bin/uniform/durbin_STANDARD dummy.out 10 	$6404 	$0.267786 	$2699777.714286 	$6.242998 	$4.783846 	$0.494536 	$     1.31 	$    11.67 	$ 1 	$ 9   

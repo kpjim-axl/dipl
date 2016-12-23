@@ -1,0 +1,2 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+38913 	$./bin/blackscholes 4 bin/in_10M.txt bsdummy 	$82524 	$-nan 	$299202.481481 	$1.238937 	$1.929094 	$0.347790 	$     0.74 	$   149.85 	$ 1 	$ 83   

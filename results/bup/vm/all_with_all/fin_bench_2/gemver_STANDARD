@@ -1,0 +1,306 @@
+Starting bench2: jacLR
+real 47.00
+user 108.67
+sys 1.76
+real 46.17
+user 108.14
+sys 1.68
+Starting bench2: stream_d0
+real 12.64
+user 32.83
+sys 0.77
+real 12.74
+user 32.19
+sys 0.78
+real 13.08
+user 32.79
+sys 0.74
+real 12.74
+user 33.42
+sys 0.72
+real 12.98
+user 33.90
+sys 0.78
+Starting bench2: ep.A.g
+Command exited with non-zero status 26
+real 14.33
+user 43.46
+sys 0.00
+Command exited with non-zero status 26
+real 14.37
+user 43.47
+sys 0.01
+Command exited with non-zero status 26
+real 13.98
+user 43.41
+sys 0.00
+Command exited with non-zero status 26
+real 14.23
+user 43.42
+sys 0.04
+Command exited with non-zero status 26
+real 14.12
+user 43.43
+sys 0.02
+Starting bench2: 2mm_STANDARD
+real 25.24
+user 77.01
+sys 0.10
+real 25.80
+user 80.12
+sys 0.06
+real 27.02
+user 81.39
+sys 0.09
+Starting bench2: 3mm_STANDARD
+real 38.53
+user 117.73
+sys 0.18
+real 38.80
+user 118.21
+sys 0.15
+Starting bench2: cholesky_STANDARD
+real 10.32
+user 29.91
+sys 0.05
+real 10.42
+user 29.76
+sys 0.06
+real 10.24
+user 29.80
+sys 0.06
+real 10.71
+user 29.80
+sys 0.06
+real 10.63
+user 29.77
+sys 0.08
+real 10.15
+user 29.76
+sys 0.03
+Starting bench2: doitgen_STANDARD
+real 24.58
+user 64.81
+sys 0.54
+real 24.40
+user 64.89
+sys 0.54
+real 24.72
+user 64.86
+sys 0.63
+Starting bench2: gemm_STANDARD
+real 31.80
+user 98.78
+sys 0.10
+real 27.78
+user 99.04
+sys 0.10
+Starting bench2: gemver_STANDARD
+real 15.81
+user 49.80
+sys 0.24
+real 15.75
+user 49.87
+sys 0.20
+real 15.59
+user 50.31
+sys 0.18
+real 15.78
+user 50.23
+sys 0.17
+Starting bench2: gesummv_STANDARD
+real 9.52
+user 17.28
+sys 0.46
+real 9.46
+user 16.71
+sys 0.52
+real 9.33
+user 17.08
+sys 0.51
+real 9.24
+user 17.19
+sys 0.66
+real 9.37
+user 17.09
+sys 0.53
+real 9.42
+user 17.28
+sys 0.53
+real 9.37
+user 17.25
+sys 0.52
+Starting bench2: mvt_STANDARD
+real 19.31
+user 61.99
+sys 0.23
+real 19.30
+user 61.91
+sys 0.20
+real 19.57
+user 61.86
+sys 0.18
+real 18.98
+user 61.97
+sys 0.26
+Starting bench2: syr2k_STANDARD
+real 14.44
+user 69.40
+sys 0.16
+real 14.84
+user 69.37
+sys 0.15
+real 14.75
+user 69.56
+sys 0.14
+real 14.77
+user 69.48
+sys 0.11
+real 15.12
+user 69.86
+sys 0.11
+Starting bench2: syrk_STANDARD
+real 15.37
+user 69.63
+sys 0.41
+real 15.26
+user 69.28
+sys 0.28
+real 15.44
+user 69.67
+sys 0.34
+real 15.62
+user 69.61
+sys 0.22
+Starting bench2: trisolv_STANDARD
+real 10.07
+user 15.50
+sys 0.61
+real 9.57
+user 15.44
+sys 0.55
+real 9.78
+user 15.29
+sys 0.60
+real 9.71
+user 15.70
+sys 0.46
+real 9.83
+user 15.34
+sys 0.68
+real 9.68
+user 15.52
+sys 0.64
+real 9.67
+user 15.63
+sys 0.54
+Starting bench2: trmm_STANDARD
+real 12.92
+user 64.34
+sys 0.37
+real 12.85
+user 64.25
+sys 0.42
+real 12.76
+user 64.52
+sys 0.36
+real 12.79
+user 64.30
+sys 0.37
+real 12.83
+user 64.30
+sys 0.51
+Starting bench2: durbin_STANDARD
+real 12.80
+user 13.08
+sys 0.16
+real 12.97
+user 13.10
+sys 0.14
+real 13.04
+user 13.17
+sys 0.19
+real 13.26
+user 13.09
+sys 0.19
+real 13.17
+user 13.18
+sys 0.17
+Starting bench2: gramschmidt_STANDARD
+real 18.34
+user 66.92
+sys 0.09
+real 18.13
+user 67.44
+sys 0.08
+real 18.23
+user 67.06
+sys 0.07
+real 18.20
+user 66.83
+sys 0.12
+Starting bench2: ft.A
+Command exited with non-zero status 26
+real 3.76
+user 10.66
+sys 0.31
+Command exited with non-zero status 26
+real 3.68
+user 10.68
+sys 0.40
+Command exited with non-zero status 26
+real 3.79
+user 11.03
+sys 0.36
+Command exited with non-zero status 26
+real 3.88
+user 11.17
+sys 0.34
+Command exited with non-zero status 26
+real 3.78
+user 10.56
+sys 0.26
+Command exited with non-zero status 26
+real 3.82
+user 10.88
+sys 0.38
+Command exited with non-zero status 26
+real 3.75
+user 10.73
+sys 0.43
+Command exited with non-zero status 26
+real 3.86
+user 10.27
+sys 0.36
+Command exited with non-zero status 26
+real 3.83
+user 11.21
+sys 0.30
+Command exited with non-zero status 26
+real 3.79
+user 11.20
+sys 0.43
+Command exited with non-zero status 26
+real 3.76
+user 11.13
+sys 0.37
+Command exited with non-zero status 26
+real 3.83
+user 10.66
+sys 0.28
+Command exited with non-zero status 26
+real 3.77
+user 10.53
+sys 0.37
+Command exited with non-zero status 26
+real 3.64
+user 10.72
+sys 0.31
+Command exited with non-zero status 26
+real 3.76
+user 10.69
+sys 0.35
+Command exited with non-zero status 26
+real 3.74
+user 10.90
+sys 0.30

@@ -1,0 +1,486 @@
+STARTING gramschmidt_STANDARD execution: Thu Jul 28 18:26:15 EEST 2016
+	2: Executing benchmark: gramschmidt_STANDARD
+real 23.24
+user 53.18
+sys 0.11
+	3: Executing benchmark: gramschmidt_STANDARD
+real 23.58
+user 53.97
+sys 0.14
+	4: Executing benchmark: gramschmidt_STANDARD
+real 23.72
+user 54.29
+sys 0.09
+	5: Executing benchmark: gramschmidt_STANDARD
+real 23.98
+user 54.85
+sys 0.06
+	6: Executing benchmark: gramschmidt_STANDARD
+real 20.17
+user 46.40
+sys 0.08
+	7: Executing benchmark: gramschmidt_STANDARD
+real 20.95
+user 48.26
+sys 0.06
+	8: Executing benchmark: gramschmidt_STANDARD
+real 21.10
+user 48.52
+sys 0.03
+	9: Executing benchmark: gramschmidt_STANDARD
+real 20.93
+user 48.26
+sys 0.05
+	10: Executing benchmark: gramschmidt_STANDARD
+real 20.30
+user 46.83
+sys 0.05
+	11: Executing benchmark: gramschmidt_STANDARD
+real 21.21
+user 48.93
+sys 0.05
+	12: Executing benchmark: gramschmidt_STANDARD
+real 21.41
+user 49.12
+sys 0.05
+	13: Executing benchmark: gramschmidt_STANDARD
+real 20.95
+user 48.20
+sys 0.05
+	14: Executing benchmark: gramschmidt_STANDARD
+real 22.92
+user 52.54
+sys 0.06
+	15: Executing benchmark: gramschmidt_STANDARD
+real 24.01
+user 54.92
+sys 0.06
+	16: Executing benchmark: gramschmidt_STANDARD
+real 24.13
+user 55.31
+sys 0.06
+	17: Executing benchmark: gramschmidt_STANDARD
+real 24.07
+user 55.07
+sys 0.07
+	18: Executing benchmark: gramschmidt_STANDARD
+real 21.50
+user 49.11
+sys 0.06
+	19: Executing benchmark: gramschmidt_STANDARD
+real 21.69
+user 49.79
+sys 0.03
+	20: Executing benchmark: gramschmidt_STANDARD
+real 21.66
+user 49.76
+sys 0.05
+	21: Executing benchmark: gramschmidt_STANDARD
+real 21.56
+user 49.51
+sys 0.04
+	22: Executing benchmark: gramschmidt_STANDARD
+real 21.41
+user 49.22
+sys 0.04
+	23: Executing benchmark: gramschmidt_STANDARD
+real 21.98
+user 50.48
+sys 0.04
+	24: Executing benchmark: gramschmidt_STANDARD
+real 21.70
+user 49.90
+sys 0.08
+	25: Executing benchmark: gramschmidt_STANDARD
+real 22.00
+user 50.56
+sys 0.04
+	26: Executing benchmark: gramschmidt_STANDARD
+real 21.99
+user 50.33
+sys 0.05
+	27: Executing benchmark: gramschmidt_STANDARD
+real 21.59
+user 49.51
+sys 0.06
+	28: Executing benchmark: gramschmidt_STANDARD
+real 21.90
+user 50.47
+sys 0.05
+	29: Executing benchmark: gramschmidt_STANDARD
+real 21.97
+user 50.52
+sys 0.06
+	30: Executing benchmark: gramschmidt_STANDARD
+real 22.21
+user 51.03
+sys 0.06
+	31: Executing benchmark: gramschmidt_STANDARD
+real 22.21
+user 51.01
+sys 0.05
+	32: Executing benchmark: gramschmidt_STANDARD
+real 21.75
+user 49.92
+sys 0.06
+	33: Executing benchmark: gramschmidt_STANDARD
+real 21.87
+user 50.29
+sys 0.03
+	34: Executing benchmark: gramschmidt_STANDARD
+real 21.97
+user 50.51
+sys 0.04
+	35: Executing benchmark: gramschmidt_STANDARD
+real 21.91
+user 50.32
+sys 0.05
+	36: Executing benchmark: gramschmidt_STANDARD
+real 22.05
+user 50.63
+sys 0.06
+	37: Executing benchmark: gramschmidt_STANDARD
+real 21.85
+user 50.09
+sys 0.07
+	38: Executing benchmark: gramschmidt_STANDARD
+real 21.91
+user 50.39
+sys 0.04
+	39: Executing benchmark: gramschmidt_STANDARD
+real 21.90
+user 50.36
+sys 0.04
+	40: Executing benchmark: gramschmidt_STANDARD
+real 22.22
+user 51.05
+sys 0.05
+	41: Executing benchmark: gramschmidt_STANDARD
+real 21.63
+user 49.83
+sys 0.06
+	42: Executing benchmark: gramschmidt_STANDARD
+real 21.98
+user 50.55
+sys 0.04
+	43: Executing benchmark: gramschmidt_STANDARD
+real 21.90
+user 50.37
+sys 0.04
+	44: Executing benchmark: gramschmidt_STANDARD
+real 21.98
+user 50.70
+sys 0.06
+	45: Executing benchmark: gramschmidt_STANDARD
+real 21.86
+user 50.33
+sys 0.05
+	46: Executing benchmark: gramschmidt_STANDARD
+real 21.72
+user 50.04
+sys 0.06
+	47: Executing benchmark: gramschmidt_STANDARD
+real 22.11
+user 50.83
+sys 0.07
+	48: Executing benchmark: gramschmidt_STANDARD
+real 21.93
+user 50.55
+sys 0.05
+	49: Executing benchmark: gramschmidt_STANDARD
+real 21.94
+user 50.51
+sys 0.05
+	50: Executing benchmark: gramschmidt_STANDARD
+real 21.78
+user 50.36
+sys 0.04
+	51: Executing benchmark: gramschmidt_STANDARD
+real 21.68
+user 49.87
+sys 0.08
+	52: Executing benchmark: gramschmidt_STANDARD
+real 21.64
+user 49.83
+sys 0.04
+	53: Executing benchmark: gramschmidt_STANDARD
+real 21.79
+user 50.11
+sys 0.08
+	54: Executing benchmark: gramschmidt_STANDARD
+real 21.85
+user 50.24
+sys 0.06
+	55: Executing benchmark: gramschmidt_STANDARD
+real 21.50
+user 49.46
+sys 0.06
+	56: Executing benchmark: gramschmidt_STANDARD
+real 21.94
+user 50.49
+sys 0.06
+	57: Executing benchmark: gramschmidt_STANDARD
+real 21.98
+user 50.65
+sys 0.06
+	58: Executing benchmark: gramschmidt_STANDARD
+real 21.83
+user 50.37
+sys 0.07
+	59: Executing benchmark: gramschmidt_STANDARD
+real 21.97
+user 50.63
+sys 0.05
+	60: Executing benchmark: gramschmidt_STANDARD
+real 22.33
+user 51.31
+sys 0.05
+	61: Executing benchmark: gramschmidt_STANDARD
+real 22.39
+user 51.51
+sys 0.05
+	62: Executing benchmark: gramschmidt_STANDARD
+real 22.69
+user 52.20
+sys 0.02
+	63: Executing benchmark: gramschmidt_STANDARD
+real 22.67
+user 52.19
+sys 0.04
+	64: Executing benchmark: gramschmidt_STANDARD
+real 21.99
+user 50.72
+sys 0.06
+	65: Executing benchmark: gramschmidt_STANDARD
+real 22.19
+user 51.15
+sys 0.02
+	66: Executing benchmark: gramschmidt_STANDARD
+real 22.30
+user 51.44
+sys 0.04
+	67: Executing benchmark: gramschmidt_STANDARD
+real 22.06
+user 50.90
+sys 0.05
+	68: Executing benchmark: gramschmidt_STANDARD
+real 22.05
+user 50.83
+sys 0.05
+	69: Executing benchmark: gramschmidt_STANDARD
+real 21.36
+user 49.28
+sys 0.05
+	70: Executing benchmark: gramschmidt_STANDARD
+real 21.30
+user 49.05
+sys 0.06
+	71: Executing benchmark: gramschmidt_STANDARD
+real 21.23
+user 49.05
+sys 0.04
+	72: Executing benchmark: gramschmidt_STANDARD
+real 21.36
+user 49.25
+sys 0.06
+	73: Executing benchmark: gramschmidt_STANDARD
+real 21.22
+user 49.00
+sys 0.05
+	74: Executing benchmark: gramschmidt_STANDARD
+real 22.02
+user 50.54
+sys 0.06
+	75: Executing benchmark: gramschmidt_STANDARD
+real 21.99
+user 50.66
+sys 0.04
+	76: Executing benchmark: gramschmidt_STANDARD
+real 22.18
+user 51.21
+sys 0.05
+	77: Executing benchmark: gramschmidt_STANDARD
+real 22.12
+user 50.96
+sys 0.04
+	78: Executing benchmark: gramschmidt_STANDARD
+real 21.81
+user 50.43
+sys 0.04
+	79: Executing benchmark: gramschmidt_STANDARD
+real 20.89
+user 48.23
+sys 0.05
+	80: Executing benchmark: gramschmidt_STANDARD
+real 21.02
+user 48.32
+sys 0.07
+	81: Executing benchmark: gramschmidt_STANDARD
+real 21.05
+user 48.42
+sys 0.06
+	82: Executing benchmark: gramschmidt_STANDARD
+real 20.73
+user 47.75
+sys 0.06
+	83: Executing benchmark: gramschmidt_STANDARD
+real 20.88
+user 48.05
+sys 0.04
+	84: Executing benchmark: gramschmidt_STANDARD
+real 21.31
+user 49.11
+sys 0.05
+	85: Executing benchmark: gramschmidt_STANDARD
+real 21.40
+user 49.23
+sys 0.04
+	86: Executing benchmark: gramschmidt_STANDARD
+real 21.37
+user 49.10
+sys 0.04
+	87: Executing benchmark: gramschmidt_STANDARD
+real 21.36
+user 49.26
+sys 0.05
+	88: Executing benchmark: gramschmidt_STANDARD
+real 21.45
+user 49.41
+sys 0.05
+	89: Executing benchmark: gramschmidt_STANDARD
+real 21.60
+user 49.70
+sys 0.05
+	90: Executing benchmark: gramschmidt_STANDARD
+real 22.18
+user 51.20
+sys 0.04
+	91: Executing benchmark: gramschmidt_STANDARD
+real 22.13
+user 50.95
+sys 0.06
+	92: Executing benchmark: gramschmidt_STANDARD
+real 22.11
+user 50.85
+sys 0.05
+	93: Executing benchmark: gramschmidt_STANDARD
+real 21.52
+user 49.65
+sys 0.05
+	94: Executing benchmark: gramschmidt_STANDARD
+real 21.29
+user 48.97
+sys 0.06
+	95: Executing benchmark: gramschmidt_STANDARD
+real 20.54
+user 47.20
+sys 0.06
+	96: Executing benchmark: gramschmidt_STANDARD
+real 20.79
+user 47.74
+sys 0.06
+	97: Executing benchmark: gramschmidt_STANDARD
+real 20.30
+user 46.82
+sys 0.06
+	98: Executing benchmark: gramschmidt_STANDARD
+real 20.85
+user 47.91
+sys 0.05
+	99: Executing benchmark: gramschmidt_STANDARD
+real 21.05
+user 48.48
+sys 0.04
+	100: Executing benchmark: gramschmidt_STANDARD
+real 20.84
+user 47.98
+sys 0.05
+	101: Executing benchmark: gramschmidt_STANDARD
+real 20.66
+user 47.66
+sys 0.05
+	102: Executing benchmark: gramschmidt_STANDARD
+real 20.77
+user 47.79
+sys 0.06
+	103: Executing benchmark: gramschmidt_STANDARD
+real 20.75
+user 47.79
+sys 0.05
+	104: Executing benchmark: gramschmidt_STANDARD
+real 20.81
+user 47.91
+sys 0.04
+	105: Executing benchmark: gramschmidt_STANDARD
+real 21.21
+user 48.79
+sys 0.06
+	106: Executing benchmark: gramschmidt_STANDARD
+real 20.82
+user 47.95
+sys 0.04
+	107: Executing benchmark: gramschmidt_STANDARD
+real 20.97
+user 48.23
+sys 0.05
+	108: Executing benchmark: gramschmidt_STANDARD
+real 20.82
+user 47.91
+sys 0.04
+	109: Executing benchmark: gramschmidt_STANDARD
+real 20.66
+user 47.60
+sys 0.07
+	110: Executing benchmark: gramschmidt_STANDARD
+real 21.06
+user 48.43
+sys 0.05
+	111: Executing benchmark: gramschmidt_STANDARD
+real 21.15
+user 48.71
+sys 0.05
+	112: Executing benchmark: gramschmidt_STANDARD
+real 20.88
+user 48.03
+sys 0.06
+	113: Executing benchmark: gramschmidt_STANDARD
+real 20.75
+user 47.80
+sys 0.07
+	114: Executing benchmark: gramschmidt_STANDARD
+real 20.79
+user 47.79
+sys 0.04
+	115: Executing benchmark: gramschmidt_STANDARD
+real 20.74
+user 47.61
+sys 0.06
+	116: Executing benchmark: gramschmidt_STANDARD
+real 21.04
+user 48.31
+sys 0.06
+	117: Executing benchmark: gramschmidt_STANDARD
+real 20.96
+user 48.30
+sys 0.05
+	118: Executing benchmark: gramschmidt_STANDARD
+real 20.83
+user 47.83
+sys 0.07
+	119: Executing benchmark: gramschmidt_STANDARD
+real 20.81
+user 47.94
+sys 0.05
+	120: Executing benchmark: gramschmidt_STANDARD
+real 20.78
+user 47.88
+sys 0.04
+	121: Executing benchmark: gramschmidt_STANDARD
+real 20.98
+user 48.15
+sys 0.04
+	122: Executing benchmark: gramschmidt_STANDARD
+real 21.06
+user 48.53
+sys 0.05
+FINISHED gramschmidt_STANDARD execution: Thu Jul 28 19:09:54 EEST 2016

@@ -1,0 +1,682 @@
+STARTING trmm_STANDARD execution: Thu Jul 28 13:19:50 EEST 2016
+	2: Executing benchmark: trmm_STANDARD
+real 30.14
+user 118.40
+sys 0.48
+	3: Executing benchmark: trmm_STANDARD
+real 30.09
+user 118.71
+sys 0.44
+	4: Executing benchmark: trmm_STANDARD
+real 30.07
+user 118.45
+sys 0.38
+	5: Executing benchmark: trmm_STANDARD
+real 19.58
+user 77.09
+sys 0.43
+	6: Executing benchmark: trmm_STANDARD
+real 14.07
+user 55.45
+sys 0.34
+	7: Executing benchmark: trmm_STANDARD
+real 14.64
+user 57.81
+sys 0.34
+	8: Executing benchmark: trmm_STANDARD
+real 14.78
+user 58.19
+sys 0.41
+	9: Executing benchmark: trmm_STANDARD
+real 14.65
+user 57.79
+sys 0.36
+	10: Executing benchmark: trmm_STANDARD
+real 14.73
+user 57.92
+sys 0.37
+	11: Executing benchmark: trmm_STANDARD
+real 14.09
+user 55.71
+sys 0.28
+	12: Executing benchmark: trmm_STANDARD
+real 14.30
+user 56.42
+sys 0.32
+	13: Executing benchmark: trmm_STANDARD
+real 14.73
+user 58.15
+sys 0.29
+	14: Executing benchmark: trmm_STANDARD
+real 14.70
+user 57.94
+sys 0.34
+	15: Executing benchmark: trmm_STANDARD
+real 14.71
+user 58.05
+sys 0.29
+	16: Executing benchmark: trmm_STANDARD
+real 14.38
+user 56.73
+sys 0.36
+	17: Executing benchmark: trmm_STANDARD
+real 20.31
+user 80.21
+sys 0.28
+	18: Executing benchmark: trmm_STANDARD
+real 27.95
+user 109.98
+sys 0.45
+	19: Executing benchmark: trmm_STANDARD
+real 27.12
+user 106.87
+sys 0.42
+	20: Executing benchmark: trmm_STANDARD
+real 25.25
+user 99.32
+sys 0.40
+	21: Executing benchmark: trmm_STANDARD
+real 14.45
+user 56.99
+sys 0.34
+	22: Executing benchmark: trmm_STANDARD
+real 14.74
+user 58.07
+sys 0.40
+	23: Executing benchmark: trmm_STANDARD
+real 14.76
+user 58.23
+sys 0.40
+	24: Executing benchmark: trmm_STANDARD
+real 14.72
+user 58.06
+sys 0.36
+	25: Executing benchmark: trmm_STANDARD
+real 14.71
+user 58.05
+sys 0.39
+	26: Executing benchmark: trmm_STANDARD
+real 14.68
+user 57.94
+sys 0.28
+	27: Executing benchmark: trmm_STANDARD
+real 14.53
+user 57.39
+sys 0.32
+	28: Executing benchmark: trmm_STANDARD
+real 14.68
+user 57.97
+sys 0.31
+	29: Executing benchmark: trmm_STANDARD
+real 14.89
+user 58.80
+sys 0.30
+	30: Executing benchmark: trmm_STANDARD
+real 14.87
+user 58.75
+sys 0.32
+	31: Executing benchmark: trmm_STANDARD
+real 14.98
+user 59.13
+sys 0.28
+	32: Executing benchmark: trmm_STANDARD
+real 14.98
+user 59.12
+sys 0.40
+	33: Executing benchmark: trmm_STANDARD
+real 14.97
+user 59.10
+sys 0.31
+	34: Executing benchmark: trmm_STANDARD
+real 14.85
+user 58.68
+sys 0.31
+	35: Executing benchmark: trmm_STANDARD
+real 14.54
+user 57.12
+sys 0.30
+	36: Executing benchmark: trmm_STANDARD
+real 14.96
+user 59.04
+sys 0.37
+	37: Executing benchmark: trmm_STANDARD
+real 15.10
+user 59.59
+sys 0.33
+	38: Executing benchmark: trmm_STANDARD
+real 14.85
+user 58.68
+sys 0.32
+	39: Executing benchmark: trmm_STANDARD
+real 14.96
+user 58.99
+sys 0.31
+	40: Executing benchmark: trmm_STANDARD
+real 15.09
+user 59.61
+sys 0.32
+	41: Executing benchmark: trmm_STANDARD
+real 15.00
+user 59.15
+sys 0.36
+	42: Executing benchmark: trmm_STANDARD
+real 15.01
+user 59.33
+sys 0.30
+	43: Executing benchmark: trmm_STANDARD
+real 14.53
+user 57.34
+sys 0.28
+	44: Executing benchmark: trmm_STANDARD
+real 14.93
+user 58.94
+sys 0.35
+	45: Executing benchmark: trmm_STANDARD
+real 14.93
+user 58.79
+sys 0.41
+	46: Executing benchmark: trmm_STANDARD
+real 15.00
+user 59.31
+sys 0.29
+	47: Executing benchmark: trmm_STANDARD
+real 14.96
+user 58.99
+sys 0.33
+	48: Executing benchmark: trmm_STANDARD
+real 14.94
+user 59.04
+sys 0.30
+	49: Executing benchmark: trmm_STANDARD
+real 14.91
+user 58.80
+sys 0.35
+	50: Executing benchmark: trmm_STANDARD
+real 14.44
+user 57.06
+sys 0.28
+	51: Executing benchmark: trmm_STANDARD
+real 14.72
+user 58.09
+sys 0.29
+	52: Executing benchmark: trmm_STANDARD
+real 14.71
+user 58.06
+sys 0.37
+	53: Executing benchmark: trmm_STANDARD
+real 14.80
+user 58.29
+sys 0.37
+	54: Executing benchmark: trmm_STANDARD
+real 14.83
+user 58.51
+sys 0.32
+	55: Executing benchmark: trmm_STANDARD
+real 14.76
+user 58.33
+sys 0.31
+	56: Executing benchmark: trmm_STANDARD
+real 14.61
+user 57.68
+sys 0.34
+	57: Executing benchmark: trmm_STANDARD
+real 15.00
+user 59.15
+sys 0.36
+	58: Executing benchmark: trmm_STANDARD
+real 15.04
+user 59.38
+sys 0.33
+	59: Executing benchmark: trmm_STANDARD
+real 15.14
+user 59.70
+sys 0.32
+	60: Executing benchmark: trmm_STANDARD
+real 15.03
+user 59.23
+sys 0.34
+	61: Executing benchmark: trmm_STANDARD
+real 14.93
+user 58.93
+sys 0.30
+	62: Executing benchmark: trmm_STANDARD
+real 14.96
+user 59.11
+sys 0.30
+	63: Executing benchmark: trmm_STANDARD
+real 14.70
+user 57.97
+sys 0.34
+	64: Executing benchmark: trmm_STANDARD
+real 15.51
+user 61.31
+sys 0.30
+	65: Executing benchmark: trmm_STANDARD
+real 15.67
+user 61.89
+sys 0.35
+	66: Executing benchmark: trmm_STANDARD
+real 15.47
+user 61.03
+sys 0.33
+	67: Executing benchmark: trmm_STANDARD
+real 15.42
+user 60.89
+sys 0.34
+	68: Executing benchmark: trmm_STANDARD
+real 15.64
+user 61.67
+sys 0.34
+	69: Executing benchmark: trmm_STANDARD
+real 15.65
+user 61.73
+sys 0.36
+	70: Executing benchmark: trmm_STANDARD
+real 14.90
+user 58.85
+sys 0.33
+	71: Executing benchmark: trmm_STANDARD
+real 15.64
+user 61.62
+sys 0.36
+	72: Executing benchmark: trmm_STANDARD
+real 15.60
+user 61.60
+sys 0.31
+	73: Executing benchmark: trmm_STANDARD
+real 15.62
+user 61.61
+sys 0.29
+	74: Executing benchmark: trmm_STANDARD
+real 15.65
+user 61.71
+sys 0.30
+	75: Executing benchmark: trmm_STANDARD
+real 15.65
+user 61.80
+sys 0.32
+	76: Executing benchmark: trmm_STANDARD
+real 15.14
+user 59.59
+sys 0.40
+	77: Executing benchmark: trmm_STANDARD
+real 14.96
+user 59.03
+sys 0.30
+	78: Executing benchmark: trmm_STANDARD
+real 15.13
+user 59.77
+sys 0.32
+	79: Executing benchmark: trmm_STANDARD
+real 15.18
+user 59.91
+sys 0.31
+	80: Executing benchmark: trmm_STANDARD
+real 15.08
+user 59.57
+sys 0.34
+	81: Executing benchmark: trmm_STANDARD
+real 15.06
+user 59.44
+sys 0.32
+	82: Executing benchmark: trmm_STANDARD
+real 15.08
+user 59.51
+sys 0.33
+	83: Executing benchmark: trmm_STANDARD
+real 14.76
+user 58.32
+sys 0.31
+	84: Executing benchmark: trmm_STANDARD
+real 15.91
+user 62.73
+sys 0.37
+	85: Executing benchmark: trmm_STANDARD
+real 15.93
+user 62.92
+sys 0.37
+	86: Executing benchmark: trmm_STANDARD
+real 15.89
+user 62.75
+sys 0.29
+	87: Executing benchmark: trmm_STANDARD
+real 15.88
+user 62.74
+sys 0.35
+	88: Executing benchmark: trmm_STANDARD
+real 15.89
+user 62.69
+sys 0.33
+	89: Executing benchmark: trmm_STANDARD
+real 15.24
+user 60.12
+sys 0.42
+	90: Executing benchmark: trmm_STANDARD
+real 15.91
+user 62.83
+sys 0.31
+	91: Executing benchmark: trmm_STANDARD
+real 15.72
+user 62.07
+sys 0.34
+	92: Executing benchmark: trmm_STANDARD
+real 15.79
+user 62.36
+sys 0.37
+	93: Executing benchmark: trmm_STANDARD
+real 15.81
+user 62.45
+sys 0.30
+	94: Executing benchmark: trmm_STANDARD
+real 15.82
+user 62.47
+sys 0.38
+	95: Executing benchmark: trmm_STANDARD
+real 15.23
+user 60.12
+sys 0.34
+	96: Executing benchmark: trmm_STANDARD
+real 14.78
+user 58.35
+sys 0.27
+	97: Executing benchmark: trmm_STANDARD
+real 14.85
+user 58.63
+sys 0.36
+	98: Executing benchmark: trmm_STANDARD
+real 14.82
+user 58.42
+sys 0.33
+	99: Executing benchmark: trmm_STANDARD
+real 14.92
+user 58.91
+sys 0.36
+	100: Executing benchmark: trmm_STANDARD
+real 14.75
+user 58.17
+sys 0.35
+	101: Executing benchmark: trmm_STANDARD
+real 14.87
+user 58.70
+sys 0.36
+	102: Executing benchmark: trmm_STANDARD
+real 14.60
+user 57.53
+sys 0.40
+	103: Executing benchmark: trmm_STANDARD
+real 15.75
+user 62.22
+sys 0.37
+	104: Executing benchmark: trmm_STANDARD
+real 15.84
+user 62.55
+sys 0.32
+	105: Executing benchmark: trmm_STANDARD
+real 15.89
+user 62.73
+sys 0.36
+	106: Executing benchmark: trmm_STANDARD
+real 15.74
+user 62.13
+sys 0.40
+	107: Executing benchmark: trmm_STANDARD
+real 15.92
+user 62.87
+sys 0.31
+	108: Executing benchmark: trmm_STANDARD
+real 15.85
+user 62.61
+sys 0.34
+	109: Executing benchmark: trmm_STANDARD
+real 14.48
+user 57.10
+sys 0.34
+	110: Executing benchmark: trmm_STANDARD
+real 14.42
+user 56.85
+sys 0.33
+	111: Executing benchmark: trmm_STANDARD
+real 14.28
+user 56.33
+sys 0.38
+	112: Executing benchmark: trmm_STANDARD
+real 14.40
+user 56.76
+sys 0.35
+	113: Executing benchmark: trmm_STANDARD
+real 14.28
+user 56.42
+sys 0.30
+	114: Executing benchmark: trmm_STANDARD
+real 14.35
+user 56.67
+sys 0.32
+	115: Executing benchmark: trmm_STANDARD
+real 14.37
+user 56.64
+sys 0.32
+	116: Executing benchmark: trmm_STANDARD
+real 14.16
+user 55.91
+sys 0.34
+	117: Executing benchmark: trmm_STANDARD
+real 14.51
+user 57.23
+sys 0.32
+	118: Executing benchmark: trmm_STANDARD
+real 14.48
+user 57.26
+sys 0.26
+	119: Executing benchmark: trmm_STANDARD
+real 14.48
+user 57.15
+sys 0.30
+	120: Executing benchmark: trmm_STANDARD
+real 14.54
+user 57.35
+sys 0.34
+	121: Executing benchmark: trmm_STANDARD
+real 14.46
+user 57.09
+sys 0.36
+	122: Executing benchmark: trmm_STANDARD
+real 14.52
+user 57.24
+sys 0.36
+	123: Executing benchmark: trmm_STANDARD
+real 14.51
+user 57.38
+sys 0.29
+	124: Executing benchmark: trmm_STANDARD
+real 14.33
+user 56.56
+sys 0.30
+	125: Executing benchmark: trmm_STANDARD
+real 15.72
+user 62.01
+sys 0.34
+	126: Executing benchmark: trmm_STANDARD
+real 16.01
+user 63.18
+sys 0.35
+	127: Executing benchmark: trmm_STANDARD
+real 15.83
+user 62.53
+sys 0.33
+	128: Executing benchmark: trmm_STANDARD
+real 15.88
+user 62.68
+sys 0.29
+	129: Executing benchmark: trmm_STANDARD
+real 16.01
+user 63.18
+sys 0.36
+	130: Executing benchmark: trmm_STANDARD
+real 15.90
+user 62.71
+sys 0.32
+	131: Executing benchmark: trmm_STANDARD
+real 13.97
+user 55.17
+sys 0.35
+	132: Executing benchmark: trmm_STANDARD
+real 14.26
+user 56.23
+sys 0.37
+	133: Executing benchmark: trmm_STANDARD
+real 14.01
+user 55.33
+sys 0.35
+	134: Executing benchmark: trmm_STANDARD
+real 13.98
+user 55.11
+sys 0.32
+	135: Executing benchmark: trmm_STANDARD
+real 13.93
+user 54.99
+sys 0.34
+	136: Executing benchmark: trmm_STANDARD
+real 13.87
+user 54.78
+sys 0.30
+	137: Executing benchmark: trmm_STANDARD
+real 13.96
+user 55.09
+sys 0.28
+	138: Executing benchmark: trmm_STANDARD
+real 13.93
+user 54.94
+sys 0.30
+	139: Executing benchmark: trmm_STANDARD
+real 13.95
+user 55.03
+sys 0.33
+	140: Executing benchmark: trmm_STANDARD
+real 13.82
+user 54.58
+sys 0.33
+	141: Executing benchmark: trmm_STANDARD
+real 14.11
+user 55.73
+sys 0.31
+	142: Executing benchmark: trmm_STANDARD
+real 14.01
+user 55.34
+sys 0.28
+	143: Executing benchmark: trmm_STANDARD
+real 13.97
+user 55.07
+sys 0.31
+	144: Executing benchmark: trmm_STANDARD
+real 13.94
+user 55.14
+sys 0.27
+	145: Executing benchmark: trmm_STANDARD
+real 14.02
+user 55.34
+sys 0.32
+	146: Executing benchmark: trmm_STANDARD
+real 13.95
+user 55.06
+sys 0.28
+	147: Executing benchmark: trmm_STANDARD
+real 13.85
+user 54.67
+sys 0.26
+	148: Executing benchmark: trmm_STANDARD
+real 13.88
+user 54.81
+sys 0.32
+	149: Executing benchmark: trmm_STANDARD
+real 13.82
+user 54.60
+sys 0.28
+	150: Executing benchmark: trmm_STANDARD
+real 13.86
+user 54.69
+sys 0.32
+	151: Executing benchmark: trmm_STANDARD
+real 14.13
+user 55.75
+sys 0.29
+	152: Executing benchmark: trmm_STANDARD
+real 14.09
+user 55.65
+sys 0.27
+	153: Executing benchmark: trmm_STANDARD
+real 14.03
+user 55.38
+sys 0.32
+	154: Executing benchmark: trmm_STANDARD
+real 14.06
+user 55.54
+sys 0.32
+	155: Executing benchmark: trmm_STANDARD
+real 14.05
+user 55.43
+sys 0.30
+	156: Executing benchmark: trmm_STANDARD
+real 13.99
+user 55.26
+sys 0.26
+	157: Executing benchmark: trmm_STANDARD
+real 13.84
+user 54.62
+sys 0.28
+	158: Executing benchmark: trmm_STANDARD
+real 14.00
+user 55.20
+sys 0.30
+	159: Executing benchmark: trmm_STANDARD
+real 13.86
+user 54.76
+sys 0.32
+	160: Executing benchmark: trmm_STANDARD
+real 14.10
+user 55.66
+sys 0.34
+	161: Executing benchmark: trmm_STANDARD
+real 14.06
+user 55.55
+sys 0.28
+	162: Executing benchmark: trmm_STANDARD
+real 14.02
+user 55.38
+sys 0.30
+	163: Executing benchmark: trmm_STANDARD
+real 14.16
+user 55.88
+sys 0.29
+	164: Executing benchmark: trmm_STANDARD
+real 13.87
+user 54.74
+sys 0.27
+	165: Executing benchmark: trmm_STANDARD
+real 13.97
+user 55.11
+sys 0.36
+	166: Executing benchmark: trmm_STANDARD
+real 13.91
+user 54.94
+sys 0.32
+	167: Executing benchmark: trmm_STANDARD
+real 13.90
+user 54.87
+sys 0.34
+	168: Executing benchmark: trmm_STANDARD
+real 13.86
+user 54.63
+sys 0.33
+	169: Executing benchmark: trmm_STANDARD
+real 13.90
+user 54.90
+sys 0.24
+	170: Executing benchmark: trmm_STANDARD
+real 13.94
+user 55.08
+sys 0.26
+	171: Executing benchmark: trmm_STANDARD
+real 13.86
+user 54.75
+sys 0.33
+FINISHED trmm_STANDARD execution: Thu Jul 28 14:03:13 EEST 2016

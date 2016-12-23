@@ -1,0 +1,4 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+62982 	$./bin/uniform/cholesky_STANDARD dummy.out 100 	$6297 	$1.919887 	$645524.800000 	$24.999635 	$33.054846 	$0.137677 	$     0.76 	$   240.15 	$ 1 	$ 7   
+63000 	$./bin/uniform/cholesky_STANDARD dummy.out 100 	$6286 	$1.920326 	$644605.400000 	$24.899500 	$32.886758 	$0.139459 	$     0.76 	$   235.85 	$ 1 	$ 7   
+62980 	$./bin/uniform/syrk_STANDARD dummy.out 40 	$15490 	$2.489023 	$807553.666667 	$20.196074 	$20.198138 	$0.367549 	$     1.00 	$    69.56 	$ 1 	$ 20   

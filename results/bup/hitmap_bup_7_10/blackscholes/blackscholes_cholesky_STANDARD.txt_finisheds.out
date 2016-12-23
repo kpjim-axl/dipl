@@ -1,0 +1,8 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+49699 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$85 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49713 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$70 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49718 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$68 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49720 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$73 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49722 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$65 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49724 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$77 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+49701 	$./bin/uniform/cholesky_STANDARD dummy.out 100 	$5927 	$1.935817 	$2182.733333 	$19.807085 	$26.213744 	$0.001157 	$     0.76 	$      inf 	$ 1 	$ 17   

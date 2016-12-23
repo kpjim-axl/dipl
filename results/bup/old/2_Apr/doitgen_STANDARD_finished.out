@@ -1,0 +1,2 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+38998 	$./bin/uniform/doitgen_STANDARD dummy.out 100 	$14345 	$1.679171 	$536715.076923 	$125.293336 	$0.403948 	$0.276014 	$   310.30 	$     1.46 	$ 1 	$ 15   

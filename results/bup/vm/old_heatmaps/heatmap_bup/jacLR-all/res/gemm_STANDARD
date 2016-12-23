@@ -1,0 +1,8 @@
+	32: Executing benchmark: gemm_STANDARD
+real 38.61
+user 153.10
+sys 0.12
+	33: Executing benchmark: gemm_STANDARD
+real 38.79
+user 153.74
+sys 0.10

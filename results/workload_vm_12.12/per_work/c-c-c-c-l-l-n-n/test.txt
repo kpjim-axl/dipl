@@ -1,0 +1,36 @@
+l_bal/
+	1-2mm_STANDARD	71.49
+	2-cholesky_STANDARD	26.28
+	3-gemm_STANDARD	95.47
+	4-syrk_STANDARD	64.71
+	5-jacLR	54.23
+	6-doitgen_STANDARD	68.16
+	7-doitgen_STANDARD	66.57
+	8-stream_d0	30.51
+lca/
+	1-2mm_STANDARD	71.49
+	2-cholesky_STANDARD	26.29
+	3-gemm_STANDARD	95.26
+	4-syrk_STANDARD	64.62
+	5-jacLR	54.68
+	6-doitgen_STANDARD	68.17
+	7-stream_d0	30.21
+	8-doitgen_STANDARD	66.53
+linux/
+	1-2mm_STANDARD	79.55
+	2-cholesky_STANDARD	29.34
+	3-gemm_STANDARD	96.26
+	4-syrk_STANDARD	80.31
+	5-jacLR	53.45
+	6-stream_d0	26.64
+	7-doitgen_STANDARD	66.32
+	8-doitgen_STANDARD	65.65
+thbal/
+	1-2mm_STANDARD	41.61
+	2-cholesky_STANDARD	26.26
+	3-gemm_STANDARD	51.57
+	4-syrk_STANDARD	59.35
+	5-jacLR	51.33
+	6-stream_d0	27.75
+	7-doitgen_STANDARD	56.04
+	8-doitgen_STANDARD	55.24

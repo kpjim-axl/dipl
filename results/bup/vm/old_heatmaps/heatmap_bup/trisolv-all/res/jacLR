@@ -1,0 +1,24 @@
+	1: Executing benchmark: jacLR
+real 14.59
+user 52.52
+sys 0.08
+	2: Executing benchmark: jacLR
+real 15.08
+user 54.63
+sys 0.06
+	3: Executing benchmark: jacLR
+real 15.08
+user 54.63
+sys 0.08
+	4: Executing benchmark: jacLR
+real 15.08
+user 54.67
+sys 0.05
+	5: Executing benchmark: jacLR
+real 15.13
+user 54.82
+sys 0.06
+	6: Executing benchmark: jacLR
+real 15.08
+user 54.67
+sys 0.07

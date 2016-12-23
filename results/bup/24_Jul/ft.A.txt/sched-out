@@ -1,0 +1,60 @@
+NUMA is available
+set memset to 0-3
+creating cpuset: /dev/cpuset/AFF_1000 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1000
+Shared memory initialized
+forking prog: id:1000 time:0 pid:0 cpuset:[] idpath:/AFF_1000 cmd:./bin/uniform/ft.A results/ft.a-out
+READY to execute:.. after fork with pid: 34290 
+READY to execute:.. after fork with pid: 0 
+/AFF_1000
+-----| Scheduler: llcm CPUS: 0,1,2,3,4,5,6,7
+initializing performance counting in cpus: [0, 1, 2, 3, 4, 5, 6, 7]
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+  STARTED RUNNING =>id:1000 time:0 pid:34291 cpuset:[0-7] idpath:/AFF_1000 cmd:./bin/uniform/ft.A results/ft.a-out
+		 TICK [ 1 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+/AFF_1000
+Program: ./bin/uniform/ft.A results/ft.a-out added in gang id: 0
+Start execution of gang 0....
+Start execution of prog ./bin/uniform/ft.A results/ft.a-out....
+		 TICK [ 2 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 0....
+/AFF_1000
+Program: ./bin/uniform/ft.A results/ft.a-out added in gang id: 1
+Start execution of gang 1....
+Start execution of prog ./bin/uniform/ft.A results/ft.a-out....
+		 TICK [ 3 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 1....
+/AFF_1000
+Program: ./bin/uniform/ft.A results/ft.a-out added in gang id: 2
+Start execution of gang 2....
+Start execution of prog ./bin/uniform/ft.A results/ft.a-out....
+SIGCHLD for pid=34290
+Normal exit [status:26] [secs:7.328297] [ticks:8793956556] id:1000 time:0 pid:34291 cpuset:[0-3] idpath:/AFF_1000 cmd:./bin/uniform/ft.A results/ft.a-out
+STOP execution of gang 2....
+PROGRAM EXIT0: PID $34291 	$                                   ./bin/uniform/ft.A results/ft.a-out 	$2998 	$1.177642 	$17636446.000000 	$19.427248 	$3.524707 	$1.664148 	$     5.51 	$     2.12 	$ 1   
+Start execution of gang 2....
+THE END: total running time: 7.355898 secs [8827077681 ticks]

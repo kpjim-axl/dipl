@@ -1,0 +1,1089 @@
+aff-executor-preload.c:affhooks_init()
+[H[J[?25l[m[H[J[2;25HGNU GRUB  version 1.99-27+deb7u2
+
+[m[4;2H+--------------------------------------------------------------------------+[5;2H|[5;77H|[6;2H|[6;77H|[7;2H|[7;77H|[8;2H|[8;77H|[9;2H|[9;77H|[10;2H|[10;77H|[11;2H|[11;77H|[12;2H|[12;77H|[13;2H|[13;77H|[14;2H|[14;77H|[15;2H|[15;77H|[16;2H|[16;77H|[17;2H+--------------------------------------------------------------------------+[m[18;2H[m
+      Use the ^ and v keys to select which entry is highlighted.      
+      Press enter to boot the selected OS, 'e' to edit the commands      
+      before booting or 'c' for a command-line.      
+      [5;78H [7m[5;3HDebian GNU/Linux, with Linux 3.2.0-4-amd64                               [m [5;76H[m[m[6;3HDebian GNU/Linux, with Linux 3.2.0-4-amd64 (recovery mode)               [m [6;76H[m[m[7;3H                                                                         [m [7;76H[m[m[8;3H                                                                         [m [8;76H[m[m[9;3H                                                                         [m [9;76H[m[m[10;3H                                                                         [m [10;76H[m[m[11;3H                                                                         [m [11;76H[m[m[12;3H                                                                         [m [12;76H[m[m[13;3H                                                                         [m [13;76H[m[m[14;3H                                                                         [m [14;76H[m[m[15;3H                                                                         [m [15;76H[m[m[16;3H                                                                         [m [16;76H[m[16;78H [5;76H[22;1H   The highlighted entry will be executed automatically in 5s.                 [5;76H[22;1H   The highlighted entry will be executed automatically in 4s.                 [5;76H[22;1H   The highlighted entry will be executed automatically in 3s.                 [5;76H[22;1H   The highlighted entry will be executed automatically in 2s.                 [5;76H[22;1H   The highlighted entry will be executed automatically in 1s.                 [5;76H[22;1H   The highlighted entry will be executed automatically in 0s.                 [5;76H[?25h[H[J[H[J  Booting 'Debian GNU/Linux, with Linux 3.2.0-4-amd64'
+
+Loading Linux 3.2.0-4-amd64 ...
+Loading initial ramdisk ...
+[    0.000000] Initializing cgroup subsys cpuset
+[    0.000000] Initializing cgroup subsys cpu
+[    0.000000] Linux version 3.2.0-4-amd64 (debian-kernel@lists.debian.org) (gcc version 4.6.3 (Debian 4.6.3-14) ) #1 SMP Debian 3.2.68-1+deb7u3
+[    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-3.2.0-4-amd64 root=UUID=e35ebd7f-2405-4c97-9c3e-26919d55a9e5 ro console=tty0 console=ttyS0,115200n8
+[    0.000000] BIOS-provided physical RAM map:
+[    0.000000]  BIOS-e820: 0000000000000000 - 000000000009f400 (usable)
+[    0.000000]  BIOS-e820: 000000000009f400 - 00000000000a0000 (reserved)
+[    0.000000]  BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)
+[    0.000000]  BIOS-e820: 0000000000100000 - 00000000dfffe000 (usable)
+[    0.000000]  BIOS-e820: 00000000dfffe000 - 00000000e0000000 (reserved)
+[    0.000000]  BIOS-e820: 00000000feffc000 - 00000000ff000000 (reserved)
+[    0.000000]  BIOS-e820: 00000000fffc0000 - 0000000100000000 (reserved)
+[    0.000000]  BIOS-e820: 0000000100000000 - 0000000420000000 (usable)
+[    0.000000] NX (Execute Disable) protection: active
+[    0.000000] SMBIOS 2.4 present.
+[    0.000000] No AGP bridge found
+[    0.000000] last_pfn = 0x420000 max_arch_pfn = 0x400000000
+[    0.000000] PAT not supported by CPU.
+[    0.000000] last_pfn = 0xdfffe max_arch_pfn = 0x400000000
+[    0.000000] found SMP MP-table at [ffff8800000fdac0] fdac0
+[    0.000000] init_memory_mapping: 0000000000000000-00000000dfffe000
+[    0.000000] init_memory_mapping: 0000000100000000-0000000420000000
+[    0.000000] RAMDISK: 36c6c000 - 3762e000
+[    0.000000] ACPI: RSDP 00000000000fd8b0 00014 (v00 BOCHS )
+[    0.000000] ACPI: RSDT 00000000dfffe470 00038 (v01 BOCHS  BXPCRSDT 00000001 BXPC 00000001)
+[    0.000000] ACPI: FACP 00000000dfffff80 00074 (v01 BOCHS  BXPCFACP 00000001 BXPC 00000001)
+[    0.000000] ACPI: DSDT 00000000dfffe4b0 01121 (v01   BXPC   BXDSDT 00000001 INTL 20100528)
+[    0.000000] ACPI: FACS 00000000dfffff40 00040
+[    0.000000] ACPI: SSDT 00000000dffffd70 001C1 (v01 BOCHS  BXPCSSDT 00000001 BXPC 00000001)
+[    0.000000] ACPI: APIC 00000000dffffc70 00090 (v01 BOCHS  BXPCAPIC 00000001 BXPC 00000001)
+[    0.000000] ACPI: HPET 00000000dffffc30 00038 (v01 BOCHS  BXPCHPET 00000001 BXPC 00000001)
+[    0.000000] ACPI: SSDT 00000000dffff5e0 00644 (v01   BXPC BXSSDTPC 00000001 INTL 20100528)
+[    0.000000] No NUMA configuration found
+[    0.000000] Faking a node at 0000000000000000-0000000420000000
+[    0.000000] Initmem setup node 0 0000000000000000-0000000420000000
+[    0.000000]   NODE_DATA [000000041fffb000 - 000000041fffffff]
+[    0.000000] kvm-clock: Using msrs 4b564d01 and 4b564d00
+[    0.000000] kvm-clock: cpu 0, msr 0:16a8741, boot clock
+[    0.000000] Zone PFN ranges:
+[    0.000000]   DMA      0x00000010 -> 0x00001000
+[    0.000000]   DMA32    0x00001000 -> 0x00100000
+[    0.000000]   Normal   0x00100000 -> 0x00420000
+[    0.000000] Movable zone start PFN for each node
+[    0.000000] early_node_map[3] active PFN ranges
+[    0.000000]     0: 0x00000010 -> 0x0000009f
+[    0.000000]     0: 0x00000100 -> 0x000dfffe
+[    0.000000]     0: 0x00100000 -> 0x00420000
+[    0.000000] ACPI: PM-Timer IO Port: 0xb008
+[    0.000000] ACPI: LAPIC (acpi_id[0x00] lapic_id[0x00] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x01] lapic_id[0x01] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x02] lapic_id[0x02] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x03] lapic_id[0x03] enabled)
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0xff] dfl dfl lint[0x1])
+[    0.000000] ACPI: IOAPIC (id[0x04] address[0xfec00000] gsi_base[0])
+[    0.000000] IOAPIC[0]: apic_id 4, version 17, address 0xfec00000, GSI 0-23
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 5 global_irq 5 high level)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 10 global_irq 10 high level)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 11 global_irq 11 high level)
+[    0.000000] Using ACPI (MADT) for SMP configuration information
+[    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+[    0.000000] SMP: Allowing 4 CPUs, 0 hotplug CPUs
+[    0.000000] PM: Registered nosave memory: 000000000009f000 - 00000000000a0000
+[    0.000000] PM: Registered nosave memory: 00000000000a0000 - 00000000000f0000
+[    0.000000] PM: Registered nosave memory: 00000000000f0000 - 0000000000100000
+[    0.000000] PM: Registered nosave memory: 00000000dfffe000 - 00000000e0000000
+[    0.000000] PM: Registered nosave memory: 00000000e0000000 - 00000000feffc000
+[    0.000000] PM: Registered nosave memory: 00000000feffc000 - 00000000ff000000
+[    0.000000] PM: Registered nosave memory: 00000000ff000000 - 00000000fffc0000
+[    0.000000] PM: Registered nosave memory: 00000000fffc0000 - 0000000100000000
+[    0.000000] Allocating PCI resources starting at e0000000 (gap: e0000000:1effc000)
+[    0.000000] Booting paravirtualized kernel on KVM
+[    0.000000] setup_percpu: NR_CPUS:512 nr_cpumask_bits:512 nr_cpu_ids:4 nr_node_ids:1
+[    0.000000] PERCPU: Embedded 27 pages/cpu @ffff88041fc00000 s78912 r8192 d23488 u524288
+[    0.000000] kvm-clock: cpu 0, msr 4:1fc12741, primary cpu clock
+[    0.000000] KVM setup async PF for cpu 0
+[    0.000000] kvm-stealtime: cpu 0, msr 41fc0cfc0
+[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 4135048
+[    0.000000] Policy zone: Normal
+[    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-3.2.0-4-amd64 root=UUID=e35ebd7f-2405-4c97-9c3e-26919d55a9e5 ro console=tty0 console=ttyS0,115200n8
+[    0.000000] PID hash table entries: 4096 (order: 3, 32768 bytes)
+[    0.000000] Checking aperture...
+[    0.000000] No AGP bridge found
+[    0.000000] Memory: 16460264k/17301504k available (3434k kernel code, 524748k absent, 316492k reserved, 3305k data, 580k init)
+[    0.000000] Hierarchical RCU implementation.
+[    0.000000] 	RCU dyntick-idle grace-period acceleration is enabled.
+[    0.000000] NR_IRQS:33024 nr_irqs:712 16
+[    0.000000] Console: colour VGA+ 80x25
+[    0.000000] console [tty0] enabled
+[    0.000000] console [ttyS0] enabled
+[    0.000000] Detected 2199.998 MHz processor.
+[    0.008000] Calibrating delay loop (skipped) preset value.. 4399.99 BogoMIPS (lpj=8799992)
+[    0.008000] pid_max: default: 32768 minimum: 301
+[    0.008000] Security Framework initialized
+[    0.008000] AppArmor: AppArmor disabled by boot time parameter
+[    0.008910] Dentry cache hash table entries: 2097152 (order: 12, 16777216 bytes)
+[    0.014401] Inode-cache hash table entries: 1048576 (order: 11, 8388608 bytes)
+[    0.017325] Mount-cache hash table entries: 256
+[    0.018302] Initializing cgroup subsys cpuacct
+[    0.019135] Initializing cgroup subsys memory
+[    0.020034] Initializing cgroup subsys devices
+[    0.020828] Initializing cgroup subsys freezer
+[    0.021631] Initializing cgroup subsys net_cls
+[    0.022435] Initializing cgroup subsys blkio
+[    0.023210] Initializing cgroup subsys perf_event
+[    0.024099] mce: CPU supports 10 MCE banks
+[    0.026096] ACPI: Core revision 20110623
+[    0.030766] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+[    0.031782] CPU0: Intel QEMU Virtual CPU version 1.1.2 stepping 03
+[    0.036002] Performance Events: unsupported p6 CPU model 2 no PMU driver, software events only.
+[    0.036002] NMI watchdog disabled (cpu0): hardware events not enabled
+[    0.036002] Booting Node   0, Processors  #1
+[    0.048008] kvm-clock: cpu 1, msr 4:1fc92741, secondary cpu clock
+[    0.052013] NMI watchdog disabled (cpu1): hardware events not enabled
+[    0.052239]  #2
+[    0.052044] KVM setup async PF for cpu 1
+[    0.052044] kvm-stealtime: cpu 1, msr 41fc8cfc0
+[    0.064008] kvm-clock: cpu 2, msr 4:1fd12741, secondary cpu clock
+[    0.068012] NMI watchdog disabled (cpu2): hardware events not enabled
+[    0.068226]  #3 Ok.
+[    0.068037] KVM setup async PF for cpu 2
+[    0.068037] kvm-stealtime: cpu 2, msr 41fd0cfc0
+[    0.080009] kvm-clock: cpu 3, msr 4:1fd92741, secondary cpu clock
+[    0.084020] NMI watchdog disabled (cpu3): hardware events not enabled
+[    0.084052] Brought up 4 CPUs
+[    0.084054] Total of 4 processors activated (17599.98 BogoMIPS).
+[    0.084051] KVM setup async PF for cpu 3
+[    0.084051] kvm-stealtime: cpu 3, msr 41fd8cfc0
+[    0.090857] devtmpfs: initialized
+[    0.096390] print_constraints: dummy: 
+[    0.097735] NET: Registered protocol family 16
+[    0.098717] ACPI: bus type pci registered
+[    0.099718] PCI: Using configuration type 1 for base access
+[    0.101022] bio: create slab <bio-0> at 0
+[    0.104575] ACPI: Added _OSI(Module Device)
+[    0.105251] ACPI: Added _OSI(Processor Device)
+[    0.106136] ACPI: Added _OSI(3.0 _SCP Extensions)
+[    0.107018] ACPI: Added _OSI(Processor Aggregator Device)
+[    0.110957] ACPI: Interpreter enabled
+[    0.112013] ACPI: (supports S0 S3 S4 S5)
+[    0.113323] ACPI: Using IOAPIC for interrupt routing
+[    0.118730] ACPI: No dock devices found.
+[    0.119517] HEST: Table not found.
+[    0.120013] PCI: Ignoring host bridge windows from ACPI; if necessary, use "pci=use_crs" and report a bug
+[    0.121837] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+[    0.128567] pci 0000:00:01.3: quirk: [io  0xb000-0xb03f] claimed by PIIX4 ACPI
+[    0.130074] pci 0000:00:01.3: quirk: [io  0xb100-0xb10f] claimed by PIIX4 SMB
+[    0.150378]  pci0000:00: Unable to request _OSC control (_OSC support mask: 0x1e)
+[    0.154374] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 *10 11)
+[    0.156105] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 *10 11)
+[    0.157767] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 10 *11)
+[    0.159365] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 10 *11)
+[    0.160934] ACPI: PCI Interrupt Link [LNKS] (IRQs 9) *0
+[    0.162691] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+[    0.164016] vgaarb: loaded
+[    0.164730] vgaarb: bridge control possible 0000:00:02.0
+[    0.165803] PCI: Using ACPI for IRQ routing
+[    0.168085] HPET: 3 timers in total, 0 timers will be used for per-cpu timer
+[    0.170390] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0
+[    0.173353] hpet0: 3 comparators, 64-bit 100.000000 MHz counter
+[    0.185257] Switching to clocksource kvm-clock
+[    0.187919] pnp: PnP ACPI init
+[    0.188760] ACPI: bus type pnp registered
+[    0.190720] pnp: PnP ACPI: found 8 devices
+[    0.191533] ACPI: ACPI bus type pnp unregistered
+[    0.209932] NET: Registered protocol family 2
+[    0.213719] IP route cache hash table entries: 524288 (order: 10, 4194304 bytes)
+[    0.220195] TCP established hash table entries: 524288 (order: 11, 8388608 bytes)
+[    0.228516] TCP bind hash table entries: 65536 (order: 8, 1048576 bytes)
+[    0.230514] TCP: Hash tables configured (established 524288 bind 65536)
+[    0.231679] TCP reno registered
+[    0.232466] UDP hash table entries: 8192 (order: 6, 262144 bytes)
+[    0.233788] UDP-Lite hash table entries: 8192 (order: 6, 262144 bytes)
+[    0.235809] NET: Registered protocol family 1
+[    0.236825] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+[    0.245707] pci 0000:00:01.0: PIIX3: Enabling Passive Release
+[    0.246768] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+[    0.248044] Unpacking initramfs...
+[    0.476588] Freeing initrd memory: 9992k freed
+[    0.480050] PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+[    0.481266] Placing 64MB software IO TLB between ffff8800dbff0000 - ffff8800dfff0000
+[    0.482614] software IO TLB at phys 0xdbff0000 - 0xdfff0000
+[    0.485710] audit: initializing netlink socket (disabled)
+[    0.486717] type=2000 audit(1481717055.484:1): initialized
+[    0.515207] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+[    0.521068] VFS: Disk quotas dquot_6.5.2
+[    0.522001] Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+[    0.523394] msgmni has been set to 32168
+[    0.525125] alg: No test for stdrng (krng)
+[    0.526183] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 253)
+[    0.527647] io scheduler noop registered
+[    0.528575] io scheduler deadline registered
+[    0.529636] io scheduler cfq registered (default)
+[    0.530760] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+[    0.531836] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+[    0.533144] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+[    0.534420] acpiphp: Slot [3] registered
+[    0.535296] acpiphp: Slot [4] registered
+[    0.536214] acpiphp: Slot [5] registered
+[    0.537057] acpiphp: Slot [6] registered
+[    0.537910] acpiphp: Slot [7] registered
+[    0.538748] acpiphp: Slot [8] registered
+[    0.539607] acpiphp: Slot [9] registered
+[    0.540541] acpiphp: Slot [10] registered
+[    0.541369] acpiphp: Slot [11] registered
+[    0.542195] acpiphp: Slot [12] registered
+[    0.543028] acpiphp: Slot [13] registered
+[    0.543886] acpiphp: Slot [14] registered
+[    0.544818] acpiphp: Slot [15] registered
+[    0.545647] acpiphp: Slot [16] registered
+[    0.546462] acpiphp: Slot [17] registered
+[    0.547276] acpiphp: Slot [18] registered
+[    0.548201] acpiphp: Slot [19] registered
+[    0.549005] acpiphp: Slot [20] registered
+[    0.549791] acpiphp: Slot [21] registered
+[    0.550583] acpiphp: Slot [22] registered
+[    0.551442] acpiphp: Slot [23] registered
+[    0.552320] acpiphp: Slot [24] registered
+[    0.553228] acpiphp: Slot [25] registered
+[    0.554067] acpiphp: Slot [26] registered
+[    0.554873] acpiphp: Slot [27] registered
+[    0.555757] acpiphp: Slot [28] registered
+[    0.556837] acpiphp: Slot [29] registered
+[    0.557679] acpiphp: Slot [30] registered
+[    0.558498] acpiphp: Slot [31] registered
+[    0.559493] ERST: Table is not found!
+[    0.560322] GHES: HEST is not enabled!
+[    0.561397] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+[    0.584111] serial8250: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+[    0.614058] 00:06: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+[    0.615524] Linux agpgart interface v0.103
+[    0.616612] i8042: PNP: PS/2 Controller [PNP0303:KBD,PNP0f13:MOU] at 0x60,0x64 irq 1,12
+[    0.618915] serio: i8042 KBD port at 0x60,0x64 irq 1
+[    0.619822] serio: i8042 AUX port at 0x60,0x64 irq 12
+[    0.621656] mousedev: PS/2 mouse device common for all mice
+[    0.622944] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input0
+[    0.624852] rtc_cmos 00:01: RTC can wake from S4
+[    0.627115] rtc_cmos 00:01: rtc core: registered rtc_cmos as rtc0
+[    0.629679] rtc0: alarms up to one day, 114 bytes nvram, hpet irqs
+[    0.631878] cpuidle: using governor ladder
+[    0.633442] cpuidle: using governor menu
+[    0.635624] TCP cubic registered
+[    0.638209] NET: Registered protocol family 10
+[    0.641091] Mobile IPv6
+[    0.641676] NET: Registered protocol family 17
+[    0.642538] Registering the dns_resolver key type
+[    0.643657] registered taskstats version 1
+[    0.645890] rtc_cmos 00:01: setting system clock to 2016-12-14 12:04:17 UTC (1481717057)
+[    0.647394] Initializing network drop monitor service
+[    0.650161] Freeing unused kernel memory: 580k freed
+[    0.651334] Write protecting the kernel read-only data: 6144k
+[    0.655198] Freeing unused kernel memory: 644k freed
+[    0.658969] Freeing unused kernel memory: 688k freed
+Loading, please wait...
+[    0.682892] udevd[58]: starting version 175
+[    0.696285] SCSI subsystem initialized
+[    0.700215] e1000: Intel(R) PRO/1000 Network Driver - version 7.3.21-k8-NAPI
+[    0.701590] e1000: Copyright (c) 1999-2006 Intel Corporation.
+[    0.702943] ACPI: PCI Interrupt Link [LNKC] enabled at IRQ 11
+[    0.715360] Floppy drive(s): fd0 is 1.44M
+[    0.738124] FDC 0 is a S82078B
+[    1.075700] e1000 0000:00:03.0: eth0: (PCI:33MHz:32-bit) 52:54:00:12:34:56
+[    1.077249] e1000 0000:00:03.0: eth0: Intel(R) PRO/1000 Network Connection
+[    1.079971] scsi0 : ata_piix
+[    1.081478] scsi1 : ata_piix
+[    1.082259] ata1: PATA max MWDMA2 cmd 0x1f0 ctl 0x3f6 bmdma 0xc040 irq 14
+[    1.083548] ata2: PATA max MWDMA2 cmd 0x170 ctl 0x376 bmdma 0xc048 irq 15
+[    3.174006] Refined TSC clocksource calibration: 2199.956 MHz.
+[    3.175708] ata1.00: ATA-7: QEMU HARDDISK, 1.1.2, max UDMA/100
+[    3.177350] ata1.00: 9011200 sectors, multi 16: LBA48 
+[    3.179591] ata2.00: ATAPI: QEMU DVD-ROM, 1.1.2, max UDMA/100
+[    3.182449] ata1.00: configured for MWDMA2
+[    3.184466] ata2.00: configured for MWDMA2
+[    3.184691] scsi 0:0:0:0: Direct-Access     ATA      QEMU HARDDISK    1.1. PQ: 0 ANSI: 5
+[    3.200616] scsi 1:0:0:0: CD-ROM            QEMU     QEMU DVD-ROM     1.1. PQ: 0 ANSI: 5
+[    3.213109] sd 0:0:0:0: [sda] 9011200 512-byte logical blocks: (4.61 GB/4.29 GiB)
+[    3.214964] sd 0:0:0:0: [sda] Write Protect is off
+[    3.216363] sr0: scsi3-mmc drive: 4x/4x cd/rw xa/form2 tray
+[    3.216370] sd 0:0:0:0: [sda] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+[    3.217217]  sda: sda1
+[    3.221171] cdrom: Uniform CD-ROM driver Revision: 3.20
+[    3.221310] sd 0:0:0:0: [sda] Attached SCSI disk
+[    3.229263] sd 0:0:0:0: Attached scsi generic sg0 type 0
+[    3.231004] sr 1:0:0:0: Attached scsi generic sg1 type 5
+Begin: Loading essential drivers ... done.
+Begin: Running /scripts/init-premount ... done.
+Begin: Mounting root file system ... Begin: Running /scripts/local-top ... done.
+Begin: Running /scripts/local-premount ... done.
+[    3.862176] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+Begin: Running /scripts/local-bottom ... done.
+done.
+Begin: Running /scripts/init-bottom ... done.
+INIT: version 2.88 booting
+[[36minfo[39;49m] Using makefile-style concurrent boot in runlevel S.
+findfs: unable to resolve 'UUID="e35ebd7f-2405-4c97-9c3e-26919d55a9e5"'
+[....] Starting the hotplug events dispatcher: udevd[    5.318072] udevd[314]: starting version 175
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0c.
+[....] Synthesizing the initial hotplug events...[    5.376544] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input1
+[    5.378120] ACPI: Power Button [PWRF]
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[    5.410454] input: PC Speaker as /devices/platform/pcspkr/input/input2
+[....] Waiting for /dev to be fully populated...[    5.450044] piix4_smbus 0000:00:01.3: SMBus Host Controller at 0xb100, revision 0
+[    5.458582] Error: Driver 'pcspkr' is already registered, aborting...
+[    5.471675] parport_pc 00:05: reported by Plug and Play ACPI
+[    5.473238] parport0: PC-style at 0x378, irq 7 [PCSPP,TRISTATE]
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+findfs: unable to resolve 'UUID="e35ebd7f-2405-4c97-9c3e-26919d55a9e5"'
+[....] Activating swap...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+Usage: mountpoint [-q] [-d] [-x] path
+[    5.770361] EXT4-fs (sda1): re-mounted. Opts: (null)
+[....] Checking root file system...fsck from util-linux 2.20.1
+/run/rootdev: clean, 32669/264000 files, 885405/1054720 blocks
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[    5.820365] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro,errors=remount-ro
+[....] Cleaning up temporary files... /tmp[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0c.
+findfs: unable to resolve 'UUID="e35ebd7f-2405-4c97-9c3e-26919d55a9e5"'
+findfs: unable to resolve 'UUID="e35ebd7f-2405-4c97-9c3e-26919d55a9e5"'
+[    6.088229] input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input3
+[....] Activating lvm and md swap...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Checking file systems...fsck from util-linux 2.20.1
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Mounting local filesystems...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Activating swapfile swap...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+findfs: unable to resolve 'UUID="e35ebd7f-2405-4c97-9c3e-26919d55a9e5"'
+[....] Cleaning up temporary files...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0c.
+[....] Setting kernel variables ...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Configuring network interfaces...Internet Systems Consortium DHCP Client 4.2.2
+Copyright 2004-2011 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+[    8.824966] ADDRCONF(NETDEV_UP): eth0: link is not ready
+Listening on LPF/eth0/52:54:00:12:34:56
+Sending on   LPF/eth0/52:54:00:12:34:56
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 5
+[   11.202428] e1000: eth0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[   11.207692] ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 12
+DHCPREQUEST on eth0 to 255.255.255.255 port 67
+DHCPOFFER from 10.0.2.2
+DHCPACK from 10.0.2.2
+bound to 10.0.2.15 -- renewal in 33309 seconds.
+ifup: interface eth0 already configured
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Cleaning up temporary files...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0c.
+INIT: Entering runlevel: 2
+[[36minfo[39;49m] Using makefile-style concurrent boot in runlevel 2.
+[....] Starting OpenBSD Secure Shell server: sshd[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0c.
+Entering benchmark mode
+./scaff/bin/uniform/doitgen_STANDARD dummy.out 100
+STARTING doitgen_STANDARD execution: Wed Dec 14 14:04:31 EET 2016
+Execution Time; 0.160434
+Execution Time; 0.164827
+Execution Time; 0.156470
+Execution Time; 3.160778
+Execution Time; 0.146551
+Execution Time; 0.146414
+Execution Time; 0.153900
+Execution Time; 0.142359
+Execution Time; 0.142168
+Execution Time; 2.157283
+Execution Time; 0.139936
+Execution Time; 0.140283
+Execution Time; 0.146887
+Execution Time; 0.138428
+Execution Time; 0.144225
+Execution Time; 0.144242
+Execution Time; 1.162485
+Execution Time; 0.142770
+Execution Time; 0.142391
+Execution Time; 0.146743
+Execution Time; 0.157638
+Execution Time; 0.142481
+Execution Time; 0.142509
+Execution Time; 0.146788
+Execution Time; 0.142242
+Execution Time; 0.150606
+Execution Time; 0.150252
+Execution Time; 0.142234
+Execution Time; 0.150240
+Execution Time; 3.155737
+Execution Time; 0.142416
+Execution Time; 0.135983
+Execution Time; 0.132132
+Execution Time; 0.131751
+Execution Time; 0.131568
+Execution Time; 0.133099
+Execution Time; 3.153047
+Execution Time; 0.140462
+Execution Time; 0.138642
+Execution Time; 0.139781
+Execution Time; 0.131775
+Execution Time; 0.141375
+Execution Time; 0.136403
+Execution Time; 3.158296
+Execution Time; 0.136217
+Execution Time; 0.138404
+Execution Time; 0.135274
+Execution Time; 0.134651
+Execution Time; 0.130694
+Execution Time; 0.139119
+Execution Time; 4.163876
+Execution Time; 0.139145
+Execution Time; 0.139924
+Execution Time; 0.135996
+Execution Time; 0.136224
+Execution Time; 0.135779
+Execution Time; 0.139678
+Execution Time; 3.168476
+Execution Time; 0.141585
+Execution Time; 0.156890
+Execution Time; 0.153498
+Execution Time; 0.160711
+Execution Time; 0.154771
+Execution Time; 3.165640
+Execution Time; 0.160086
+Execution Time; 0.155183
+Execution Time; 0.155792
+Execution Time; 0.157843
+Execution Time; 0.158279
+Execution Time; 3.173598
+Execution Time; 0.161558
+Execution Time; 0.154545
+Execution Time; 0.159773
+Execution Time; 0.155395
+Execution Time; 0.155789
+Execution Time; 3.168613
+Execution Time; 0.157075
+Execution Time; 0.155652
+Execution Time; 0.162318
+Execution Time; 0.154916
+Execution Time; 0.155781
+Execution Time; 3.169179
+Execution Time; 0.156215
+Execution Time; 0.160819
+Execution Time; 0.154145
+Execution Time; 0.154214
+Execution Time; 0.164163
+Execution Time; 3.168215
+Execution Time; 0.159783
+Execution Time; 0.158284
+Execution Time; 0.153629
+Execution Time; 0.157882
+Execution Time; 0.154401
+Execution Time; 0.157600
+Execution Time; 0.159575
+Execution Time; 0.156155
+Execution Time; 0.157333
+Execution Time; 0.155310
+Execution Time; 3.163933
+Execution Time; 0.164219
+Execution Time; 0.164767
+Execution Time; 0.151106
+Execution Time; 0.158946
+Execution Time; 0.159959
+Execution Time; 2.167615
+Execution Time; 0.153973
+Execution Time; 0.146726
+Execution Time; 0.142458
+Execution Time; 0.142537
+Execution Time; 0.146661
+Execution Time; 0.142380
+Execution Time; 0.148062
+Execution Time; 0.142549
+Execution Time; 0.142585
+Execution Time; 0.142453
+Execution Time; 0.146328
+Execution Time; 0.142504
+Execution Time; 4.175844
+Execution Time; 0.153313
+Execution Time; 0.153172
+Execution Time; 0.157261
+Execution Time; 0.158641
+Execution Time; 0.159665
+Execution Time; 3.169412
+Execution Time; 0.159185
+Execution Time; 0.165835
+Execution Time; 0.155425
+Execution Time; 0.155107
+Execution Time; 0.160535
+Execution Time; 3.164875
+Execution Time; 0.156561
+Execution Time; 0.160446
+Execution Time; 0.153645
+Execution Time; 0.158276
+Execution Time; 0.153737
+Execution Time; 3.162896
+Execution Time; 0.158175
+Execution Time; 0.153793
+Execution Time; 0.155411
+Execution Time; 0.163572
+Execution Time; 0.152075
+Execution Time; 2.167411
+Execution Time; 0.154138
+Execution Time; 0.150016
+Execution Time; 0.142512
+Execution Time; 0.142452
+Execution Time; 0.142173
+Execution Time; 4.155322
+Execution Time; 0.142339
+Execution Time; 0.142339
+Execution Time; 0.142511
+Execution Time; 0.146830
+Execution Time; 0.142581
+Execution Time; 0.146777
+Execution Time; 3.172753
+Execution Time; 0.152320
+Execution Time; 0.161465
+Execution Time; 0.161085
+Execution Time; 0.153355
+Execution Time; 0.152910
+Execution Time; 4.180723
+Execution Time; 0.156988
+Execution Time; 0.149509
+Execution Time; 0.153459
+Execution Time; 0.161308
+Execution Time; 0.150218
+Execution Time; 3.163068
+Execution Time; 0.153772
+Execution Time; 0.153926
+Execution Time; 0.151309
+Execution Time; 0.152688
+Execution Time; 0.151496
+Execution Time; 3.167678
+Execution Time; 0.149874
+Execution Time; 0.153885
+Execution Time; 0.158133
+Execution Time; 0.152083
+Execution Time; 0.153018
+Execution Time; 3.159660
+Execution Time; 0.152400
+Execution Time; 0.152465
+Execution Time; 0.150103
+Execution Time; 0.154508
+Execution Time; 0.152908
+Execution Time; 3.155048
+Execution Time; 0.141701
+Execution Time; 0.142022
+Execution Time; 0.147842
+Execution Time; 0.159958
+Execution Time; 0.156705
+Execution Time; 3.158990
+Execution Time; 0.146866
+Execution Time; 0.142493
+Execution Time; 0.149890
+Execution Time; 0.142353
+Execution Time; 0.142781
+Execution Time; 0.149736
+Execution Time; 4.158978
+Execution Time; 0.146475
+Execution Time; 0.142503
+Execution Time; 0.149055
+Execution Time; 0.142499
+Execution Time; 0.146073
+Execution Time; 3.159631
+Execution Time; 0.146461
+Execution Time; 0.142548
+Execution Time; 0.150682
+Execution Time; 0.142200
+Execution Time; 0.146658
+Execution Time; 0.142402
+Execution Time; 3.170100
+Execution Time; 0.156984
+Execution Time; 0.156868
+Execution Time; 0.159477
+Execution Time; 0.154376
+Execution Time; 0.154873
+Execution Time; 3.174011
+Execution Time; 0.154092
+Execution Time; 0.152965
+Execution Time; 0.154979
+Execution Time; 0.154180
+Execution Time; 0.154833
+Execution Time; 3.164856
+Execution Time; 0.158000
+Execution Time; 0.157067
+Execution Time; 0.158225
+Execution Time; 0.156588
+Execution Time; 0.153775
+Execution Time; 3.164963
+Execution Time; 0.154133
+Execution Time; 0.156096
+Execution Time; 0.157826
+Execution Time; 0.157076
+Execution Time; 0.155367
+Execution Time; 3.165545
+Execution Time; 0.158105
+Execution Time; 0.154349
+Execution Time; 0.157463
+Execution Time; 0.157120
+Execution Time; 0.157667
+Execution Time; 3.161658
+Execution Time; 0.150385
+Execution Time; 0.153834
+Execution Time; 0.153325
+Execution Time; 0.153933
+Execution Time; 0.152694
+Execution Time; 3.158995
+Execution Time; 0.155350
+Execution Time; 0.154444
+Execution Time; 0.158396
+Execution Time; 0.154113
+Execution Time; 0.152594
+Execution Time; 3.166773
+Execution Time; 0.152113
+Execution Time; 0.149546
+Execution Time; 0.158100
+Execution Time; 0.153499
+Execution Time; 0.150572
+Execution Time; 3.162765
+Execution Time; 0.153366
+Execution Time; 0.152854
+Execution Time; 0.150857
+Execution Time; 0.158957
+Execution Time; 3.232766
+Execution Time; 0.150632
+Execution Time; 0.155485
+Execution Time; 0.149627
+Execution Time; 0.151362
+Execution Time; 0.152997
+Execution Time; 3.162810
+Execution Time; 0.150183
+Execution Time; 0.152831
+Execution Time; 0.165311
+Execution Time; 0.157994
+Execution Time; 0.152664
+Execution Time; 3.162512
+Execution Time; 0.152702
+Execution Time; 0.149316
+Execution Time; 0.153524
+Execution Time; 0.155009
+Execution Time; 0.146477
+Execution Time; 0.137210
+Execution Time; 3.161467
+Execution Time; 0.143177
+Execution Time; 0.147820
+Execution Time; 0.147917
+Execution Time; 0.157219
+Execution Time; 0.151420
+Execution Time; 3.166707
+Execution Time; 0.156720
+Execution Time; 0.153007
+Execution Time; 0.156551
+Execution Time; 0.153227
+Execution Time; 0.160131
+Execution Time; 3.178079
+Execution Time; 0.152124
+Execution Time; 0.153394
+Execution Time; 0.156809
+Execution Time; 0.153803
+Execution Time; 0.154630
+Execution Time; 0.145208
+Execution Time; 0.146402
+Execution Time; 0.146672
+Execution Time; 0.141397
+Execution Time; 0.142580
+Execution Time; 0.146614
+Execution Time; 4.175910
+Execution Time; 0.142400
+Execution Time; 0.154014
+Execution Time; 0.142433
+Execution Time; 0.146510
+Execution Time; 0.150337
+Execution Time; 3.163943
+Execution Time; 0.154013
+Execution Time; 0.142619
+Execution Time; 0.142567
+Execution Time; 0.142522
+Execution Time; 0.149709
+Execution Time; 0.142715
+Execution Time; 4.167025
+Execution Time; 0.146349
+Execution Time; 0.146880
+Execution Time; 0.145904
+Execution Time; 0.142378
+Execution Time; 0.146378
+Execution Time; 0.146487
+Execution Time; 0.155437
+Execution Time; 0.142684
+Execution Time; 0.142638
+Execution Time; 0.150286
+Execution Time; 0.142303
+Execution Time; 0.150129
+Execution Time; 3.157424
+Execution Time; 0.161303
+Execution Time; 0.154236
+Execution Time; 0.154334
+Execution Time; 0.156129
+Execution Time; 0.153059
+Execution Time; 3.173768
+Execution Time; 0.162340
+Execution Time; 0.153575
+Execution Time; 0.163578
+Execution Time; 0.155099
+Execution Time; 0.157763
+Execution Time; 3.167073
+Execution Time; 0.154964
+Execution Time; 0.153908
+Execution Time; 0.159371
+Execution Time; 0.153000
+Execution Time; 0.156947
+Execution Time; 2.154427
+Execution Time; 0.150006
+Execution Time; 0.146822
+Execution Time; 0.150173
+Execution Time; 0.142473
+Execution Time; 0.142505
+Execution Time; 4.155415
+Execution Time; 0.142540
+Execution Time; 0.142314
+Execution Time; 0.142478
+Execution Time; 0.142408
+Execution Time; 0.142196
+Execution Time; 0.150574
+Execution Time; 3.155745
+Execution Time; 0.150419
+Execution Time; 0.146868
+Execution Time; 0.142373
+Execution Time; 0.142780
+Execution Time; 0.149936
+Execution Time; 4.171580
+Execution Time; 0.150532
+Execution Time; 0.149820
+Execution Time; 0.142392
+Execution Time; 0.150298
+Execution Time; 0.153940
+Execution Time; 0.146449
+Execution Time; 3.155714
+Execution Time; 0.148497
+Execution Time; 0.142486
+Execution Time; 0.148939
+Execution Time; 0.146091
+Execution Time; 0.142500
+Execution Time; 4.163366
+Execution Time; 0.142098
+Execution Time; 0.145497
+Execution Time; 0.142065
+Execution Time; 0.142409
+Execution Time; 0.142308
+Execution Time; 0.150266
+Execution Time; 3.158088
+Execution Time; 0.160521
+Execution Time; 0.156987
+Execution Time; 0.154395
+Execution Time; 0.145945
+Execution Time; 0.138140
+Execution Time; 3.153178
+Execution Time; 0.152594
+Execution Time; 0.151150
+Execution Time; 0.153818
+Execution Time; 0.152714
+Execution Time; 0.169242
+Execution Time; 3.177091
+Execution Time; 0.152768
+Execution Time; 0.152739
+Execution Time; 0.149426
+Execution Time; 0.153104
+Execution Time; 0.152845
+Execution Time; 3.168593
+Execution Time; 0.156677
+Execution Time; 0.153366
+Execution Time; 0.153884
+Execution Time; 0.157174
+Execution Time; 0.149387
+Execution Time; 3.170762
+Execution Time; 0.153520
+Execution Time; 0.153783
+Execution Time; 0.157531
+Execution Time; 0.162315
+Execution Time; 0.158360
+Execution Time; 3.165127
+Execution Time; 0.156706
+Execution Time; 0.156652
+Execution Time; 0.152948
+Execution Time; 0.154029
+Execution Time; 0.152827
+Execution Time; 3.166704
+Execution Time; 0.157890
+Execution Time; 0.157387
+Execution Time; 0.150037
+Execution Time; 0.152390
+Execution Time; 0.153590
+Execution Time; 3.162362
+Execution Time; 0.149363
+Execution Time; 0.137290
+Execution Time; 0.136921
+Execution Time; 0.141263
+Execution Time; 0.144477
+Execution Time; 3.166214
+Execution Time; 0.142195
+Execution Time; 0.142468
+Execution Time; 0.146340
+Execution Time; 0.154550
+Execution Time; 0.148290
+Execution Time; 0.146345
+Execution Time; 3.170971
+Execution Time; 0.154394
+Execution Time; 0.150348
+Execution Time; 0.146061
+Execution Time; 0.142572
+Execution Time; 0.146205
+Execution Time; 4.155952
+Execution Time; 0.149674
+Execution Time; 0.142179
+Execution Time; 0.142441
+Execution Time; 0.146142
+Execution Time; 0.142533
+Execution Time; 0.151016
+Execution Time; 4.185946
+Execution Time; 0.156628
+Execution Time; 0.153500
+Execution Time; 0.159597
+Execution Time; 0.165838
+Execution Time; 3.163047
+Execution Time; 0.160396
+Execution Time; 0.153317
+Execution Time; 0.157626
+Execution Time; 0.158097
+Execution Time; 0.153020
+Execution Time; 3.167200
+Execution Time; 0.153351
+Execution Time; 0.156832
+Execution Time; 0.157071
+Execution Time; 0.152665
+Execution Time; 0.159139
+Execution Time; 3.163624
+Execution Time; 0.155842
+Execution Time; 0.158078
+Execution Time; 0.154142
+Execution Time; 0.158110
+Execution Time; 0.154983
+Execution Time; 3.166937
+Execution Time; 0.158837
+Execution Time; 0.150951
+Execution Time; 0.159574
+Execution Time; 0.153092
+Execution Time; 0.156024
+Execution Time; 3.172112
+Execution Time; 0.162922
+Execution Time; 0.158172
+Execution Time; 0.155573
+Execution Time; 0.153111
+Execution Time; 0.163231
+Execution Time; 2.171590
+Execution Time; 0.155313
+Execution Time; 0.146529
+Execution Time; 0.142337
+Execution Time; 0.142519
+Execution Time; 0.146510
+Execution Time; 4.166834
+Execution Time; 0.142578
+Execution Time; 0.144916
+Execution Time; 0.150473
+Execution Time; 0.146219
+Execution Time; 0.157506
+Execution Time; 0.146231
+Execution Time; 3.161479
+Execution Time; 0.155146
+Execution Time; 0.158333
+Execution Time; 0.155519
+Execution Time; 0.157216
+Execution Time; 0.155205
+Execution Time; 3.169385
+Execution Time; 0.153884
+Execution Time; 0.155897
+Execution Time; 0.157864
+Execution Time; 0.155532
+Execution Time; 0.158810
+Execution Time; 0.159534
+Execution Time; 0.154401
+Execution Time; 0.154259
+Execution Time; 0.154292
+Execution Time; 0.153775
+Execution Time; 0.157136
+Execution Time; 0.156860
+Execution Time; 0.153284
+Execution Time; 0.155733
+Execution Time; 0.155990
+Execution Time; 0.155284
+Execution Time; 3.170069
+Execution Time; 0.156710
+Execution Time; 0.154973
+Execution Time; 0.157401
+Execution Time; 0.153394
+Execution Time; 0.160612
+Execution Time; 3.172201
+Execution Time; 0.153206
+Execution Time; 0.153568
+Execution Time; 0.153779
+Execution Time; 0.153864
+Execution Time; 0.151849
+Execution Time; 3.176695
+Execution Time; 0.149438
+Execution Time; 0.165067
+Execution Time; 0.149960
+Execution Time; 0.154105
+Execution Time; 0.152709
+Execution Time; 3.164766
+Execution Time; 0.153927
+Execution Time; 0.156163
+Execution Time; 0.152959
+Execution Time; 0.154530
+Execution Time; 0.151967
+Execution Time; 3.173736
+Execution Time; 0.154031
+Execution Time; 0.157372
+Execution Time; 0.155884
+Execution Time; 0.155828
+Execution Time; 0.155480
+Execution Time; 3.164765
+Execution Time; 0.155833
+Execution Time; 0.155698
+Execution Time; 0.153758
+Execution Time; 0.155808
+Execution Time; 0.155108
+Execution Time; 3.169470
+Execution Time; 0.154620
+Execution Time; 0.158754
+Execution Time; 0.153863
+Execution Time; 0.153812
+Execution Time; 0.156654
+Execution Time; 3.165883
+Execution Time; 0.154844
+Execution Time; 0.155870
+Execution Time; 0.156273
+Execution Time; 0.154961
+Execution Time; 0.155168
+Execution Time; 3.163510
+Execution Time; 0.153200
+Execution Time; 0.154924
+Execution Time; 0.155914
+Execution Time; 0.153497
+Execution Time; 0.155307
+Execution Time; 3.169954
+Execution Time; 0.156236
+Execution Time; 0.156978
+Execution Time; 0.155837
+Execution Time; 0.153738
+Execution Time; 0.139681
+Execution Time; 3.164212
+Execution Time; 0.140793
+Execution Time; 0.147035
+Execution Time; 0.148972
+Execution Time; 0.152006
+Execution Time; 0.156269
+Execution Time; 3.163131
+Execution Time; 0.160023
+Execution Time; 0.153569
+Execution Time; 0.154070
+Execution Time; 0.156413
+Execution Time; 0.153361
+Execution Time; 3.187868
+Execution Time; 0.155819
+Execution Time; 0.157477
+Execution Time; 0.155456
+Execution Time; 0.155404
+Execution Time; 0.158767
+Execution Time; 3.168437
+Execution Time; 0.154222
+Execution Time; 0.157306
+Execution Time; 0.157377
+Execution Time; 0.153662
+Execution Time; 0.154454
+Execution Time; 3.165779
+Execution Time; 0.154211
+Execution Time; 0.156371
+Execution Time; 0.156519
+Execution Time; 0.153538
+Execution Time; 0.155613
+Execution Time; 3.165848
+Execution Time; 0.156215
+Execution Time; 0.154490
+Execution Time; 0.154729
+Execution Time; 0.158852
+Execution Time; 0.156780
+Execution Time; 3.158446
+Execution Time; 0.142403
+Execution Time; 0.149765
+Execution Time; 0.150720
+Execution Time; 0.142323
+Execution Time; 0.142282
+Execution Time; 4.175323
+Execution Time; 0.150167
+Execution Time; 0.146095
+Execution Time; 0.142206
+Execution Time; 0.150939
+Execution Time; 0.146332
+Execution Time; 0.142343
+Execution Time; 3.159115
+Execution Time; 0.155171
+Execution Time; 0.151206
+Execution Time; 0.157400
+Execution Time; 0.152181
+Execution Time; 0.153691
+Execution Time; 0.161608
+Execution Time; 0.156446
+Execution Time; 0.152400
+Execution Time; 0.150411
+Execution Time; 0.154025
+Execution Time; 0.161254
+Execution Time; 0.161219
+Execution Time; 0.149708
+Execution Time; 0.159738
+Execution Time; 0.153693
+Execution Time; 0.154050
+Execution Time; 0.157255
+Execution Time; 0.155188
+Execution Time; 0.149355
+Execution Time; 0.157706
+Execution Time; 0.153514
+Execution Time; 0.153169
+Execution Time; 0.153492
+Execution Time; 0.152541
+Execution Time; 0.152656
+Execution Time; 0.159226
+Execution Time; 0.152647
+Execution Time; 0.156975
+Execution Time; 3.164771
+Execution Time; 0.152483
+Execution Time; 0.144595
+Execution Time; 0.136974
+Execution Time; 0.141730
+Execution Time; 0.147676
+Execution Time; 0.157444
+Execution Time; 3.169367
+Execution Time; 0.146561
+Execution Time; 0.152422
+Execution Time; 0.142493
+Execution Time; 0.142503
+Execution Time; 0.142442
+Execution Time; 4.175402
+Execution Time; 0.142492
+Execution Time; 0.154712
+Execution Time; 0.150285
+Execution Time; 0.146485
+Execution Time; 0.152424
+Execution Time; 0.149995
+Execution Time; 3.163958
+Execution Time; 0.150279
+Execution Time; 0.146670
+Execution Time; 0.150441
+Execution Time; 0.146406
+Execution Time; 0.157920
+Execution Time; 3.156262
+Execution Time; 0.142393
+Execution Time; 0.146021
+Execution Time; 0.154301
+Execution Time; 0.142525
+Execution Time; 0.142297
+Execution Time; 0.142244
+Execution Time; 4.155535
+INIT: SwitchingINIT: Sending processes the TERM signal
+[[36minfo[39;49m] Using makefile-style concurrent boot in runlevel 0.
+[[36minfo[39;49m] Saving the system clock.
+[[36minfo[39;49m] Hardware Clock updated to Wed Dec 14 12:12:27 UTC 2016.
+[....] Asking all remaining processes to terminate...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] All processes ended within 2 seconds...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Deconfiguring network interfaces...Internet Systems Consortium DHCP Client 4.2.2
+Copyright 2004-2011 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/52:54:00:12:34:56
+Sending on   LPF/eth0/52:54:00:12:34:56
+Sending on   Socket/fallback
+DHCPRELEASE on eth0 to 10.0.2.2 port 67
+[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[....] Deactivating swap...[?25l[?1c7[1G[[32m ok [39;49m8[?25h[?0cdone.
+[  490.878063] EXT4-fs (sda1): re-mounted. Opts: (null)
+[[36minfo[39;49m] Will now halt.
+[  493.620756] sd 0:0:0:0: [sda] Stopping disk
+[  493.623468] ACPI: Preparing to enter system sleep state S5
+[  493.624830] Power down.
+aff-executor-preload.c:affhooks_init()
+aff-executor-preload.c:affhooks_shut()
+HELLO KITTY

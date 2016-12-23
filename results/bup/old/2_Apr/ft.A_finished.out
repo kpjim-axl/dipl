@@ -1,0 +1,2 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+39186 	$./bin/uniform/ft.A 	$3003 	$1.145102 	$19763936.000000 	$18.967035 	$3.192203 	$1.784288 	$     5.94 	$     1.79 	$ 1 	$ 3   

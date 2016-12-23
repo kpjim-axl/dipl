@@ -1,0 +1,84 @@
+NUMA is available
+set memset to 0-3
+creating cpuset: /dev/cpuset/AFF_1000 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1000
+Shared memory initialized
+forking prog: id:1000 time:0 pid:0 cpuset:[] idpath:/AFF_1000 cmd:./bin/uniform/durbin_STANDARD dummy.out 10
+READY to execute:.. after fork with pid: 34236 
+READY to execute:.. after fork with pid: 0 
+/AFF_1000
+-----| Scheduler: llcm CPUS: 0,1,2,3,4,5,6,7
+initializing performance counting in cpus: [0, 1, 2, 3, 4, 5, 6, 7]
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+Turbo mode: 1
+Base freq: 2200.000000
+Power unit: 0.000015
+  STARTED RUNNING =>id:1000 time:0 pid:34237 cpuset:[0-7] idpath:/AFF_1000 cmd:./bin/uniform/durbin_STANDARD dummy.out 10
+		 TICK [ 1 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+/AFF_1000
+Program: ./bin/uniform/durbin_STANDARD dummy.out 10 added in gang id: 0
+Start execution of gang 0....
+Start execution of prog ./bin/uniform/durbin_STANDARD dummy.out 10....
+		 TICK [ 2 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 0....
+/AFF_1000
+Program: ./bin/uniform/durbin_STANDARD dummy.out 10 added in gang id: 1
+Start execution of gang 1....
+Start execution of prog ./bin/uniform/durbin_STANDARD dummy.out 10....
+		 TICK [ 3 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 1....
+/AFF_1000
+Program: ./bin/uniform/durbin_STANDARD dummy.out 10 added in gang id: 2
+Start execution of gang 2....
+Start execution of prog ./bin/uniform/durbin_STANDARD dummy.out 10....
+		 TICK [ 4 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 2....
+/AFF_1000
+Program: ./bin/uniform/durbin_STANDARD dummy.out 10 added in gang id: 3
+Start execution of gang 3....
+Start execution of prog ./bin/uniform/durbin_STANDARD dummy.out 10....
+		 TICK [ 5 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 3....
+/AFF_1000
+Program: ./bin/uniform/durbin_STANDARD dummy.out 10 added in gang id: 4
+Start execution of gang 4....
+Start execution of prog ./bin/uniform/durbin_STANDARD dummy.out 10....
+		 TICK [ 6 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 4....
+/AFF_1000
+Program: ./bin/uniform/durbin_STANDARD dummy.out 10 added in gang id: 5
+Start execution of gang 5....
+Start execution of prog ./bin/uniform/durbin_STANDARD dummy.out 10....
+		 TICK [ 7 ]  TIME: 0.000000 PROGS: 1.... PROGS LEFT: 1
+STOP execution of gang 5....
+/AFF_1000
+Program: ./bin/uniform/durbin_STANDARD dummy.out 10 added in gang id: 6
+Start execution of gang 6....
+Start execution of prog ./bin/uniform/durbin_STANDARD dummy.out 10....
+SIGCHLD for pid=34236
+Normal exit [status:0] [secs:7.746719] [ticks:15493438378] id:1000 time:0 pid:34237 cpuset:[0-3] idpath:/AFF_1000 cmd:./bin/uniform/durbin_STANDARD dummy.out 10
+STOP execution of gang 6....
+PROGRAM EXIT0: PID $34237 	$                            ./bin/uniform/durbin_STANDARD dummy.out 10 	$6042 	$0.289246 	$3533358.400000 	$7.115199 	$5.381709 	$0.598135 	$     1.32 	$     9.37 	$ 1   
+Start execution of gang 6....
+THE END: total running time: 7.763469 secs [15526937917 ticks]

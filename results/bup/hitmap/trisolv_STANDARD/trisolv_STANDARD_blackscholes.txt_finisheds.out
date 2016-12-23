@@ -1,0 +1,9 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+63858 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$65 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+63870 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$69 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+63875 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$60 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+63877 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$68 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+63879 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$116 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+63881 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$53 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+63883 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$75 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+63856 	$./bin/uniform/trisolv_STANDARD dummy.out 90 	$7523 	$0.479244 	$1379670.050000 	$2.199178 	$2.031550 	$1.682696 	$     1.01 	$      inf 	$ 1 	$ 22   

@@ -1,0 +1,442 @@
+STARTING gemm_STANDARD execution: Wed Jul 27 00:37:05 EEST 2016
+	2: Executing benchmark: gemm_STANDARD
+real 28.30
+user 111.77
+sys 0.10
+	3: Executing benchmark: gemm_STANDARD
+real 29.69
+user 117.68
+sys 0.12
+	4: Executing benchmark: gemm_STANDARD
+real 29.75
+user 117.86
+sys 0.09
+	5: Executing benchmark: gemm_STANDARD
+real 26.07
+user 103.44
+sys 0.10
+	6: Executing benchmark: gemm_STANDARD
+real 23.02
+user 91.66
+sys 0.05
+	7: Executing benchmark: gemm_STANDARD
+real 23.53
+user 93.77
+sys 0.04
+	8: Executing benchmark: gemm_STANDARD
+real 23.80
+user 94.77
+sys 0.05
+	9: Executing benchmark: gemm_STANDARD
+real 22.37
+user 89.05
+sys 0.05
+	10: Executing benchmark: gemm_STANDARD
+real 23.46
+user 93.36
+sys 0.05
+	11: Executing benchmark: gemm_STANDARD
+real 23.73
+user 94.40
+sys 0.04
+	12: Executing benchmark: gemm_STANDARD
+real 23.33
+user 92.88
+sys 0.05
+	13: Executing benchmark: gemm_STANDARD
+real 26.47
+user 105.16
+sys 0.07
+	14: Executing benchmark: gemm_STANDARD
+real 28.49
+user 113.08
+sys 0.08
+	15: Executing benchmark: gemm_STANDARD
+real 28.65
+user 114.06
+sys 0.06
+	16: Executing benchmark: gemm_STANDARD
+real 26.56
+user 105.53
+sys 0.07
+	17: Executing benchmark: gemm_STANDARD
+real 23.82
+user 94.91
+sys 0.03
+	18: Executing benchmark: gemm_STANDARD
+real 23.77
+user 94.67
+sys 0.05
+	19: Executing benchmark: gemm_STANDARD
+real 23.77
+user 94.70
+sys 0.03
+	20: Executing benchmark: gemm_STANDARD
+real 23.96
+user 95.12
+sys 0.04
+	21: Executing benchmark: gemm_STANDARD
+real 23.72
+user 94.29
+sys 0.05
+	22: Executing benchmark: gemm_STANDARD
+real 24.02
+user 95.50
+sys 0.06
+	23: Executing benchmark: gemm_STANDARD
+real 23.86
+user 94.79
+sys 0.05
+	24: Executing benchmark: gemm_STANDARD
+real 24.18
+user 96.12
+sys 0.05
+	25: Executing benchmark: gemm_STANDARD
+real 23.67
+user 93.98
+sys 0.06
+	26: Executing benchmark: gemm_STANDARD
+real 24.07
+user 95.75
+sys 0.05
+	27: Executing benchmark: gemm_STANDARD
+real 23.83
+user 94.87
+sys 0.05
+	28: Executing benchmark: gemm_STANDARD
+real 24.04
+user 95.58
+sys 0.05
+	29: Executing benchmark: gemm_STANDARD
+real 23.78
+user 94.58
+sys 0.06
+	30: Executing benchmark: gemm_STANDARD
+real 23.55
+user 93.68
+sys 0.05
+	31: Executing benchmark: gemm_STANDARD
+real 23.91
+user 94.71
+sys 0.06
+	32: Executing benchmark: gemm_STANDARD
+real 23.76
+user 94.32
+sys 0.05
+	33: Executing benchmark: gemm_STANDARD
+real 23.98
+user 95.41
+sys 0.07
+	34: Executing benchmark: gemm_STANDARD
+real 23.41
+user 93.08
+sys 0.04
+	35: Executing benchmark: gemm_STANDARD
+real 23.66
+user 94.13
+sys 0.03
+	36: Executing benchmark: gemm_STANDARD
+real 23.82
+user 94.80
+sys 0.06
+	37: Executing benchmark: gemm_STANDARD
+real 23.64
+user 94.11
+sys 0.04
+	38: Executing benchmark: gemm_STANDARD
+real 23.48
+user 93.41
+sys 0.06
+	39: Executing benchmark: gemm_STANDARD
+real 24.13
+user 95.89
+sys 0.07
+	40: Executing benchmark: gemm_STANDARD
+real 23.95
+user 95.21
+sys 0.04
+	41: Executing benchmark: gemm_STANDARD
+real 23.86
+user 94.93
+sys 0.06
+	42: Executing benchmark: gemm_STANDARD
+real 23.80
+user 94.75
+sys 0.06
+	43: Executing benchmark: gemm_STANDARD
+real 23.53
+user 93.58
+sys 0.05
+	44: Executing benchmark: gemm_STANDARD
+real 24.15
+user 96.01
+sys 0.06
+	45: Executing benchmark: gemm_STANDARD
+real 23.99
+user 95.42
+sys 0.04
+	46: Executing benchmark: gemm_STANDARD
+real 24.26
+user 96.49
+sys 0.05
+	47: Executing benchmark: gemm_STANDARD
+real 23.67
+user 94.00
+sys 0.06
+	48: Executing benchmark: gemm_STANDARD
+real 24.28
+user 96.60
+sys 0.05
+	49: Executing benchmark: gemm_STANDARD
+real 24.27
+user 96.53
+sys 0.05
+	50: Executing benchmark: gemm_STANDARD
+real 24.21
+user 96.40
+sys 0.07
+	51: Executing benchmark: gemm_STANDARD
+real 23.59
+user 93.56
+sys 0.04
+	52: Executing benchmark: gemm_STANDARD
+real 23.89
+user 94.99
+sys 0.05
+	53: Executing benchmark: gemm_STANDARD
+real 23.83
+user 94.92
+sys 0.06
+	54: Executing benchmark: gemm_STANDARD
+real 23.94
+user 95.24
+sys 0.06
+	55: Executing benchmark: gemm_STANDARD
+real 23.39
+user 93.13
+sys 0.05
+	56: Executing benchmark: gemm_STANDARD
+real 24.28
+user 96.58
+sys 0.06
+	57: Executing benchmark: gemm_STANDARD
+real 24.43
+user 97.18
+sys 0.05
+	58: Executing benchmark: gemm_STANDARD
+real 24.40
+user 97.15
+sys 0.04
+	59: Executing benchmark: gemm_STANDARD
+real 23.98
+user 95.51
+sys 0.04
+	60: Executing benchmark: gemm_STANDARD
+real 24.37
+user 96.85
+sys 0.05
+	61: Executing benchmark: gemm_STANDARD
+real 24.41
+user 97.25
+sys 0.04
+	62: Executing benchmark: gemm_STANDARD
+real 24.29
+user 96.71
+sys 0.04
+	63: Executing benchmark: gemm_STANDARD
+real 24.20
+user 96.29
+sys 0.04
+	64: Executing benchmark: gemm_STANDARD
+real 23.18
+user 92.19
+sys 0.04
+	65: Executing benchmark: gemm_STANDARD
+real 23.33
+user 92.80
+sys 0.05
+	66: Executing benchmark: gemm_STANDARD
+real 23.27
+user 92.60
+sys 0.07
+	67: Executing benchmark: gemm_STANDARD
+real 23.39
+user 93.02
+sys 0.05
+	68: Executing benchmark: gemm_STANDARD
+real 23.65
+user 94.08
+sys 0.04
+	69: Executing benchmark: gemm_STANDARD
+real 24.14
+user 96.19
+sys 0.04
+	70: Executing benchmark: gemm_STANDARD
+real 24.10
+user 95.89
+sys 0.05
+	71: Executing benchmark: gemm_STANDARD
+real 24.06
+user 95.70
+sys 0.05
+	72: Executing benchmark: gemm_STANDARD
+real 23.32
+user 92.96
+sys 0.04
+	73: Executing benchmark: gemm_STANDARD
+real 22.84
+user 90.96
+sys 0.07
+	74: Executing benchmark: gemm_STANDARD
+real 22.83
+user 91.00
+sys 0.04
+	75: Executing benchmark: gemm_STANDARD
+real 22.70
+user 90.37
+sys 0.06
+	76: Executing benchmark: gemm_STANDARD
+real 22.85
+user 90.88
+sys 0.05
+	77: Executing benchmark: gemm_STANDARD
+real 22.92
+user 91.19
+sys 0.06
+	78: Executing benchmark: gemm_STANDARD
+real 23.27
+user 92.68
+sys 0.06
+	79: Executing benchmark: gemm_STANDARD
+real 23.20
+user 92.36
+sys 0.07
+	80: Executing benchmark: gemm_STANDARD
+real 23.24
+user 92.58
+sys 0.04
+	81: Executing benchmark: gemm_STANDARD
+real 23.09
+user 91.94
+sys 0.04
+	82: Executing benchmark: gemm_STANDARD
+real 23.58
+user 93.86
+sys 0.04
+	83: Executing benchmark: gemm_STANDARD
+real 24.08
+user 95.67
+sys 0.04
+	84: Executing benchmark: gemm_STANDARD
+real 24.27
+user 96.39
+sys 0.07
+	85: Executing benchmark: gemm_STANDARD
+real 24.21
+user 96.35
+sys 0.05
+	86: Executing benchmark: gemm_STANDARD
+real 23.11
+user 92.13
+sys 0.03
+	87: Executing benchmark: gemm_STANDARD
+real 22.36
+user 89.07
+sys 0.04
+	88: Executing benchmark: gemm_STANDARD
+real 22.39
+user 89.13
+sys 0.06
+	89: Executing benchmark: gemm_STANDARD
+real 22.28
+user 88.78
+sys 0.06
+	90: Executing benchmark: gemm_STANDARD
+real 22.20
+user 88.28
+sys 0.05
+	91: Executing benchmark: gemm_STANDARD
+real 22.07
+user 87.87
+sys 0.04
+	92: Executing benchmark: gemm_STANDARD
+real 22.18
+user 88.31
+sys 0.05
+	93: Executing benchmark: gemm_STANDARD
+real 22.25
+user 88.68
+sys 0.06
+	94: Executing benchmark: gemm_STANDARD
+real 22.12
+user 88.01
+sys 0.06
+	95: Executing benchmark: gemm_STANDARD
+real 22.25
+user 88.50
+sys 0.04
+	96: Executing benchmark: gemm_STANDARD
+real 22.15
+user 88.15
+sys 0.04
+	97: Executing benchmark: gemm_STANDARD
+real 22.15
+user 88.14
+sys 0.05
+	98: Executing benchmark: gemm_STANDARD
+real 22.20
+user 88.22
+sys 0.05
+	99: Executing benchmark: gemm_STANDARD
+real 22.31
+user 88.81
+sys 0.06
+	100: Executing benchmark: gemm_STANDARD
+real 22.49
+user 89.43
+sys 0.06
+	101: Executing benchmark: gemm_STANDARD
+real 22.39
+user 89.20
+sys 0.02
+	102: Executing benchmark: gemm_STANDARD
+real 22.24
+user 88.55
+sys 0.06
+	103: Executing benchmark: gemm_STANDARD
+real 22.15
+user 88.23
+sys 0.06
+	104: Executing benchmark: gemm_STANDARD
+real 22.32
+user 88.88
+sys 0.04
+	105: Executing benchmark: gemm_STANDARD
+real 22.52
+user 89.59
+sys 0.05
+	106: Executing benchmark: gemm_STANDARD
+real 22.35
+user 89.00
+sys 0.06
+	107: Executing benchmark: gemm_STANDARD
+real 22.13
+user 88.14
+sys 0.07
+	108: Executing benchmark: gemm_STANDARD
+real 22.16
+user 88.22
+sys 0.06
+	109: Executing benchmark: gemm_STANDARD
+real 22.06
+user 87.78
+sys 0.05
+	110: Executing benchmark: gemm_STANDARD
+real 22.29
+user 88.58
+sys 0.04
+	111: Executing benchmark: gemm_STANDARD
+real 22.21
+user 88.43
+sys 0.06
+FINISHED gemm_STANDARD execution: Wed Jul 27 01:20:33 EEST 2016

@@ -1,0 +1,2 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+31736 	$qemu-system-x86_64 -enable-kvm -m 1024 -smp 4 ~/images/vm1/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33333-:22 -nographic -monitor /dev/null 	$580024 	$0.621023 	$1778375.309028 	$9.868206 	$5.900032 	$0.549105 	$     1.18 	$  8302.41 	$ 1 	$ 578   

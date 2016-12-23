@@ -1,0 +1,14 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+50275 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$93 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50289 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$103 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50294 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$89 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50296 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$117 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50298 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$105 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50300 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$114 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50302 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$121 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50304 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$113 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50306 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$147 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50309 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$100 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50311 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$107 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50313 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$75 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50277 	$./bin/jacLR results/jaclr-out 50 	$12300 	$0.593064 	$12109867.151515 	$12.564620 	$8.307353 	$8.108609 	$     1.50 	$     1.03 	$ 1 	$ 35   

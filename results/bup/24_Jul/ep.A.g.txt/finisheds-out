@@ -1,0 +1,2 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+34264 	$./bin/uniform/ep.A.g 	$10236 	$0.747176 	$47.000000 	$0.981541 	$1.012991 	$0.000204 	$     0.97 	$ 64367.35 	$ 1 	$ 11   

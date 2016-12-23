@@ -1,0 +1,3 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+64634 	$./bin/uniform/2mm_STANDARD dummy.out 2 	$11235 	$0.359677 	$4555792.700000 	$25.263454 	$25.011216 	$0.292743 	$     1.01 	$    85.98 	$ 1 	$ 12   
+64632 	$./bin/uniform/trmm_STANDARD dummy.out 70 	$13860 	$2.429908 	$645943.785714 	$21.388098 	$26.067383 	$0.240094 	$     0.82 	$   177.55 	$ 1 	$ 16   

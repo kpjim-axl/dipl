@@ -1,0 +1,10 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+50084 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$108 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50098 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$67 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50103 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$94 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50107 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$60 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50115 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$77 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50117 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$72 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50119 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$86 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50121 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$68 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+50086 	$./bin/uniform/gemver_STANDARD dummy.out 50 	$8232 	$0.500068 	$5875632.476190 	$12.719589 	$9.899812 	$2.264607 	$     1.39 	$     4.40 	$ 1 	$ 23   

@@ -1,0 +1,878 @@
+STARTING jacLR execution: Sun Jul 24 21:58:30 EEST 2016
+	1: Executing benchmark: jacLR
+real 18.86
+user 67.89
+sys 0.21
+	2: Executing benchmark: jacLR
+real 21.85
+user 79.91
+sys 0.16
+	3: Executing benchmark: jacLR
+real 21.85
+user 79.88
+sys 0.18
+	4: Executing benchmark: jacLR
+real 17.41
+user 63.09
+sys 0.14
+	5: Executing benchmark: jacLR
+real 13.18
+user 47.04
+sys 0.06
+	6: Executing benchmark: jacLR
+real 13.28
+user 47.30
+sys 0.06
+	7: Executing benchmark: jacLR
+real 13.29
+user 47.24
+sys 0.06
+	8: Executing benchmark: jacLR
+real 13.44
+user 47.68
+sys 0.07
+	9: Executing benchmark: jacLR
+real 13.35
+user 47.41
+sys 0.08
+	10: Executing benchmark: jacLR
+real 13.41
+user 47.58
+sys 0.08
+	11: Executing benchmark: jacLR
+real 13.12
+user 46.75
+sys 0.06
+	12: Executing benchmark: jacLR
+real 17.24
+user 62.53
+sys 0.11
+	13: Executing benchmark: jacLR
+real 20.73
+user 75.76
+sys 0.19
+	14: Executing benchmark: jacLR
+real 21.24
+user 77.65
+sys 0.16
+	15: Executing benchmark: jacLR
+real 19.37
+user 70.58
+sys 0.13
+	16: Executing benchmark: jacLR
+real 13.66
+user 48.71
+sys 0.08
+	17: Executing benchmark: jacLR
+real 13.87
+user 49.43
+sys 0.07
+	18: Executing benchmark: jacLR
+real 13.82
+user 49.27
+sys 0.06
+	19: Executing benchmark: jacLR
+real 13.82
+user 49.26
+sys 0.07
+	20: Executing benchmark: jacLR
+real 13.81
+user 49.24
+sys 0.10
+	21: Executing benchmark: jacLR
+real 13.60
+user 48.51
+sys 0.08
+	22: Executing benchmark: jacLR
+real 14.04
+user 49.98
+sys 0.10
+	23: Executing benchmark: jacLR
+real 14.06
+user 50.15
+sys 0.06
+	24: Executing benchmark: jacLR
+real 14.06
+user 50.10
+sys 0.07
+	25: Executing benchmark: jacLR
+real 14.10
+user 50.26
+sys 0.08
+	26: Executing benchmark: jacLR
+real 13.58
+user 48.41
+sys 0.07
+	27: Executing benchmark: jacLR
+real 14.14
+user 50.51
+sys 0.07
+	28: Executing benchmark: jacLR
+real 14.07
+user 50.24
+sys 0.06
+	29: Executing benchmark: jacLR
+real 14.16
+user 50.46
+sys 0.09
+	30: Executing benchmark: jacLR
+real 14.13
+user 50.42
+sys 0.08
+	31: Executing benchmark: jacLR
+real 14.10
+user 50.20
+sys 0.10
+	32: Executing benchmark: jacLR
+real 14.03
+user 50.04
+sys 0.08
+	33: Executing benchmark: jacLR
+real 13.45
+user 47.80
+sys 0.08
+	34: Executing benchmark: jacLR
+real 13.44
+user 47.71
+sys 0.06
+	35: Executing benchmark: jacLR
+real 13.47
+user 47.75
+sys 0.10
+	36: Executing benchmark: jacLR
+real 13.52
+user 47.90
+sys 0.09
+	37: Executing benchmark: jacLR
+real 13.49
+user 47.84
+sys 0.10
+	38: Executing benchmark: jacLR
+real 13.27
+user 47.25
+sys 0.08
+	39: Executing benchmark: jacLR
+real 13.43
+user 47.73
+sys 0.07
+	40: Executing benchmark: jacLR
+real 13.44
+user 47.78
+sys 0.06
+	41: Executing benchmark: jacLR
+real 13.45
+user 47.78
+sys 0.08
+	42: Executing benchmark: jacLR
+real 13.48
+user 47.86
+sys 0.10
+	43: Executing benchmark: jacLR
+real 13.31
+user 47.39
+sys 0.08
+	44: Executing benchmark: jacLR
+real 13.90
+user 49.51
+sys 0.10
+	45: Executing benchmark: jacLR
+real 14.04
+user 49.97
+sys 0.11
+	46: Executing benchmark: jacLR
+real 14.05
+user 50.13
+sys 0.09
+	47: Executing benchmark: jacLR
+real 14.07
+user 50.15
+sys 0.09
+	48: Executing benchmark: jacLR
+real 14.12
+user 50.37
+sys 0.08
+	49: Executing benchmark: jacLR
+real 13.63
+user 48.66
+sys 0.07
+	50: Executing benchmark: jacLR
+real 14.91
+user 53.47
+sys 0.11
+	51: Executing benchmark: jacLR
+real 14.96
+user 53.65
+sys 0.10
+	52: Executing benchmark: jacLR
+real 14.93
+user 53.53
+sys 0.10
+	53: Executing benchmark: jacLR
+real 15.21
+user 53.74
+sys 0.07
+	54: Executing benchmark: jacLR
+real 14.62
+user 52.44
+sys 0.11
+	55: Executing benchmark: jacLR
+real 15.25
+user 55.11
+sys 0.08
+	56: Executing benchmark: jacLR
+real 15.93
+user 57.72
+sys 0.07
+	57: Executing benchmark: jacLR
+real 16.04
+user 58.23
+sys 0.06
+	58: Executing benchmark: jacLR
+real 16.02
+user 58.05
+sys 0.11
+	59: Executing benchmark: jacLR
+real 14.19
+user 50.87
+sys 0.08
+	60: Executing benchmark: jacLR
+real 14.55
+user 52.13
+sys 0.08
+	61: Executing benchmark: jacLR
+real 14.54
+user 52.05
+sys 0.11
+	62: Executing benchmark: jacLR
+real 14.55
+user 52.13
+sys 0.07
+	63: Executing benchmark: jacLR
+real 14.55
+user 52.15
+sys 0.08
+	64: Executing benchmark: jacLR
+real 14.06
+user 50.21
+sys 0.12
+	65: Executing benchmark: jacLR
+real 14.78
+user 52.93
+sys 0.13
+	66: Executing benchmark: jacLR
+real 14.68
+user 52.68
+sys 0.08
+	67: Executing benchmark: jacLR
+real 14.78
+user 52.99
+sys 0.08
+	68: Executing benchmark: jacLR
+real 14.44
+user 51.82
+sys 0.08
+	69: Executing benchmark: jacLR
+real 13.93
+user 49.78
+sys 0.08
+	70: Executing benchmark: jacLR
+real 14.22
+user 50.81
+sys 0.09
+	71: Executing benchmark: jacLR
+real 14.21
+user 50.73
+sys 0.12
+	72: Executing benchmark: jacLR
+real 14.19
+user 50.65
+sys 0.12
+	73: Executing benchmark: jacLR
+real 14.19
+user 50.68
+sys 0.09
+	74: Executing benchmark: jacLR
+real 14.06
+user 50.46
+sys 0.09
+	75: Executing benchmark: jacLR
+real 15.05
+user 54.36
+sys 0.11
+	76: Executing benchmark: jacLR
+real 15.17
+user 54.79
+sys 0.11
+	77: Executing benchmark: jacLR
+real 15.08
+user 54.48
+sys 0.06
+	78: Executing benchmark: jacLR
+real 15.09
+user 54.49
+sys 0.08
+	79: Executing benchmark: jacLR
+real 13.84
+user 49.55
+sys 0.08
+	80: Executing benchmark: jacLR
+real 14.19
+user 50.80
+sys 0.06
+	81: Executing benchmark: jacLR
+real 14.25
+user 50.97
+sys 0.07
+	82: Executing benchmark: jacLR
+real 14.23
+user 50.92
+sys 0.08
+	83: Executing benchmark: jacLR
+real 14.25
+user 50.96
+sys 0.08
+	84: Executing benchmark: jacLR
+real 13.47
+user 48.12
+sys 0.10
+	85: Executing benchmark: jacLR
+real 13.45
+user 48.06
+sys 0.09
+	86: Executing benchmark: jacLR
+real 13.42
+user 48.00
+sys 0.07
+	87: Executing benchmark: jacLR
+real 13.51
+user 48.31
+sys 0.08
+	88: Executing benchmark: jacLR
+real 13.48
+user 48.24
+sys 0.06
+	89: Executing benchmark: jacLR
+real 13.26
+user 47.31
+sys 0.09
+	90: Executing benchmark: jacLR
+real 13.46
+user 47.91
+sys 0.09
+	91: Executing benchmark: jacLR
+real 13.59
+user 48.39
+sys 0.08
+	92: Executing benchmark: jacLR
+real 13.52
+user 48.08
+sys 0.09
+	93: Executing benchmark: jacLR
+real 13.47
+user 47.98
+sys 0.08
+	94: Executing benchmark: jacLR
+real 13.81
+user 49.39
+sys 0.08
+	95: Executing benchmark: jacLR
+real 15.38
+user 55.40
+sys 0.08
+	96: Executing benchmark: jacLR
+real 15.28
+user 55.03
+sys 0.09
+	97: Executing benchmark: jacLR
+real 15.37
+user 55.34
+sys 0.09
+	98: Executing benchmark: jacLR
+real 14.95
+user 53.77
+sys 0.08
+	99: Executing benchmark: jacLR
+real 13.06
+user 46.61
+sys 0.06
+	100: Executing benchmark: jacLR
+real 13.21
+user 47.21
+sys 0.06
+	101: Executing benchmark: jacLR
+real 13.00
+user 46.43
+sys 0.06
+	102: Executing benchmark: jacLR
+real 12.99
+user 46.44
+sys 0.06
+	103: Executing benchmark: jacLR
+real 12.99
+user 46.43
+sys 0.06
+	104: Executing benchmark: jacLR
+real 12.98
+user 46.43
+sys 0.05
+	105: Executing benchmark: jacLR
+real 12.98
+user 46.33
+sys 0.09
+	106: Executing benchmark: jacLR
+real 13.03
+user 46.51
+sys 0.06
+	107: Executing benchmark: jacLR
+real 13.02
+user 46.47
+sys 0.08
+	108: Executing benchmark: jacLR
+real 13.04
+user 46.53
+sys 0.08
+	109: Executing benchmark: jacLR
+real 13.03
+user 46.48
+sys 0.07
+	110: Executing benchmark: jacLR
+real 13.03
+user 46.50
+sys 0.08
+	111: Executing benchmark: jacLR
+real 13.05
+user 46.60
+sys 0.07
+	112: Executing benchmark: jacLR
+real 13.00
+user 46.49
+sys 0.06
+	113: Executing benchmark: jacLR
+real 12.99
+user 46.42
+sys 0.07
+	114: Executing benchmark: jacLR
+real 12.98
+user 46.37
+sys 0.07
+	115: Executing benchmark: jacLR
+real 13.07
+user 46.59
+sys 0.08
+	116: Executing benchmark: jacLR
+real 13.03
+user 46.55
+sys 0.06
+	117: Executing benchmark: jacLR
+real 13.03
+user 46.44
+sys 0.08
+	118: Executing benchmark: jacLR
+real 13.04
+user 46.53
+sys 0.08
+	119: Executing benchmark: jacLR
+real 13.02
+user 46.50
+sys 0.08
+	120: Executing benchmark: jacLR
+real 12.99
+user 46.38
+sys 0.07
+	121: Executing benchmark: jacLR
+real 13.03
+user 46.50
+sys 0.08
+	122: Executing benchmark: jacLR
+real 12.95
+user 46.27
+sys 0.07
+	123: Executing benchmark: jacLR
+real 12.94
+user 46.24
+sys 0.08
+	124: Executing benchmark: jacLR
+real 13.02
+user 46.51
+sys 0.07
+	125: Executing benchmark: jacLR
+real 13.05
+user 46.53
+sys 0.08
+	126: Executing benchmark: jacLR
+real 13.03
+user 46.46
+sys 0.08
+	127: Executing benchmark: jacLR
+real 13.04
+user 46.56
+sys 0.07
+	128: Executing benchmark: jacLR
+real 13.05
+user 46.49
+sys 0.10
+	129: Executing benchmark: jacLR
+real 12.99
+user 46.36
+sys 0.08
+	130: Executing benchmark: jacLR
+real 12.97
+user 46.31
+sys 0.09
+	131: Executing benchmark: jacLR
+real 13.00
+user 46.41
+sys 0.08
+	132: Executing benchmark: jacLR
+real 13.00
+user 46.39
+sys 0.06
+	133: Executing benchmark: jacLR
+real 13.01
+user 46.48
+sys 0.06
+	134: Executing benchmark: jacLR
+real 13.01
+user 46.49
+sys 0.06
+	135: Executing benchmark: jacLR
+real 13.04
+user 46.54
+sys 0.05
+	136: Executing benchmark: jacLR
+real 13.06
+user 46.58
+sys 0.08
+	137: Executing benchmark: jacLR
+real 13.03
+user 46.49
+sys 0.06
+	138: Executing benchmark: jacLR
+real 13.01
+user 46.47
+sys 0.06
+	139: Executing benchmark: jacLR
+real 13.04
+user 46.54
+sys 0.08
+	140: Executing benchmark: jacLR
+real 13.00
+user 46.42
+sys 0.06
+	141: Executing benchmark: jacLR
+real 13.05
+user 46.63
+sys 0.06
+	142: Executing benchmark: jacLR
+real 12.97
+user 46.32
+sys 0.09
+	143: Executing benchmark: jacLR
+real 13.02
+user 46.54
+sys 0.07
+	144: Executing benchmark: jacLR
+real 12.99
+user 46.42
+sys 0.06
+	145: Executing benchmark: jacLR
+real 13.03
+user 46.45
+sys 0.09
+	146: Executing benchmark: jacLR
+real 13.01
+user 46.49
+sys 0.06
+	147: Executing benchmark: jacLR
+real 13.03
+user 46.49
+sys 0.09
+	148: Executing benchmark: jacLR
+real 13.02
+user 46.49
+sys 0.07
+	149: Executing benchmark: jacLR
+real 13.05
+user 46.59
+sys 0.06
+	150: Executing benchmark: jacLR
+real 13.02
+user 46.50
+sys 0.05
+	151: Executing benchmark: jacLR
+real 12.99
+user 46.42
+sys 0.09
+	152: Executing benchmark: jacLR
+real 13.03
+user 46.54
+sys 0.07
+	153: Executing benchmark: jacLR
+real 13.01
+user 46.52
+sys 0.07
+	154: Executing benchmark: jacLR
+real 13.01
+user 46.43
+sys 0.07
+	155: Executing benchmark: jacLR
+real 13.08
+user 46.63
+sys 0.06
+	156: Executing benchmark: jacLR
+real 13.03
+user 46.47
+sys 0.08
+	157: Executing benchmark: jacLR
+real 13.02
+user 46.47
+sys 0.06
+	158: Executing benchmark: jacLR
+real 12.99
+user 46.40
+sys 0.07
+	159: Executing benchmark: jacLR
+real 12.97
+user 46.35
+sys 0.07
+	160: Executing benchmark: jacLR
+real 13.02
+user 46.51
+sys 0.06
+	161: Executing benchmark: jacLR
+real 13.01
+user 46.50
+sys 0.08
+	162: Executing benchmark: jacLR
+real 13.02
+user 46.55
+sys 0.06
+	163: Executing benchmark: jacLR
+real 12.99
+user 46.45
+sys 0.06
+	164: Executing benchmark: jacLR
+real 12.98
+user 46.38
+sys 0.08
+	165: Executing benchmark: jacLR
+real 12.98
+user 46.34
+sys 0.09
+	166: Executing benchmark: jacLR
+real 13.03
+user 46.49
+sys 0.09
+	167: Executing benchmark: jacLR
+real 13.01
+user 46.48
+sys 0.08
+	168: Executing benchmark: jacLR
+real 13.01
+user 46.44
+sys 0.06
+	169: Executing benchmark: jacLR
+real 13.02
+user 46.48
+sys 0.07
+	170: Executing benchmark: jacLR
+real 12.99
+user 46.40
+sys 0.08
+	171: Executing benchmark: jacLR
+real 13.00
+user 46.36
+sys 0.09
+	172: Executing benchmark: jacLR
+real 13.04
+user 46.56
+sys 0.05
+	173: Executing benchmark: jacLR
+real 12.99
+user 46.48
+sys 0.06
+	174: Executing benchmark: jacLR
+real 13.00
+user 46.42
+sys 0.06
+	175: Executing benchmark: jacLR
+real 13.03
+user 46.51
+sys 0.05
+	176: Executing benchmark: jacLR
+real 13.05
+user 46.61
+sys 0.04
+	177: Executing benchmark: jacLR
+real 13.03
+user 46.48
+sys 0.06
+	178: Executing benchmark: jacLR
+real 13.04
+user 46.54
+sys 0.09
+	179: Executing benchmark: jacLR
+real 13.00
+user 46.43
+sys 0.05
+	180: Executing benchmark: jacLR
+real 13.01
+user 46.49
+sys 0.06
+	181: Executing benchmark: jacLR
+real 13.02
+user 46.42
+sys 0.08
+	182: Executing benchmark: jacLR
+real 13.01
+user 46.50
+sys 0.06
+	183: Executing benchmark: jacLR
+real 12.97
+user 46.35
+sys 0.08
+	184: Executing benchmark: jacLR
+real 13.02
+user 46.49
+sys 0.06
+	185: Executing benchmark: jacLR
+real 12.98
+user 46.37
+sys 0.06
+	186: Executing benchmark: jacLR
+real 13.05
+user 46.57
+sys 0.08
+	187: Executing benchmark: jacLR
+real 13.00
+user 46.45
+sys 0.06
+	188: Executing benchmark: jacLR
+real 13.05
+user 46.61
+sys 0.06
+	189: Executing benchmark: jacLR
+real 13.04
+user 46.55
+sys 0.05
+	190: Executing benchmark: jacLR
+real 13.02
+user 46.49
+sys 0.08
+	191: Executing benchmark: jacLR
+real 13.02
+user 46.53
+sys 0.07
+	192: Executing benchmark: jacLR
+real 13.00
+user 46.47
+sys 0.06
+	193: Executing benchmark: jacLR
+real 12.98
+user 46.38
+sys 0.06
+	194: Executing benchmark: jacLR
+real 13.05
+user 46.55
+sys 0.08
+	195: Executing benchmark: jacLR
+real 13.03
+user 46.51
+sys 0.06
+	196: Executing benchmark: jacLR
+real 13.06
+user 46.64
+sys 0.05
+	197: Executing benchmark: jacLR
+real 13.05
+user 46.61
+sys 0.05
+	198: Executing benchmark: jacLR
+real 13.02
+user 46.48
+sys 0.06
+	199: Executing benchmark: jacLR
+real 13.02
+user 46.48
+sys 0.08
+	200: Executing benchmark: jacLR
+real 13.04
+user 46.56
+sys 0.08
+	201: Executing benchmark: jacLR
+real 13.02
+user 46.53
+sys 0.08
+	202: Executing benchmark: jacLR
+real 13.04
+user 46.62
+sys 0.06
+	203: Executing benchmark: jacLR
+real 13.02
+user 46.56
+sys 0.06
+	204: Executing benchmark: jacLR
+real 13.02
+user 46.49
+sys 0.06
+	205: Executing benchmark: jacLR
+real 13.02
+user 46.45
+sys 0.08
+	206: Executing benchmark: jacLR
+real 13.04
+user 46.55
+sys 0.07
+	207: Executing benchmark: jacLR
+real 13.08
+user 46.71
+sys 0.06
+	208: Executing benchmark: jacLR
+real 13.01
+user 46.45
+sys 0.04
+	209: Executing benchmark: jacLR
+real 13.05
+user 46.61
+sys 0.07
+	210: Executing benchmark: jacLR
+real 13.03
+user 46.56
+sys 0.06
+	211: Executing benchmark: jacLR
+real 13.22
+user 46.71
+sys 0.09
+	212: Executing benchmark: jacLR
+real 12.99
+user 46.46
+sys 0.07
+	213: Executing benchmark: jacLR
+real 13.04
+user 46.62
+sys 0.06
+	214: Executing benchmark: jacLR
+real 13.09
+user 46.66
+sys 0.07
+	215: Executing benchmark: jacLR
+real 13.06
+user 46.59
+sys 0.07
+	216: Executing benchmark: jacLR
+real 13.03
+user 46.54
+sys 0.06
+	217: Executing benchmark: jacLR
+real 13.07
+user 46.63
+sys 0.09
+	218: Executing benchmark: jacLR
+real 13.02
+user 46.46
+sys 0.08
+	219: Executing benchmark: jacLR
+real 12.98
+user 46.35
+sys 0.08
+FINISHED jacLR execution: Sun Jul 24 22:48:37 EEST 2016

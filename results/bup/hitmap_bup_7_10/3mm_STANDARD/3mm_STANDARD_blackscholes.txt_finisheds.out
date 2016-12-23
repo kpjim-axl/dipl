@@ -1,0 +1,17 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+48675 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$89 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48687 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$82 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48692 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$72 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48694 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$80 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48696 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$73 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48698 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$80 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48700 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$71 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48702 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$96 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48704 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$88 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48706 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$72 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48708 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$83 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48710 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$93 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48712 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$68 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48714 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$64 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48716 	$./bin/blackscholes 4 scaff/bin/in_10M.txt bsdummy 	$103 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$0.000000 	$     0.00 	$     0.00 	$ 1 	$ 1   
+48673 	$./bin/uniform/3mm_STANDARD dummy.out 2 	$15658 	$0.349865 	$856028.642857 	$20.712477 	$20.500775 	$0.107521 	$     1.01 	$      inf 	$ 1 	$ 44   
