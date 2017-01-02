@@ -1,0 +1,115 @@
+\providecommand\nbibitem[5][]{\bibitem[#1]{#2}}
+\begin{thebibliography}{Bohm85}
+
+\nbibitem[Appe00]{appel-2000-smtmipcc}{}{}{}
+Andrew~W. Appel and Amy~P. Felty,
+\newblock ``A Semantic Model of Types and Machine Instructions for
+  Proof-Carrying Code'',
+\newblock in {\em Proceedings of the 27th Annual Symposium on Principles of
+  Programming Languages (POPL 2000)}, pp.\ 243--253, ACM Press, 2000.
+
+\nbibitem[Appe01]{appel-2001-fpcc}{}{}{}
+A.~W. Appel,
+\newblock ``Foundational Proof-Carrying Code'',
+\newblock in {\em Proceedings of the 16th Annual IEEE Symposium on Logic in
+  Computer Science}, pp.\ 247--258, June 2001.
+
+\nbibitem[Bohm85]{boehm-1985-astlpta}{}{}{}
+C.~B{\"o}hm and A.~Bernarducci,
+\newblock ``Automatic Synthesis of Typed $\lambda$-Programs on Term Algebras'',
+\newblock {\em Theoretical Computer Science}, vol.~39, no.\ 2--3, pp.\
+  135--154, August 1985.
+
+\nbibitem[Chur32]{church-1932-spfl}{}{}{}
+A.~Church,
+\newblock ``A Set of Postulates for the Foundations of Logic'',
+\newblock {\em Annals of Mathematics}, vol.~33, no.~1, pp.\ 346--366, 1932.
+
+\nbibitem[Chur33]{church-1933-spfl}{}{}{}
+A.~Church,
+\newblock ``A Set of Postulates for the Foundations of Logic'',
+\newblock {\em Annals of Mathematics}, vol.~34, no.~2, pp.\ 839--864, 1933.
+
+\nbibitem[Gira72]{girard-1972-ifecaos}{}{}{}
+J.-Y. Girard,
+\newblock {\em Interpr{\'e}tation Fonctionelle et {\'E}limination des Coupures
+  Dans l'Arithm{\'e}tique d'Ordre Sup{\'e}rieur},
+\newblock Ph.D.\ thesis, Universit{\'e} Paris 7, 1972.
+
+\nbibitem[Gira89]{girard-1989-pt}{}{}{}
+J.-Y. Girard, Y.~Lafont and P.~Taylor,
+\newblock ``Proofs and Types'',
+\newblock {\em Tracks in Theoretical Computer Science}, 1989.
+
+\nbibitem[Harp95]{harper-1995-cpita}{}{}{}
+Robert Harper and Greg Morrisett,
+\newblock ``Compiling Polymorphism Using Intensional Type Analysis'',
+\newblock in {\em Proceedings of the 22nd Annual Symposium on Principles of
+  Programming Languages (POPL 1995)}, pp.\ 130--141, ACM Press, 1995.
+
+\nbibitem[Morr98]{morrisett-1998-sftal}{}{}{}
+Greg Morrisett, David Walker, Karl Crary and Neal Glew,
+\newblock ``From {S}ystem {F} to Typed Assembly Language'',
+\newblock in {\em Proceedings of the 25th Annual Symposium on Principles of
+  Programming Languages (POPL 1998)}, pp.\ 85--97, ACM Press, January 1998.
+
+\nbibitem[Necu96]{necula-1996-skertc}{}{}{}
+G.~Necula and P.~Lee,
+\newblock ``Safe Kernel Extensions without Run-Time Checking'',
+\newblock in {\em Proceedings of the 2nd USENIX Symposium on Operating System
+  Design and Implementation}, pp.\ 229--243, USENIX Association, 1996.
+
+\nbibitem[Necu97]{necula-1997-pcc}{}{}{}
+G.~Necula,
+\newblock ``Proof-Carrying Code'',
+\newblock in {\em Proceedings of the 24th Annual Symposium on Principles of
+  Programming Languages (POPL 1997)}, pp.\ 106--119, New York, January 1997,
+  ACM Press.
+
+\nbibitem[Necu98]{necula-1998-cp}{}{}{}
+G.~Necula,
+\newblock {\em Compiling with Proofs},
+\newblock Ph.D.\ thesis, Carnegie Mellon University, September 1998.
+
+\nbibitem[Paul89]{paulin-1989-epscc}{}{}{}
+C.~Paulin-Mohring,
+\newblock {\em Extraction de Programmes Dans le Calcul des Constructions},
+\newblock Ph.D.\ thesis, Universit{\'e} Paris 7, January 1989.
+
+\nbibitem[Paul93]{paulin-1993-iddcrp}{}{}{}
+Christine Paulin-Mohring,
+\newblock ``Inductive Definitions in the System {Coq}: Rules and Properties'',
+\newblock in M.~Bezem and J.~F. Groote, editors, {\em Proceedings of the 1st
+  Int.\ Conf.\ on Typed Lambda Calculi and Applications, {TLCA}'93, Utrecht,
+  The Netherlands, 16--18 March 1993}, vol.\ 664, pp.\ 328--345,
+  Springer-Verlag, Berlin, 1993.
+
+\nbibitem[Pfen90]{pfenning-1990-pmfps}{}{}{}
+F.~Pfenning and C.~Paulin-Mohring,
+\newblock ``Inductively defined types in the Calculus of Constructions'',
+\newblock in {\em Proceedings of Mathematical Foundations of Programming
+  Semantics}, vol.\ 442 of {\em Lecture Notes in Computer Science}, Berlin,
+  1990, Springer-Verlag.
+\newblock technical report CMU-CS-89-209.
+
+\nbibitem[Reyn74]{reynolds-1974-ttts}{}{}{}
+John.~C. Reynolds,
+\newblock ``Towards a Theory of Type Systems'',
+\newblock in Ehring et~al., editor, {\em Lecture Notes in Computer Science},
+  vol.~19, pp.\ 408--425, Springer-Verlag, 1974.
+
+\nbibitem[Sell94]{sellink-1994-vpaptt}{}{}{}
+M.~P.~A. Sellink,
+\newblock ``Verifying process algebra proofs in type theory'',
+\newblock in D.~J. Andrews, J.~F. Groote and C.~A. Middelburg, editors, {\em
+  Proceedings of the International Workshop on Semantics of Specipication
+  Languages (SOSL 1993)}, Springer, 1994.
+
+\nbibitem[Shao02]{shao-2002-tscb}{}{}{}
+Z.~Shao, B.~Saha, V.~Trifonov and N.~Papaspyrou,
+\newblock ``A Type System for Certified Binaries'',
+\newblock in {\em Proceedings of the 29th Annual Symposium on Principles of
+  Programming Languages (POPL 2002)}, pp.\ 217--232, Portland, OR, USA, January
+  2002.
+
+\end{thebibliography}
