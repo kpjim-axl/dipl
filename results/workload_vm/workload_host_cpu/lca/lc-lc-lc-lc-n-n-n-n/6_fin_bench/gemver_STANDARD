@@ -1,0 +1,54 @@
+STARTING gemver_STANDARD execution: Tue Jan  3 14:15:14 EET 2017
+0: Executing benchmark: gemver_STANDARD
+real 36.31
+user 133.40
+sys 0.52
+1: Executing benchmark: gemver_STANDARD
+real 36.12
+user 97.01
+sys 0.22
+2: Executing benchmark: gemver_STANDARD
+real 36.13
+user 105.87
+sys 0.40
+3: Executing benchmark: gemver_STANDARD
+real 36.30
+user 97.65
+sys 0.29
+4: Executing benchmark: gemver_STANDARD
+real 36.17
+user 97.35
+sys 0.26
+5: Executing benchmark: gemver_STANDARD
+real 36.22
+user 97.59
+sys 0.23
+6: Executing benchmark: gemver_STANDARD
+real 36.17
+user 97.13
+sys 0.29
+7: Executing benchmark: gemver_STANDARD
+real 36.19
+user 106.25
+sys 0.28
+8: Executing benchmark: gemver_STANDARD
+real 39.35
+user 109.78
+sys 0.34
+9: Executing benchmark: gemver_STANDARD
+real 36.24
+user 106.36
+sys 0.35
+10: Executing benchmark: gemver_STANDARD
+real 36.24
+user 97.25
+sys 0.38
+11: Executing benchmark: gemver_STANDARD
+real 36.32
+user 97.64
+sys 0.36
+12: Executing benchmark: gemver_STANDARD
+real 36.22
+user 88.31
+sys 0.35
+FINISHED gemver_STANDARD execution (13 times): Tue Jan  3 14:23:08 EET 2017

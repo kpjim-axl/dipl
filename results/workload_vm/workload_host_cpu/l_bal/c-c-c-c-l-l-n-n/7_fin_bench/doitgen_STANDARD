@@ -1,0 +1,30 @@
+STARTING doitgen_STANDARD execution: Mon Jan  2 16:06:32 EET 2017
+0: Executing benchmark: doitgen_STANDARD
+real 64.38
+user 244.05
+sys 2.43
+1: Executing benchmark: doitgen_STANDARD
+real 67.29
+user 256.21
+sys 2.03
+2: Executing benchmark: doitgen_STANDARD
+real 64.32
+user 235.00
+sys 2.30
+3: Executing benchmark: doitgen_STANDARD
+real 64.27
+user 253.25
+sys 2.10
+4: Executing benchmark: doitgen_STANDARD
+real 64.28
+user 250.48
+sys 1.96
+5: Executing benchmark: doitgen_STANDARD
+real 64.31
+user 249.99
+sys 2.28
+6: Executing benchmark: doitgen_STANDARD
+real 64.37
+user 244.12
+sys 2.30
+FINISHED doitgen_STANDARD execution (7 times): Mon Jan  2 16:14:05 EET 2017

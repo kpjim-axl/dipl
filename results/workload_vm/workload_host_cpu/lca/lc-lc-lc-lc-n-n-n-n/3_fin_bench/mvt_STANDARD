@@ -1,0 +1,102 @@
+STARTING mvt_STANDARD execution: Tue Jan  3 14:19:44 EET 2017
+0: Executing benchmark: mvt_STANDARD
+real 48.18
+user 104.38
+sys 0.31
+1: Executing benchmark: mvt_STANDARD
+real 48.03
+user 131.12
+sys 0.41
+2: Executing benchmark: mvt_STANDARD
+real 45.02
+user 119.09
+sys 0.26
+3: Executing benchmark: mvt_STANDARD
+real 47.70
+user 91.19
+sys 0.21
+4: Executing benchmark: mvt_STANDARD
+real 36.46
+user 91.68
+sys 0.20
+5: Executing benchmark: mvt_STANDARD
+real 17.36
+user 42.56
+sys 0.11
+6: Executing benchmark: mvt_STANDARD
+real 11.13
+user 30.00
+sys 0.10
+7: Executing benchmark: mvt_STANDARD
+real 11.22
+user 30.40
+sys 0.06
+8: Executing benchmark: mvt_STANDARD
+real 11.13
+user 29.89
+sys 0.08
+9: Executing benchmark: mvt_STANDARD
+real 11.13
+user 29.87
+sys 0.07
+10: Executing benchmark: mvt_STANDARD
+real 11.06
+user 29.61
+sys 0.08
+11: Executing benchmark: mvt_STANDARD
+real 11.22
+user 30.26
+sys 0.08
+12: Executing benchmark: mvt_STANDARD
+real 11.06
+user 29.63
+sys 0.11
+13: Executing benchmark: mvt_STANDARD
+real 11.15
+user 30.13
+sys 0.09
+14: Executing benchmark: mvt_STANDARD
+real 11.27
+user 30.40
+sys 0.08
+15: Executing benchmark: mvt_STANDARD
+real 11.16
+user 30.01
+sys 0.08
+16: Executing benchmark: mvt_STANDARD
+real 11.17
+user 30.05
+sys 0.06
+17: Executing benchmark: mvt_STANDARD
+real 11.09
+user 29.80
+sys 0.06
+18: Executing benchmark: mvt_STANDARD
+real 11.17
+user 30.07
+sys 0.07
+19: Executing benchmark: mvt_STANDARD
+real 11.24
+user 30.31
+sys 0.09
+20: Executing benchmark: mvt_STANDARD
+real 11.28
+user 30.60
+sys 0.07
+21: Executing benchmark: mvt_STANDARD
+real 11.11
+user 29.78
+sys 0.07
+22: Executing benchmark: mvt_STANDARD
+real 11.07
+user 29.62
+sys 0.07
+23: Executing benchmark: mvt_STANDARD
+real 11.15
+user 29.94
+sys 0.07
+24: Executing benchmark: mvt_STANDARD
+real 11.16
+user 29.92
+sys 0.08
+FINISHED mvt_STANDARD execution (25 times): Tue Jan  3 14:27:19 EET 2017

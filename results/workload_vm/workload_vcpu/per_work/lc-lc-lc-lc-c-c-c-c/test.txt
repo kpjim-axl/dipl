@@ -1,0 +1,36 @@
+l_bal/
+	1-gemver_STANDARD	48.95
+	2-gemm_STANDARD	95.58
+	3-trisolv_STANDARD	31.82
+	4-syrk_STANDARD	63.11
+	5-ep.A.g	43.06
+	6-mvt_STANDARD	62.17
+	7-gramschmidt_STANDARD	81.66
+	8-trmm_STANDARD	56.72
+lca/
+	1-gemver_STANDARD	49.37
+	2-gemm_STANDARD	96.31
+	3-trisolv_STANDARD	31.80
+	4-syrk_STANDARD	63.03
+	5-ep.A.g	43.05
+	6-mvt_STANDARD	62.15
+	7-gramschmidt_STANDARD	80.94
+	8-trmm_STANDARD	57.12
+linux/
+	1-gemver_STANDARD	41.37
+	2-mvt_STANDARD	53.55
+	3-trisolv_STANDARD	26.73
+	4-trmm_STANDARD	53.56
+	5-ep.A.g	35.87
+	6-gemm_STANDARD	79.26
+	7-gramschmidt_STANDARD	68.04
+	8-syrk_STANDARD	60.39
+thbal/
+	1-gemver_STANDARD	41.52
+	2-mvt_STANDARD	42.02
+	3-trisolv_STANDARD	21.39
+	4-trmm_STANDARD	43.99
+	5-ep.A.g	29.03
+	6-gemm_STANDARD	67.28
+	7-gramschmidt_STANDARD	24.04
+	8-syrk_STANDARD	44.86

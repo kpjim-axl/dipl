@@ -1,0 +1,106 @@
+STARTING cholesky_STANDARD execution: Mon Jan  2 21:43:39 EET 2017
+0: Executing benchmark: cholesky_STANDARD
+real 28.43
+user 112.64
+sys 0.28
+1: Executing benchmark: cholesky_STANDARD
+real 28.29
+user 112.49
+sys 0.20
+2: Executing benchmark: cholesky_STANDARD
+real 31.33
+user 124.65
+sys 0.22
+3: Executing benchmark: cholesky_STANDARD
+real 28.27
+user 112.41
+sys 0.24
+4: Executing benchmark: cholesky_STANDARD
+real 28.26
+user 112.35
+sys 0.22
+5: Executing benchmark: cholesky_STANDARD
+real 28.25
+user 112.29
+sys 0.22
+6: Executing benchmark: cholesky_STANDARD
+real 24.05
+user 95.84
+sys 0.21
+7: Executing benchmark: cholesky_STANDARD
+real 23.87
+user 95.34
+sys 0.08
+8: Executing benchmark: cholesky_STANDARD
+real 18.98
+user 75.78
+sys 0.10
+9: Executing benchmark: cholesky_STANDARD
+real 13.26
+user 52.93
+sys 0.05
+10: Executing benchmark: cholesky_STANDARD
+real 12.27
+user 48.93
+sys 0.07
+11: Executing benchmark: cholesky_STANDARD
+real 13.25
+user 52.84
+sys 0.07
+12: Executing benchmark: cholesky_STANDARD
+real 12.21
+user 48.75
+sys 0.03
+13: Executing benchmark: cholesky_STANDARD
+real 12.19
+user 48.63
+sys 0.03
+14: Executing benchmark: cholesky_STANDARD
+real 12.25
+user 48.86
+sys 0.04
+15: Executing benchmark: cholesky_STANDARD
+real 12.23
+user 48.81
+sys 0.04
+16: Executing benchmark: cholesky_STANDARD
+real 12.23
+user 48.79
+sys 0.05
+17: Executing benchmark: cholesky_STANDARD
+real 13.29
+user 53.03
+sys 0.06
+18: Executing benchmark: cholesky_STANDARD
+real 12.21
+user 48.69
+sys 0.06
+19: Executing benchmark: cholesky_STANDARD
+real 12.17
+user 48.59
+sys 0.03
+20: Executing benchmark: cholesky_STANDARD
+real 12.23
+user 48.81
+sys 0.04
+21: Executing benchmark: cholesky_STANDARD
+real 12.20
+user 48.71
+sys 0.03
+22: Executing benchmark: cholesky_STANDARD
+real 13.23
+user 52.79
+sys 0.06
+23: Executing benchmark: cholesky_STANDARD
+real 12.09
+user 48.25
+sys 0.04
+24: Executing benchmark: cholesky_STANDARD
+real 12.10
+user 48.29
+sys 0.05
+25: Executing benchmark: cholesky_STANDARD
+real 12.10
+user 48.30
+sys 0.04
+FINISHED cholesky_STANDARD execution (26 times): Mon Jan  2 21:51:11 EET 2017

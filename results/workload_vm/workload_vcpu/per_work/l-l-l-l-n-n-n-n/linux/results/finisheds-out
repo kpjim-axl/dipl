@@ -1,0 +1,9 @@
+Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm7/debian$  secs: $ 474137 $ cpu:$477215 
+ Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm4/debian$  secs: $ 499885 $ cpu:$493311 
+ Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm3/debian$  secs: $ 501361 $ cpu:$497091 
+ Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm1/debian$  secs: $ 508195 $ cpu:$474911 
+ Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm6/debian$  secs: $ 513461 $ cpu:$538592 
+ Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm2/debian$  secs: $ 515245 $ cpu:$480682 
+ Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm5/debian$  secs: $ 515637 $ cpu:$537493 
+ Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm8/debian$  secs: $ 515793 $ cpu:$543271 
+ 

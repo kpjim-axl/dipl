@@ -1,0 +1,30 @@
+STARTING 2mm_STANDARD execution: Tue Jan  3 14:30:30 EET 2017
+0: Executing benchmark: 2mm_STANDARD
+real 64.84
+user 258.88
+sys 0.31
+1: Executing benchmark: 2mm_STANDARD
+real 67.85
+user 271.13
+sys 0.14
+2: Executing benchmark: 2mm_STANDARD
+real 67.87
+user 271.21
+sys 0.16
+3: Executing benchmark: 2mm_STANDARD
+real 64.84
+user 258.99
+sys 0.26
+4: Executing benchmark: 2mm_STANDARD
+real 67.87
+user 271.06
+sys 0.26
+5: Executing benchmark: 2mm_STANDARD
+real 67.88
+user 271.24
+sys 0.10
+6: Executing benchmark: 2mm_STANDARD
+real 64.95
+user 259.45
+sys 0.23
+FINISHED 2mm_STANDARD execution (7 times): Tue Jan  3 14:38:16 EET 2017

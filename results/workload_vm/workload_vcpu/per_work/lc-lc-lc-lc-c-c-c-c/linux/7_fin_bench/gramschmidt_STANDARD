@@ -1,0 +1,30 @@
+STARTING gramschmidt_STANDARD execution: Wed Dec 14 20:47:57 EET 2016
+0: Executing benchmark: gramschmidt_STANDARD
+real 67.92
+user 157.02
+sys 0.93
+1: Executing benchmark: gramschmidt_STANDARD
+real 68.55
+user 158.43
+sys 0.50
+2: Executing benchmark: gramschmidt_STANDARD
+real 70.43
+user 161.28
+sys 0.44
+3: Executing benchmark: gramschmidt_STANDARD
+real 69.97
+user 161.41
+sys 0.60
+4: Executing benchmark: gramschmidt_STANDARD
+real 70.40
+user 162.68
+sys 0.42
+5: Executing benchmark: gramschmidt_STANDARD
+real 70.25
+user 162.20
+sys 0.45
+6: Executing benchmark: gramschmidt_STANDARD
+real 58.79
+user 139.37
+sys 0.44
+FINISHED gramschmidt_STANDARD execution: Wed Dec 14 20:55:53 EET 2016

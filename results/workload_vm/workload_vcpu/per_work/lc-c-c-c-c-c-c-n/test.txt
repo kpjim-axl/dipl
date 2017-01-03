@@ -1,0 +1,36 @@
+l_bal/
+	1-2mm_STANDARD	72.83
+	2-syrk_STANDARD	65.10
+	3-3mm_STANDARD	103.12
+	4-durbin_STANDARD	42.13
+	5-ep.A.g	43.97
+	6-gemm_STANDARD	95.95
+	7-doitgen_STANDARD	61.92
+	8-gemver_STANDARD	48.00
+lca/
+	1-gemver_STANDARD	48.57
+	2-2mm_STANDARD	76.09
+	3-3mm_STANDARD	104.52
+	4-durbin_STANDARD	41.56
+	5-ep.A.g	43.57
+	6-gemm_STANDARD	88.64
+	7-syrk_STANDARD	64.19
+	8-doitgen_STANDARD	60.96
+linux/
+	1-gemver_STANDARD	43.72
+	2-2mm_STANDARD	66.21
+	3-3mm_STANDARD	95.63
+	4-durbin_STANDARD	43.10
+	5-ep.A.g	39.03
+	6-gemm_STANDARD	80.47
+	7-syrk_STANDARD	60.51
+	8-doitgen_STANDARD	57.94
+thbal/
+	1-gemver_STANDARD	40.91
+	2-2mm_STANDARD	59.83
+	3-3mm_STANDARD	89.96
+	4-durbin_STANDARD	15.16
+	5-ep.A.g	25.37
+	6-gemm_STANDARD	77.60
+	7-syrk_STANDARD	41.46
+	8-doitgen_STANDARD	35.96

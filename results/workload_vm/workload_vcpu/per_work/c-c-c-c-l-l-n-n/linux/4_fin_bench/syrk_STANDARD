@@ -1,0 +1,26 @@
+STARTING syrk_STANDARD execution: Wed Dec 14 17:25:37 EET 2016
+0: Executing benchmark: syrk_STANDARD
+real 83.99
+user 318.70
+sys 2.44
+1: Executing benchmark: syrk_STANDARD
+real 85.69
+user 324.08
+sys 2.42
+2: Executing benchmark: syrk_STANDARD
+real 85.32
+user 325.55
+sys 2.18
+3: Executing benchmark: syrk_STANDARD
+real 85.75
+user 323.14
+sys 2.06
+4: Executing benchmark: syrk_STANDARD
+real 84.42
+user 321.94
+sys 2.14
+5: Executing benchmark: syrk_STANDARD
+real 56.70
+user 213.83
+sys 1.05
+FINISHED syrk_STANDARD execution: Wed Dec 14 17:33:39 EET 2016

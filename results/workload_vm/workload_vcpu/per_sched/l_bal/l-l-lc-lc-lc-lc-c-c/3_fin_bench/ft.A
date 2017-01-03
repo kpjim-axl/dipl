@@ -1,0 +1,167 @@
+STARTING ft.A execution: Sat Dec 17 23:04:37 EET 2016
+0: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.73
+user 26.17
+sys 1.92
+1: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.47
+user 56.02
+sys 1.68
+2: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.50
+user 26.72
+sys 0.98
+3: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.55
+user 46.69
+sys 1.65
+4: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.46
+user 20.77
+sys 0.66
+5: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.48
+user 47.44
+sys 1.31
+6: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.48
+user 26.77
+sys 0.84
+7: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.49
+user 37.90
+sys 1.53
+8: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.44
+user 40.83
+sys 1.48
+9: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.46
+user 26.72
+sys 0.84
+10: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.48
+user 53.07
+sys 1.70
+11: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.45
+user 26.72
+sys 0.72
+12: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.43
+user 49.82
+sys 1.73
+13: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.47
+user 26.81
+sys 0.84
+14: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.46
+user 35.40
+sys 1.10
+15: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.44
+user 44.07
+sys 1.43
+16: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.44
+user 26.52
+sys 0.94
+17: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.46
+user 52.81
+sys 1.70
+18: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.43
+user 26.43
+sys 0.83
+19: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.45
+user 32.55
+sys 1.03
+20: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.40
+user 35.25
+sys 1.10
+21: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.48
+user 26.77
+sys 0.83
+22: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.43
+user 50.11
+sys 1.42
+23: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.51
+user 26.60
+sys 0.99
+24: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.42
+user 52.84
+sys 1.57
+25: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.45
+user 26.77
+sys 0.84
+26: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.46
+user 35.50
+sys 1.06
+27: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.43
+user 43.94
+sys 1.56
+28: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.67
+user 38.37
+sys 1.26
+29: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.43
+user 43.56
+sys 1.90
+30: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.46
+user 26.57
+sys 0.87
+31: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 15.48
+user 41.18
+sys 1.44
+32: Executing benchmark: ft.A
+Command exited with non-zero status 26
+real 12.42
+user 26.48
+sys 0.82
+FINISHED ft.A execution: Sat Dec 17 23:12:11 EET 2016

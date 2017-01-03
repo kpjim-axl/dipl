@@ -1,0 +1,70 @@
+STARTING stream_d0 execution: Tue Jan  3 12:50:20 EET 2017
+0: Executing benchmark: stream_d0
+real 28.13
+user 97.78
+sys 4.14
+1: Executing benchmark: stream_d0
+real 27.91
+user 98.74
+sys 2.50
+2: Executing benchmark: stream_d0
+real 24.89
+user 95.68
+sys 2.50
+3: Executing benchmark: stream_d0
+real 27.90
+user 107.30
+sys 2.93
+4: Executing benchmark: stream_d0
+real 27.90
+user 107.55
+sys 2.69
+5: Executing benchmark: stream_d0
+real 27.93
+user 98.89
+sys 2.39
+6: Executing benchmark: stream_d0
+real 27.91
+user 98.91
+sys 2.34
+7: Executing benchmark: stream_d0
+real 27.94
+user 98.81
+sys 2.50
+8: Executing benchmark: stream_d0
+real 27.97
+user 99.05
+sys 2.36
+9: Executing benchmark: stream_d0
+real 28.19
+user 100.00
+sys 2.25
+10: Executing benchmark: stream_d0
+real 28.31
+user 100.09
+sys 2.50
+11: Executing benchmark: stream_d0
+real 28.27
+user 109.07
+sys 2.50
+12: Executing benchmark: stream_d0
+real 28.28
+user 108.91
+sys 2.71
+13: Executing benchmark: stream_d0
+real 28.27
+user 102.99
+sys 2.42
+14: Executing benchmark: stream_d0
+real 31.27
+user 112.05
+sys 2.51
+15: Executing benchmark: stream_d0
+real 28.30
+user 100.34
+sys 2.23
+16: Executing benchmark: stream_d0
+real 28.31
+user 108.84
+sys 2.87
+FINISHED stream_d0 execution (17 times): Tue Jan  3 12:58:18 EET 2017

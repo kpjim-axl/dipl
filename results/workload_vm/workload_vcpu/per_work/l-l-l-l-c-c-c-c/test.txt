@@ -1,0 +1,36 @@
+l_bal/
+	1-jacLR	56.64
+	2-3mm_STANDARD	125.77
+	3-jacLR	53.72
+	4-durbin_STANDARD	53.02
+	5-2mm_STANDARD	84.28
+	6-stream_d0	32.93
+	7-cholesky_STANDARD	29.09
+	8-stream_d0	30.20
+lca/
+	1-jacLR	83.97
+	2-stream_d0	54.66
+	3-jacLR	82.06
+	4-stream_d0	54.15
+	5-2mm_STANDARD	72.66
+	6-3mm_STANDARD	103.31
+	7-cholesky_STANDARD	25.14
+	8-durbin_STANDARD	41.62
+linux/
+	1-jacLR	59.74
+	2-stream_d0	30.77
+	3-jacLR	66.40
+	4-stream_d0	30.61
+	5-2mm_STANDARD	77.71
+	6-3mm_STANDARD	114.83
+	7-cholesky_STANDARD	31.10
+	8-durbin_STANDARD	67.50
+thbal/
+	1-jacLR	52.97
+	2-stream_d0	29.23
+	3-jacLR	52.87
+	4-stream_d0	28.82
+	5-2mm_STANDARD	59.01
+	6-3mm_STANDARD	92.81
+	7-cholesky_STANDARD	28.02
+	8-durbin_STANDARD	12.87

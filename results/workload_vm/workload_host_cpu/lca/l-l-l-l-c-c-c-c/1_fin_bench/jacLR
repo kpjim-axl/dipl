@@ -1,0 +1,26 @@
+STARTING jacLR execution: Tue Jan  3 16:44:18 EET 2017
+0: Executing benchmark: jacLR
+real 80.93
+user 308.01
+sys 0.45
+1: Executing benchmark: jacLR
+real 84.36
+user 284.03
+sys 0.74
+2: Executing benchmark: jacLR
+real 84.09
+user 311.43
+sys 0.37
+3: Executing benchmark: jacLR
+real 83.97
+user 328.92
+sys 0.58
+4: Executing benchmark: jacLR
+real 83.98
+user 320.44
+sys 0.28
+5: Executing benchmark: jacLR
+real 75.17
+user 280.13
+sys 0.59
+FINISHED jacLR execution (6 times): Tue Jan  3 16:52:31 EET 2017

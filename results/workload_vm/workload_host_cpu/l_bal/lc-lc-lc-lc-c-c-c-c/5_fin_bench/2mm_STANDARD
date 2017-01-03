@@ -1,0 +1,66 @@
+STARTING 2mm_STANDARD execution: Mon Jan  2 17:08:32 EET 2017
+0: Executing benchmark: 2mm_STANDARD
+real 67.93
+user 271.15
+sys 0.31
+1: Executing benchmark: 2mm_STANDARD
+real 67.90
+user 271.14
+sys 0.31
+2: Executing benchmark: 2mm_STANDARD
+real 64.78
+user 258.69
+sys 0.23
+3: Executing benchmark: 2mm_STANDARD
+real 53.20
+user 212.48
+sys 0.10
+4: Executing benchmark: 2mm_STANDARD
+real 21.34
+user 85.05
+sys 0.06
+5: Executing benchmark: 2mm_STANDARD
+real 16.15
+user 64.32
+sys 0.05
+6: Executing benchmark: 2mm_STANDARD
+real 16.24
+user 64.68
+sys 0.05
+7: Executing benchmark: 2mm_STANDARD
+real 16.22
+user 64.61
+sys 0.04
+8: Executing benchmark: 2mm_STANDARD
+real 16.26
+user 64.75
+sys 0.04
+9: Executing benchmark: 2mm_STANDARD
+real 16.22
+user 64.58
+sys 0.05
+10: Executing benchmark: 2mm_STANDARD
+real 16.27
+user 64.78
+sys 0.03
+11: Executing benchmark: 2mm_STANDARD
+real 16.24
+user 64.66
+sys 0.05
+12: Executing benchmark: 2mm_STANDARD
+real 16.23
+user 64.65
+sys 0.04
+13: Executing benchmark: 2mm_STANDARD
+real 16.18
+user 64.46
+sys 0.04
+14: Executing benchmark: 2mm_STANDARD
+real 16.21
+user 64.56
+sys 0.03
+15: Executing benchmark: 2mm_STANDARD
+real 16.12
+user 64.12
+sys 0.04
+FINISHED 2mm_STANDARD execution (16 times): Mon Jan  2 17:16:06 EET 2017

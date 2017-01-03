@@ -1,0 +1,36 @@
+l_bal/
+	1-stream_d0	31.77
+	2-3mm_STANDARD	121.62
+	3-ft.A	13.74
+	4-gesummv_STANDARD	31.27
+	5-syr2k_STANDARD	65.90
+	6-trisolv_STANDARD	32.64
+	7-durbin_STANDARD	50.30
+	8-stream_d0	30.26
+lca/
+	1-stream_d0	35.47
+	2-ft.A	18.12
+	3-gesummv_STANDARD	42.65
+	4-stream_d0	38.12
+	5-syr2k_STANDARD	65.96
+	6-3mm_STANDARD	100.85
+	7-durbin_STANDARD	39.99
+	8-trisolv_STANDARD	30.09
+linux/
+	1-stream_d0	28.36
+	2-stream_d0	27.37
+	3-ft.A	12.89
+	4-gesummv_STANDARD	27.17
+	5-syr2k_STANDARD	76.99
+	6-trisolv_STANDARD	25.64
+	7-3mm_STANDARD	94.11
+	8-durbin_STANDARD	66.68
+thbal/
+	1-stream_d0	28.78
+	2-stream_d0	28.73
+	3-ft.A	12.75
+	4-gesummv_STANDARD	27.49
+	5-syr2k_STANDARD	65.47
+	6-trisolv_STANDARD	26.81
+	7-3mm_STANDARD	59.26
+	8-durbin_STANDARD	12.13

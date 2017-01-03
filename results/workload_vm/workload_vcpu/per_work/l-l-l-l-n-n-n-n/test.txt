@@ -1,0 +1,36 @@
+l_bal/
+	1-jacLR	54.12
+	2-doitgen_STANDARD	68.01
+	3-stream_d0	30.50
+	4-doitgen_STANDARD	65.92
+	5-doitgen_STANDARD	68.18
+	6-jacLR	53.41
+	7-doitgen_STANDARD	67.61
+	8-stream_d0	29.83
+lca/
+	1-jacLR	53.85
+	2-doitgen_STANDARD	69.29
+	3-stream_d0	30.19
+	4-doitgen_STANDARD	66.99
+	5-doitgen_STANDARD	67.05
+	6-jacLR	54.30
+	7-doitgen_STANDARD	66.51
+	8-stream_d0	30.06
+linux/
+	1-jacLR	60.40
+	2-jacLR	61.42
+	3-stream_d0	29.58
+	4-stream_d0	29.53
+	5-doitgen_STANDARD	61.68
+	6-doitgen_STANDARD	61.28
+	7-doitgen_STANDARD	64.39
+	8-doitgen_STANDARD	61.61
+thbal/
+	1-jacLR	56.79
+	2-jacLR	57.18
+	3-stream_d0	33.24
+	4-stream_d0	32.63
+	5-doitgen_STANDARD	67.97
+	6-doitgen_STANDARD	67.39
+	7-doitgen_STANDARD	67.00
+	8-doitgen_STANDARD	68.19

@@ -1,0 +1,36 @@
+l_bal/
+	1-mvt_STANDARD	62.02
+	2-doitgen_STANDARD	60.78
+	3-cholesky_STANDARD	24.77
+	4-durbin_STANDARD	41.92
+	5-ep.A.g	43.72
+	6-gemm_STANDARD	94.66
+	7-doitgen_STANDARD	62.30
+	8-syr2k_STANDARD	65.89
+lca/
+	1-mvt_STANDARD	62.86
+	2-cholesky_STANDARD	26.08
+	3-durbin_STANDARD	42.71
+	4-syr2k_STANDARD	62.79
+	5-ep.A.g	43.74
+	6-doitgen_STANDARD	60.67
+	7-gemm_STANDARD	94.72
+	8-doitgen_STANDARD	61.14
+linux/
+	1-mvt_STANDARD	52.84
+	2-syr2k_STANDARD	58.84
+	3-cholesky_STANDARD	24.45
+	4-durbin_STANDARD	44.93
+	5-ep.A.g	38.66
+	6-gemm_STANDARD	80.14
+	7-doitgen_STANDARD	57.49
+	8-doitgen_STANDARD	57.95
+thbal/
+	1-mvt_STANDARD	46.50
+	2-syr2k_STANDARD	55.18
+	3-cholesky_STANDARD	21.79
+	4-durbin_STANDARD	13.78
+	5-ep.A.g	31.35
+	6-gemm_STANDARD	76.28
+	7-doitgen_STANDARD	45.14
+	8-doitgen_STANDARD	45.66

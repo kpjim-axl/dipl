@@ -1,0 +1,18 @@
+STARTING 3mm_STANDARD execution: Wed Dec 14 22:01:38 EET 2016
+0: Executing benchmark: 3mm_STANDARD
+real 113.32
+user 444.35
+sys 2.90
+1: Executing benchmark: 3mm_STANDARD
+real 114.73
+user 451.75
+sys 2.18
+2: Executing benchmark: 3mm_STANDARD
+real 115.35
+user 452.89
+sys 2.18
+3: Executing benchmark: 3mm_STANDARD
+real 115.95
+user 454.73
+sys 2.33
+FINISHED 3mm_STANDARD execution: Wed Dec 14 22:09:18 EET 2016

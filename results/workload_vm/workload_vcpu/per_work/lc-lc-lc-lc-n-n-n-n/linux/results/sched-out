@@ -1,0 +1,594 @@
+NUMA is available
+set memset to 0-3
+creating cpuset: /dev/cpuset/AFF_1000 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1000
+Shared memory initialized
+forking prog: id:1000 time:0 pid:0 cpuset:[] idpath:/AFF_1000 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm1/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33331-:22 -nographic -monitor /dev/null
+READY to execute:.. after fork with pid: 16825 
+READY to execute:.. after fork with pid: 0 
+/AFF_1000
+creating cpuset: /dev/cpuset/AFF_1001 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1001
+Shared memory initialized
+forking prog: id:1001 time:0 pid:0 cpuset:[] idpath:/AFF_1001 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm2/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33332-:22 -nographic -monitor /dev/null
+READY to execute:.. after fork with pid: 16827 
+READY to execute:.. after fork with pid: 0 
+/AFF_1001
+creating cpuset: /dev/cpuset/AFF_1002 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1002
+Shared memory initialized
+forking prog: id:1002 time:0 pid:0 cpuset:[] idpath:/AFF_1002 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm3/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33333-:22 -nographic -monitor /dev/null
+READY to execute:.. after fork with pid: 16829 
+READY to execute:.. after fork with pid: 0 
+/AFF_1002
+creating cpuset: /dev/cpuset/AFF_1003 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1003
+Shared memory initialized
+forking prog: id:1003 time:0 pid:0 cpuset:[] idpath:/AFF_1003 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm4/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33334-:22 -nographic -monitor /dev/null
+READY to execute:.. after fork with pid: 16831 
+READY to execute:.. after fork with pid: 0 
+/AFF_1003
+creating cpuset: /dev/cpuset/AFF_1004 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1004
+Shared memory initialized
+forking prog: id:1004 time:0 pid:0 cpuset:[] idpath:/AFF_1004 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm5/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33335-:22 -nographic -monitor /dev/null
+READY to execute:.. after fork with pid: 16833 
+READY to execute:.. after fork with pid: 0 
+/AFF_1004
+creating cpuset: /dev/cpuset/AFF_1005 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1005
+Shared memory initialized
+forking prog: id:1005 time:0 pid:0 cpuset:[] idpath:/AFF_1005 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm6/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33336-:22 -nographic -monitor /dev/null
+READY to execute:.. after fork with pid: 16835 
+READY to execute:.. after fork with pid: 0 
+/AFF_1005
+creating cpuset: /dev/cpuset/AFF_1006 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1006
+Shared memory initialized
+forking prog: id:1006 time:0 pid:0 cpuset:[] idpath:/AFF_1006 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm7/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33337-:22 -nographic -monitor /dev/null
+READY to execute:.. after fork with pid: 16837 
+READY to execute:.. after fork with pid: 0 
+/AFF_1006
+creating cpuset: /dev/cpuset/AFF_1007 with gid: 10000
+cpuset created
+Initializing shared memory of program with id 1007
+Shared memory initialized
+forking prog: id:1007 time:0 pid:0 cpuset:[] idpath:/AFF_1007 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm8/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33338-:22 -nographic -monitor /dev/null
+READY to execute:.. after fork with pid: 16839 
+READY to execute:.. after fork with pid: 0 
+/AFF_1007
+-----| Scheduler: linux CPUS: 0,1,2,3,4,5,6,7
+  STARTED RUNNING =>id:1000 time:0 pid:16826 cpuset:[0-7] idpath:/AFF_1000 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm1/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33331-:22 -nographic -monitor /dev/null
+  STARTED RUNNING =>id:1002 time:0 pid:16830 cpuset:[0-7] idpath:/AFF_1002 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm3/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33333-:22 -nographic -monitor /dev/null
+  STARTED RUNNING =>id:1006 time:0 pid:16838 cpuset:[0-7] idpath:/AFF_1006 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm7/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33337-:22 -nographic -monitor /dev/null
+  STARTED RUNNING =>id:1005 time:0 pid:16836 cpuset:[0-7] idpath:/AFF_1005 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm6/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33336-:22 -nographic -monitor /dev/null
+  STARTED RUNNING =>id:1007 time:0 pid:16840 cpuset:[0-7] idpath:/AFF_1007 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm8/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33338-:22 -nographic -monitor /dev/null
+  STARTED RUNNING =>id:1001 time:0 pid:16828 cpuset:[0-7] idpath:/AFF_1001 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm2/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33332-:22 -nographic -monitor /dev/null
+  STARTED RUNNING =>id:1003 time:0 pid:16832 cpuset:[0-7] idpath:/AFF_1003 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm4/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33334-:22 -nographic -monitor /dev/null
+  STARTED RUNNING =>id:1004 time:0 pid:16834 cpuset:[0-7] idpath:/AFF_1004 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm5/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33335-:22 -nographic -monitor /dev/null
+QUNTUM 0
+QUNTUM 1
+QUNTUM 2
+QUNTUM 3
+QUNTUM 4
+QUNTUM 5
+QUNTUM 6
+QUNTUM 7
+QUNTUM 8
+QUNTUM 9
+QUNTUM 10
+QUNTUM 11
+QUNTUM 12
+QUNTUM 13
+QUNTUM 14
+QUNTUM 15
+QUNTUM 16
+QUNTUM 17
+QUNTUM 18
+QUNTUM 19
+QUNTUM 20
+QUNTUM 21
+QUNTUM 22
+QUNTUM 23
+QUNTUM 24
+QUNTUM 25
+QUNTUM 26
+QUNTUM 27
+QUNTUM 28
+QUNTUM 29
+QUNTUM 30
+QUNTUM 31
+QUNTUM 32
+QUNTUM 33
+QUNTUM 34
+QUNTUM 35
+QUNTUM 36
+QUNTUM 37
+QUNTUM 38
+QUNTUM 39
+QUNTUM 40
+QUNTUM 41
+QUNTUM 42
+QUNTUM 43
+QUNTUM 44
+QUNTUM 45
+QUNTUM 46
+QUNTUM 47
+QUNTUM 48
+QUNTUM 49
+QUNTUM 50
+QUNTUM 51
+QUNTUM 52
+QUNTUM 53
+QUNTUM 54
+QUNTUM 55
+QUNTUM 56
+QUNTUM 57
+QUNTUM 58
+QUNTUM 59
+QUNTUM 60
+QUNTUM 61
+QUNTUM 62
+QUNTUM 63
+QUNTUM 64
+QUNTUM 65
+QUNTUM 66
+QUNTUM 67
+QUNTUM 68
+QUNTUM 69
+QUNTUM 70
+QUNTUM 71
+QUNTUM 72
+QUNTUM 73
+QUNTUM 74
+QUNTUM 75
+QUNTUM 76
+QUNTUM 77
+QUNTUM 78
+QUNTUM 79
+QUNTUM 80
+QUNTUM 81
+QUNTUM 82
+QUNTUM 83
+QUNTUM 84
+QUNTUM 85
+QUNTUM 86
+QUNTUM 87
+QUNTUM 88
+QUNTUM 89
+QUNTUM 90
+QUNTUM 91
+QUNTUM 92
+QUNTUM 93
+QUNTUM 94
+QUNTUM 95
+QUNTUM 96
+QUNTUM 97
+QUNTUM 98
+QUNTUM 99
+QUNTUM 100
+QUNTUM 101
+QUNTUM 102
+QUNTUM 103
+QUNTUM 104
+QUNTUM 105
+QUNTUM 106
+QUNTUM 107
+QUNTUM 108
+QUNTUM 109
+QUNTUM 110
+QUNTUM 111
+QUNTUM 112
+QUNTUM 113
+QUNTUM 114
+QUNTUM 115
+QUNTUM 116
+QUNTUM 117
+QUNTUM 118
+QUNTUM 119
+QUNTUM 120
+QUNTUM 121
+QUNTUM 122
+QUNTUM 123
+QUNTUM 124
+QUNTUM 125
+QUNTUM 126
+QUNTUM 127
+QUNTUM 128
+QUNTUM 129
+QUNTUM 130
+QUNTUM 131
+QUNTUM 132
+QUNTUM 133
+QUNTUM 134
+QUNTUM 135
+QUNTUM 136
+QUNTUM 137
+QUNTUM 138
+QUNTUM 139
+QUNTUM 140
+QUNTUM 141
+QUNTUM 142
+QUNTUM 143
+QUNTUM 144
+QUNTUM 145
+QUNTUM 146
+QUNTUM 147
+QUNTUM 148
+QUNTUM 149
+QUNTUM 150
+QUNTUM 151
+QUNTUM 152
+QUNTUM 153
+QUNTUM 154
+QUNTUM 155
+QUNTUM 156
+QUNTUM 157
+QUNTUM 158
+QUNTUM 159
+QUNTUM 160
+QUNTUM 161
+QUNTUM 162
+QUNTUM 163
+QUNTUM 164
+QUNTUM 165
+QUNTUM 166
+QUNTUM 167
+QUNTUM 168
+QUNTUM 169
+QUNTUM 170
+QUNTUM 171
+QUNTUM 172
+QUNTUM 173
+QUNTUM 174
+QUNTUM 175
+QUNTUM 176
+QUNTUM 177
+QUNTUM 178
+QUNTUM 179
+QUNTUM 180
+QUNTUM 181
+QUNTUM 182
+QUNTUM 183
+QUNTUM 184
+QUNTUM 185
+QUNTUM 186
+QUNTUM 187
+QUNTUM 188
+QUNTUM 189
+QUNTUM 190
+QUNTUM 191
+QUNTUM 192
+QUNTUM 193
+QUNTUM 194
+QUNTUM 195
+QUNTUM 196
+QUNTUM 197
+QUNTUM 198
+QUNTUM 199
+QUNTUM 200
+QUNTUM 201
+QUNTUM 202
+QUNTUM 203
+QUNTUM 204
+QUNTUM 205
+QUNTUM 206
+QUNTUM 207
+QUNTUM 208
+QUNTUM 209
+QUNTUM 210
+QUNTUM 211
+QUNTUM 212
+QUNTUM 213
+QUNTUM 214
+QUNTUM 215
+QUNTUM 216
+QUNTUM 217
+QUNTUM 218
+QUNTUM 219
+QUNTUM 220
+QUNTUM 221
+QUNTUM 222
+QUNTUM 223
+QUNTUM 224
+QUNTUM 225
+QUNTUM 226
+QUNTUM 227
+QUNTUM 228
+QUNTUM 229
+QUNTUM 230
+QUNTUM 231
+QUNTUM 232
+QUNTUM 233
+QUNTUM 234
+QUNTUM 235
+QUNTUM 236
+QUNTUM 237
+QUNTUM 238
+QUNTUM 239
+QUNTUM 240
+QUNTUM 241
+QUNTUM 242
+QUNTUM 243
+QUNTUM 244
+QUNTUM 245
+QUNTUM 246
+QUNTUM 247
+QUNTUM 248
+QUNTUM 249
+QUNTUM 250
+QUNTUM 251
+QUNTUM 252
+QUNTUM 253
+QUNTUM 254
+QUNTUM 255
+QUNTUM 256
+QUNTUM 257
+QUNTUM 258
+QUNTUM 259
+QUNTUM 260
+QUNTUM 261
+QUNTUM 262
+QUNTUM 263
+QUNTUM 264
+QUNTUM 265
+QUNTUM 266
+QUNTUM 267
+QUNTUM 268
+QUNTUM 269
+QUNTUM 270
+QUNTUM 271
+QUNTUM 272
+QUNTUM 273
+QUNTUM 274
+QUNTUM 275
+QUNTUM 276
+QUNTUM 277
+QUNTUM 278
+QUNTUM 279
+QUNTUM 280
+QUNTUM 281
+QUNTUM 282
+QUNTUM 283
+QUNTUM 284
+QUNTUM 285
+QUNTUM 286
+QUNTUM 287
+QUNTUM 288
+QUNTUM 289
+QUNTUM 290
+QUNTUM 291
+QUNTUM 292
+QUNTUM 293
+QUNTUM 294
+QUNTUM 295
+QUNTUM 296
+QUNTUM 297
+QUNTUM 298
+QUNTUM 299
+QUNTUM 300
+QUNTUM 301
+QUNTUM 302
+QUNTUM 303
+QUNTUM 304
+QUNTUM 305
+QUNTUM 306
+QUNTUM 307
+QUNTUM 308
+QUNTUM 309
+QUNTUM 310
+QUNTUM 311
+QUNTUM 312
+QUNTUM 313
+QUNTUM 314
+QUNTUM 315
+QUNTUM 316
+QUNTUM 317
+QUNTUM 318
+QUNTUM 319
+QUNTUM 320
+QUNTUM 321
+QUNTUM 322
+QUNTUM 323
+QUNTUM 324
+QUNTUM 325
+QUNTUM 326
+QUNTUM 327
+QUNTUM 328
+QUNTUM 329
+QUNTUM 330
+QUNTUM 331
+QUNTUM 332
+QUNTUM 333
+QUNTUM 334
+QUNTUM 335
+QUNTUM 336
+QUNTUM 337
+QUNTUM 338
+QUNTUM 339
+QUNTUM 340
+QUNTUM 341
+QUNTUM 342
+QUNTUM 343
+QUNTUM 344
+QUNTUM 345
+QUNTUM 346
+QUNTUM 347
+QUNTUM 348
+QUNTUM 349
+QUNTUM 350
+QUNTUM 351
+QUNTUM 352
+QUNTUM 353
+QUNTUM 354
+QUNTUM 355
+QUNTUM 356
+QUNTUM 357
+QUNTUM 358
+QUNTUM 359
+QUNTUM 360
+QUNTUM 361
+QUNTUM 362
+QUNTUM 363
+QUNTUM 364
+QUNTUM 365
+QUNTUM 366
+QUNTUM 367
+QUNTUM 368
+QUNTUM 369
+QUNTUM 370
+QUNTUM 371
+QUNTUM 372
+QUNTUM 373
+QUNTUM 374
+QUNTUM 375
+QUNTUM 376
+QUNTUM 377
+QUNTUM 378
+QUNTUM 379
+QUNTUM 380
+QUNTUM 381
+QUNTUM 382
+QUNTUM 383
+QUNTUM 384
+QUNTUM 385
+QUNTUM 386
+QUNTUM 387
+QUNTUM 388
+QUNTUM 389
+QUNTUM 390
+QUNTUM 391
+QUNTUM 392
+QUNTUM 393
+QUNTUM 394
+QUNTUM 395
+QUNTUM 396
+QUNTUM 397
+QUNTUM 398
+QUNTUM 399
+QUNTUM 400
+QUNTUM 401
+QUNTUM 402
+QUNTUM 403
+QUNTUM 404
+QUNTUM 405
+QUNTUM 406
+QUNTUM 407
+QUNTUM 408
+QUNTUM 409
+QUNTUM 410
+QUNTUM 411
+QUNTUM 412
+QUNTUM 413
+QUNTUM 414
+QUNTUM 415
+QUNTUM 416
+QUNTUM 417
+QUNTUM 418
+QUNTUM 419
+QUNTUM 420
+QUNTUM 421
+QUNTUM 422
+QUNTUM 423
+QUNTUM 424
+QUNTUM 425
+QUNTUM 426
+QUNTUM 427
+QUNTUM 428
+QUNTUM 429
+QUNTUM 430
+QUNTUM 431
+QUNTUM 432
+QUNTUM 433
+QUNTUM 434
+QUNTUM 435
+QUNTUM 436
+QUNTUM 437
+QUNTUM 438
+QUNTUM 439
+QUNTUM 440
+QUNTUM 441
+QUNTUM 442
+QUNTUM 443
+QUNTUM 444
+QUNTUM 445
+QUNTUM 446
+QUNTUM 447
+QUNTUM 448
+QUNTUM 449
+QUNTUM 450
+QUNTUM 451
+QUNTUM 452
+QUNTUM 453
+QUNTUM 454
+QUNTUM 455
+QUNTUM 456
+QUNTUM 457
+QUNTUM 458
+QUNTUM 459
+QUNTUM 460
+QUNTUM 461
+QUNTUM 462
+QUNTUM 463
+QUNTUM 464
+QUNTUM 465
+QUNTUM 466
+QUNTUM 467
+QUNTUM 468
+QUNTUM 469
+QUNTUM 470
+QUNTUM 471
+QUNTUM 472
+QUNTUM 473
+QUNTUM 474
+QUNTUM 475
+QUNTUM 476
+QUNTUM 477
+QUNTUM 478
+QUNTUM 479
+SIGCHLD for pid=16835
+Normal exit [status:0] [secs:480.483140] [ticks:1057543391814] id:1005 time:0 pid:16836 cpuset:[0-7] idpath:/AFF_1005 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm6/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33336-:22 -nographic -monitor /dev/null
+Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm6/debian$ secs: $ 480483 $ cpu:$520864 
+ QUNTUM 480
+SIGCHLD for pid=16833
+Normal exit [status:0] [secs:481.932539] [ticks:1060733517947] id:1004 time:0 pid:16834 cpuset:[0-7] idpath:/AFF_1004 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm5/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33335-:22 -nographic -monitor /dev/null
+Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm5/debian$ secs: $ 481933 $ cpu:$525141 
+ QUNTUM 481
+QUNTUM 482
+QUNTUM 483
+QUNTUM 484
+SIGCHLD for pid=16825
+Normal exit [status:0] [secs:486.074585] [ticks:1069850161028] id:1000 time:0 pid:16826 cpuset:[0-7] idpath:/AFF_1000 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm1/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33331-:22 -nographic -monitor /dev/null
+Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm1/debian$ secs: $ 486075 $ cpu:$359744 
+ QUNTUM 485
+QUNTUM 486
+QUNTUM 487
+SIGCHLD for pid=16831
+Normal exit [status:0] [secs:488.421203] [ticks:1075015067515] id:1003 time:0 pid:16832 cpuset:[0-7] idpath:/AFF_1003 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm4/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33334-:22 -nographic -monitor /dev/null
+Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm4/debian$ secs: $ 488421 $ cpu:$558488 
+ SIGCHLD for pid=16837
+Normal exit [status:0] [secs:489.121124] [ticks:1076555594561] id:1006 time:0 pid:16838 cpuset:[0-7] idpath:/AFF_1006 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm7/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33337-:22 -nographic -monitor /dev/null
+Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm7/debian$ secs: $ 489121 $ cpu:$519671 
+ QUNTUM 488
+QUNTUM 489
+SIGCHLD for pid=16839
+Normal exit [status:0] [secs:490.578039] [ticks:1079762264402] id:1007 time:0 pid:16840 cpuset:[0-7] idpath:/AFF_1007 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm8/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33338-:22 -nographic -monitor /dev/null
+Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm8/debian$ secs: $ 490578 $ cpu:$520575 
+ SIGCHLD for pid=16829
+Normal exit [status:0] [secs:490.708706] [ticks:1080049861712] id:1002 time:0 pid:16830 cpuset:[0-7] idpath:/AFF_1002 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm3/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33333-:22 -nographic -monitor /dev/null
+Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm3/debian$ secs: $ 490709 $ cpu:$411222 
+ QUNTUM 490
+QUNTUM 491
+QUNTUM 492
+QUNTUM 493
+SIGCHLD for pid=16827
+Normal exit [status:0] [secs:494.651946] [ticks:1088728933373] id:1001 time:0 pid:16828 cpuset:[0-7] idpath:/AFF_1001 cmd:qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm2/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33332-:22 -nographic -monitor /dev/null
+Normal PROGRAM EXIT: $qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm2/debian$ secs: $ 494652 $ cpu:$445229 
+ 

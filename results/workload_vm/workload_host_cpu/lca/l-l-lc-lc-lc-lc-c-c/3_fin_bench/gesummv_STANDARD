@@ -1,0 +1,46 @@
+STARTING gesummv_STANDARD execution: Tue Jan  3 14:49:38 EET 2017
+0: Executing benchmark: gesummv_STANDARD
+real 40.79
+user 73.76
+sys 1.96
+1: Executing benchmark: gesummv_STANDARD
+real 44.07
+user 67.61
+sys 2.35
+2: Executing benchmark: gesummv_STANDARD
+real 44.08
+user 67.69
+sys 2.35
+3: Executing benchmark: gesummv_STANDARD
+real 44.12
+user 85.33
+sys 2.80
+4: Executing benchmark: gesummv_STANDARD
+real 43.95
+user 85.22
+sys 2.57
+5: Executing benchmark: gesummv_STANDARD
+real 43.62
+user 67.66
+sys 1.78
+6: Executing benchmark: gesummv_STANDARD
+real 44.00
+user 73.36
+sys 2.68
+7: Executing benchmark: gesummv_STANDARD
+real 41.11
+user 73.54
+sys 2.57
+8: Executing benchmark: gesummv_STANDARD
+real 41.06
+user 73.64
+sys 2.44
+9: Executing benchmark: gesummv_STANDARD
+real 44.12
+user 76.36
+sys 2.72
+10: Executing benchmark: gesummv_STANDARD
+real 43.35
+user 69.89
+sys 1.90
+FINISHED gesummv_STANDARD execution (11 times): Tue Jan  3 14:57:36 EET 2017
