@@ -262,6 +262,7 @@
 % Required packages
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \RequirePackage{graphicx}
+\RequirePackage{wrapfig}
 \RequirePackage{fontspec}
 \RequirePackage{xunicode}
 \RequirePackage{xltxtra}
@@ -297,7 +298,7 @@
 \if@greek
 \newfontfamily\greekfont{\font@roman}
 \newfontfamily\greekfontsf[Scale=MatchLowercase]{\font@sans}
-\newfontfamily\greekfonttt[Script=greek,Scale=MatchLowercase]{\font@tt}
+\newfontfamily\greekfonttt[Script=grek,Scale=MatchLowercase]{\font@tt}
 %\newfontfamily\greekfont{Times New Roman}
 %\newfontfamily\greekfont[Script=grek]{Liberation Serif}
 %\newfontfamily\greekfontsf[Scale=MatchLowercase]{Arial}
@@ -309,6 +310,7 @@
 \setdefaultlanguage{english}
 \fi
 
+\graphicspath{ {images/} }
 % Headings
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \if@twoside
