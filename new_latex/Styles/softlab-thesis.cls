@@ -298,7 +298,7 @@
 \if@greek
 \newfontfamily\greekfont{\font@roman}
 \newfontfamily\greekfontsf[Scale=MatchLowercase]{\font@sans}
-\newfontfamily\greekfonttt[Script=grek,Scale=MatchLowercase]{\font@tt}
+\newfontfamily\greekfonttt[Script=Greek,Scale=MatchLowercase]{\font@tt}
 %\newfontfamily\greekfont{Times New Roman}
 %\newfontfamily\greekfont[Script=grek]{Liberation Serif}
 %\newfontfamily\greekfontsf[Scale=MatchLowercase]{Arial}
