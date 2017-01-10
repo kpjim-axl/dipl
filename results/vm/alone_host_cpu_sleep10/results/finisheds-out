@@ -1,0 +1,2 @@
+PID 	$CMD 	$TIME 	$IPC 	$MEM_INT 	$L1 BW 	$L2 BW 	$L3 BW 	$L2 REUSE 	$L3 REUSE 	$GANG    
+35998 	$/home/users/kpapad/qemu/qemu_bin/bin/qemu-system-x86_64 -enable-kvm -m 16G -smp 4 ~/images/kpjim_vm1/debian.img -net nic -net user,hostfwd=tcp:0.0.0.0:33331-:22 -nographic -monitor /dev/null -cpu host 	$4633935 	$0.002820 	$1117356298457312.875000 	$20.912456 	$12.505872 	$2.191528 	$    15.22 	$ 24417.45 	$ 1 	$ 4619   
